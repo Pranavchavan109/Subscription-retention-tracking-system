@@ -1,0 +1,2001 @@
+customer_id,full_name,email,phone,city,age,gender,signup_date,referral_source
+CUST00001,Pratyush Bhandari,aryan71@example.net,+917245477896,Mumbai,25,Other,2023-10-17,Friend Referral
+CUST00002,Bishakha Vyas,enayak@example.net,+913219368946,Delhi,32,Other,2022-09-08,Organic
+CUST00003,Shivani Boase,charanbora@example.org,2299122601,Pune,52,Other,2023-11-24,Ad Campaign
+CUST00004,Chakrika Parikh,ikbal32@example.org,9159120279,Pune,19,Male,2022-02-02,Social Media
+CUST00005,Oviya Verma,buchzayyan@example.net,+912412186001,Mumbai,56,Other,2023-06-02,Social Media
+CUST00006,Bhavani Khanna,xmodi@example.org,+910856091862,Jaipur,59,Female,2024-01-04,Social Media
+CUST00007,Hitesh Karpe,dsaini@example.net,+919885317278,Hyderabad,55,Male,2023-04-05,Social Media
+CUST00008,Harshil Shere,laban11@example.org,03695580365,Chennai,45,Female,2023-12-16,Social Media
+CUST00009,Tejas Behl,wbrar@example.org,3836110121,Pune,39,Male,2022-08-09,Ad Campaign
+CUST00010,Hitesh Sankaran,alkasule@example.com,+912417541927,Chennai,40,Other,2022-04-10,Friend Referral
+CUST00011,Om Bhatia,garima56@example.com,+912347326855,Ahmedabad,20,Other,2024-04-06,Organic
+CUST00012,Megha Jhaveri,dixitcharles@example.com,05950061313,Jaipur,23,Female,2023-01-23,Influencer
+CUST00013,Yashica Bhatt,nmistry@example.com,00747352632,Lucknow,41,Male,2024-06-25,Organic
+CUST00014,Deepa Wadhwa,wbakshi@example.org,+918906453455,Bangalore,60,Female,2022-02-16,Organic
+CUST00015,Krisha Vohra,rajeshrihans@example.com,+918821020322,Pune,32,Female,2024-05-25,Friend Referral
+CUST00016,Ikbal Rajagopal,rastogipratyush@example.com,08946601334,Chennai,58,Male,2023-04-10,Friend Referral
+CUST00017,Saumya Lal,mmandal@example.org,4822233606,Hyderabad,31,Other,2022-12-30,Organic
+CUST00018,Omkaar Gupta,geetika44@example.org,2021221680,Delhi,58,Other,2023-09-16,Social Media
+CUST00019,George Ram,tedwin@example.net,5624491440,Kolkata,47,Female,2022-06-17,Influencer
+CUST00020,Farhan Sachar,obhat@example.net,2004851482,Mumbai,38,Male,2022-08-13,Organic
+CUST00021,Faras Gola,duttadaksha@example.org,+919800733009,Kolkata,38,Female,2024-04-04,Organic
+CUST00022,Darika Chand,tanvi10@example.org,+910258061935,Chennai,54,Male,2022-08-05,Ad Campaign
+CUST00023,Jagrati Chopra,wriddhish00@example.net,+910012960416,Ahmedabad,59,Male,2023-02-10,Friend Referral
+CUST00024,Qarin Dhaliwal,wbandi@example.org,+914245825400,Jaipur,33,Other,2022-05-23,Friend Referral
+CUST00025,Darika Gole,swarrior@example.net,+918208114680,Kolkata,55,Other,2024-02-04,Ad Campaign
+CUST00026,Samuel Nadkarni,tellarehaan@example.org,1342229887,Delhi,32,Other,2023-01-06,Ad Campaign
+CUST00027,Deepa Swamy,azaan78@example.org,+913474374605,Pune,21,Male,2022-04-04,Social Media
+CUST00028,Vinaya Ratti,janya87@example.net,01606051065,Lucknow,45,Male,2024-03-22,Ad Campaign
+CUST00029,Gaurangi Ramaswamy,suleridhi@example.org,04817679350,Ahmedabad,56,Other,2023-01-26,Friend Referral
+CUST00030,Idika Bose,yashawini47@example.org,+914311112653,Pune,18,Other,2023-07-21,Influencer
+CUST00031,Nakul Choudhary,ggarde@example.com,+919245160934,Chennai,35,Male,2024-02-08,Friend Referral
+CUST00032,Om Varma,champak26@example.org,03105209288,Ahmedabad,28,Male,2023-03-22,Friend Referral
+CUST00033,Raghav Bora,wagarwal@example.net,5115463551,Jaipur,29,Male,2023-05-28,Friend Referral
+CUST00034,Adweta Pant,champak52@example.net,01061348848,Jaipur,58,Other,2024-05-11,Social Media
+CUST00035,Yashodhara Mukherjee,abdulnarula@example.com,01059170863,Delhi,41,Other,2022-06-06,Influencer
+CUST00036,Jeremiah Lall,anvibaral@example.net,+914770250198,Chennai,56,Female,2022-01-01,Organic
+CUST00037,Sneha Pal,irya01@example.com,3051487575,Hyderabad,41,Male,2022-04-25,Organic
+CUST00038,Vedhika Sen,jatinsuri@example.net,06794932251,Pune,54,Male,2022-09-04,Ad Campaign
+CUST00039,Bhavika Krishnamurthy,hloyal@example.net,1074150291,Jaipur,22,Male,2024-04-15,Social Media
+CUST00040,Nirja Dhar,imody@example.org,+915993195829,Jaipur,48,Male,2023-11-07,Friend Referral
+CUST00041,Rachita Srinivas,mkar@example.org,06341916982,Kolkata,56,Male,2023-06-25,Influencer
+CUST00042,Suhani Chad,mahikatoor@example.net,+911988469988,Hyderabad,30,Female,2024-02-13,Friend Referral
+CUST00043,Vihaan Ganesan,mbhatt@example.org,3730260350,Ahmedabad,51,Male,2023-03-25,Social Media
+CUST00044,Chaaya Chanda,devanowen@example.org,3205038402,Chennai,22,Male,2022-08-19,Influencer
+CUST00045,Anthony Bedi,charvi84@example.com,+917120208715,Lucknow,32,Male,2023-07-22,Organic
+CUST00046,Bhavani Mane,naraingaurav@example.org,7237843711,Mumbai,58,Male,2022-03-14,Organic
+CUST00047,Ishwar Hora,harish44@example.org,00398909999,Pune,39,Other,2022-02-02,Social Media
+CUST00048,Priya Dasgupta,kamyamane@example.org,09971925622,Ahmedabad,60,Male,2022-10-13,Influencer
+CUST00049,Ojas Natarajan,virajdhaliwal@example.org,+914627442344,Lucknow,54,Female,2022-05-16,Social Media
+CUST00050,Urmi Radhakrishnan,upasnabhandari@example.net,5602530092,Kolkata,48,Male,2024-03-14,Organic
+CUST00051,Saanvi Bains,vedantbassi@example.org,2849623865,Kolkata,60,Female,2022-04-10,Ad Campaign
+CUST00052,Yauvani Subramanian,vedakuruvilla@example.com,0162738177,Mumbai,47,Other,2023-02-25,Organic
+CUST00053,Guneet Chakraborty,sandhuniharika@example.net,00501273878,Chennai,43,Male,2022-03-04,Social Media
+CUST00054,Aarnav Menon,yachana64@example.com,+918433146017,Jaipur,30,Female,2022-07-16,Social Media
+CUST00055,Ryan Dhar,vhora@example.org,+910811652083,Hyderabad,29,Female,2023-03-09,Social Media
+CUST00056,Farhan Dyal,annedaksha@example.org,+916374382892,Ahmedabad,22,Other,2024-06-14,Organic
+CUST00057,Kai Shankar,kashyapbhavya@example.org,08523500694,Jaipur,59,Male,2022-02-21,Organic
+CUST00058,Nikita Dave,harinisarkar@example.org,1282871425,Delhi,33,Female,2024-02-11,Ad Campaign
+CUST00059,Zayan Garg,karan64@example.net,06961922380,Kolkata,31,Male,2023-05-08,Social Media
+CUST00060,Daniel Taneja,parikhabhimanyu@example.net,09880054961,Kolkata,18,Female,2023-01-24,Ad Campaign
+CUST00061,Urvashi Gopal,nazarethdaksha@example.org,03281986081,Jaipur,45,Other,2022-10-20,Ad Campaign
+CUST00062,Leela Dani,tlala@example.net,+912324179769,Hyderabad,30,Male,2022-06-08,Organic
+CUST00063,Udyati Raghavan,hrajagopalan@example.com,04372769682,Mumbai,52,Other,2023-08-17,Friend Referral
+CUST00064,Garima Kapur,xoza@example.net,02959608160,Lucknow,21,Female,2022-02-28,Influencer
+CUST00065,Mohammed Jain,gaurisanghvi@example.net,05093424221,Delhi,51,Male,2024-05-23,Influencer
+CUST00066,Panini Prabhu,ladgautami@example.org,0277683474,Pune,29,Other,2022-03-24,Organic
+CUST00067,Devansh Hayer,zashilsane@example.org,6638830636,Kolkata,33,Male,2023-11-23,Influencer
+CUST00068,Qabil Dhaliwal,kalajagat@example.net,7349580883,Lucknow,55,Male,2022-09-10,Influencer
+CUST00069,Max Chopra,gbansal@example.com,+915138695353,Lucknow,44,Other,2022-03-25,Influencer
+CUST00070,Nirja Patel,tamanna08@example.net,00076665163,Bangalore,34,Other,2022-11-20,Friend Referral
+CUST00071,Anya Prabhakar,vbumb@example.org,07605893652,Kolkata,34,Male,2022-09-02,Friend Referral
+CUST00072,Neha Zacharia,aarnavsuri@example.org,+917882730156,Pune,38,Male,2023-04-14,Ad Campaign
+CUST00073,Akshay Chakraborty,mchakraborty@example.net,4340603832,Pune,54,Male,2023-09-29,Influencer
+CUST00074,Panini Kala,geramahika@example.com,+911216177063,Hyderabad,50,Male,2022-08-07,Friend Referral
+CUST00075,Hredhaan Loke,omaja61@example.net,+913134448044,Bangalore,22,Female,2024-06-21,Friend Referral
+CUST00076,Garima Chawla,krishnachiket@example.com,03449471035,Jaipur,46,Other,2022-06-11,Friend Referral
+CUST00077,Samar Kulkarni,zaitra57@example.com,03961348014,Jaipur,59,Male,2023-09-19,Influencer
+CUST00078,Umang Tailor,mekhalarai@example.net,08162189599,Pune,60,Male,2022-11-03,Friend Referral
+CUST00079,Panini Sethi,handatristan@example.org,06999501494,Jaipur,24,Male,2022-04-29,Friend Referral
+CUST00080,Vyanjana Mani,rohanparsa@example.net,+913350443299,Bangalore,56,Other,2022-10-16,Friend Referral
+CUST00081,Yauvani Patla,ksalvi@example.net,03920324982,Hyderabad,58,Other,2022-07-28,Ad Campaign
+CUST00082,Gautami Barad,lkala@example.net,01815989055,Pune,21,Other,2022-09-15,Ad Campaign
+CUST00083,Avni Goswami,vrindagrewal@example.net,+917414433914,Mumbai,35,Male,2024-04-29,Friend Referral
+CUST00084,Tripti Sura,manikamya@example.com,+910127563520,Hyderabad,26,Male,2024-02-29,Ad Campaign
+CUST00085,Liam Lad,divanijaya@example.net,06949320650,Jaipur,45,Male,2023-07-19,Organic
+CUST00086,Harsh Gole,mmammen@example.net,+913903946719,Jaipur,27,Male,2022-03-19,Friend Referral
+CUST00087,Wakeeta Behl,bhagatryan@example.com,7854709193,Delhi,53,Female,2023-08-20,Social Media
+CUST00088,Vasatika Gupta,dugalprisha@example.com,04253533552,Chennai,37,Male,2022-02-12,Friend Referral
+CUST00089,Anmol Subramaniam,semgautam@example.net,+915257725102,Pune,33,Female,2022-08-04,Influencer
+CUST00090,Yatin Sibal,karansachdeva@example.net,+912647466100,Lucknow,44,Other,2024-06-24,Social Media
+CUST00091,Sanaya Gole,narainwaida@example.net,7196499532,Delhi,28,Female,2022-08-31,Organic
+CUST00092,Yatan Bhatia,sahotagirish@example.net,03282545342,Kolkata,39,Other,2022-07-03,Social Media
+CUST00093,Gaurika Bera,baradamaira@example.com,+915264847200,Pune,28,Female,2022-10-01,Organic
+CUST00094,Riya Bali,dominic83@example.org,05844487175,Bangalore,48,Male,2024-05-29,Ad Campaign
+CUST00095,Imaran Sekhon,issacmohammed@example.org,+918432805900,Bangalore,37,Male,2022-12-25,Organic
+CUST00096,Baljiwan Oommen,magarcaleb@example.net,+918763801447,Kolkata,30,Female,2023-11-07,Friend Referral
+CUST00097,Zarna Kala,gangasrivastava@example.com,+913796974698,Hyderabad,22,Female,2024-06-04,Influencer
+CUST00098,Bhanumati Cheema,dubeeta@example.com,1321110083,Chennai,52,Male,2023-02-14,Organic
+CUST00099,Hiral Memon,jairajmanda@example.com,3121675199,Delhi,34,Other,2024-06-17,Friend Referral
+CUST00100,Rachana Pandit,mitalibuch@example.net,+910448870460,Lucknow,24,Female,2022-02-09,Friend Referral
+CUST00101,Patrick Arora,adityaaurora@example.com,9816767725,Kolkata,38,Other,2024-01-17,Influencer
+CUST00102,Ojasvi Kohli,yashica77@example.com,07196685249,Lucknow,42,Male,2022-04-29,Friend Referral
+CUST00103,Jack Raja,liambarman@example.org,+911002483944,Mumbai,45,Other,2022-02-15,Influencer
+CUST00104,Girish Rana,behlijaya@example.com,05751141533,Bangalore,60,Female,2023-12-05,Ad Campaign
+CUST00105,Anthony Savant,apalla@example.org,9670241953,Chennai,60,Other,2022-03-13,Friend Referral
+CUST00106,Viraj Salvi,harinibava@example.org,06580340570,Hyderabad,25,Other,2023-11-11,Friend Referral
+CUST00107,Anya Buch,ptoor@example.net,5019562983,Chennai,44,Female,2023-11-14,Friend Referral
+CUST00108,Madhavi Vig,reyansh50@example.org,+919557837867,Bangalore,26,Female,2023-07-22,Ad Campaign
+CUST00109,Bhavini Bahl,shererajata@example.net,07074746448,Lucknow,29,Other,2023-11-25,Friend Referral
+CUST00110,Kevin Patel,devika44@example.org,6617924463,Mumbai,53,Female,2023-02-20,Friend Referral
+CUST00111,Viraj Pandya,thomassachdeva@example.org,+919937858566,Lucknow,45,Other,2022-08-04,Friend Referral
+CUST00112,Eesha Dara,dhaliwalrehaan@example.net,0139654952,Ahmedabad,46,Other,2023-04-22,Social Media
+CUST00113,Veer Chaudry,kashviraman@example.com,01844617881,Delhi,48,Other,2023-06-08,Organic
+CUST00114,Kiaan Vyas,kevinbatta@example.net,03539009163,Lucknow,50,Female,2022-10-18,Organic
+CUST00115,Pahal Pandit,nidra55@example.com,05690676579,Hyderabad,33,Male,2024-04-18,Social Media
+CUST00116,Imaran Agrawal,alad@example.org,+917734503887,Mumbai,19,Male,2022-05-31,Ad Campaign
+CUST00117,Jonathan Kale,wdutt@example.net,3422411313,Ahmedabad,22,Female,2023-09-18,Influencer
+CUST00118,Neel Narasimhan,kashvi34@example.org,5838375868,Ahmedabad,42,Female,2022-07-19,Social Media
+CUST00119,Faqid Shenoy,tsundaram@example.org,+919647100817,Mumbai,59,Male,2022-06-01,Ad Campaign
+CUST00120,Anya Sethi,sarrafyachana@example.org,5292381393,Jaipur,29,Female,2022-08-13,Organic
+CUST00121,Darika Bhakta,vohrabakhshi@example.org,9296157453,Pune,33,Female,2023-07-25,Social Media
+CUST00122,David Dua,jonathanpillay@example.net,04815158482,Jaipur,47,Other,2024-03-31,Influencer
+CUST00123,Advika Bhavsar,qushi52@example.org,09699481290,Lucknow,46,Other,2022-11-21,Influencer
+CUST00124,Siddharth Chaudhry,tamannasodhi@example.org,05094862713,Ahmedabad,53,Male,2023-03-13,Ad Campaign
+CUST00125,Gaurangi Pradhan,gbhattacharyya@example.com,1437289455,Bangalore,34,Other,2023-04-06,Friend Referral
+CUST00126,Wyatt Virk,minhasarin@example.com,03851723694,Ahmedabad,51,Other,2024-02-24,Social Media
+CUST00127,Varenya Merchant,odani@example.net,0593510984,Pune,46,Other,2022-10-09,Friend Referral
+CUST00128,Tejas Raju,hsubramanian@example.com,+915136115949,Chennai,35,Female,2022-08-29,Influencer
+CUST00129,Sanya Kapur,zmalhotra@example.com,7243147827,Delhi,26,Male,2022-03-24,Ad Campaign
+CUST00130,Janani D’Alia,xpal@example.net,1285747028,Bangalore,27,Male,2023-12-12,Ad Campaign
+CUST00131,Bakhshi Bhatt,yamini64@example.com,+910252119908,Jaipur,39,Female,2023-02-22,Ad Campaign
+CUST00132,Triya Dugar,neel14@example.com,3589223805,Kolkata,31,Female,2022-03-05,Influencer
+CUST00133,Yadavi Borde,eeshasur@example.com,0207623296,Lucknow,19,Female,2023-12-14,Ad Campaign
+CUST00134,Daksh Divan,kbhattacharyya@example.com,+915391751547,Hyderabad,40,Female,2022-01-07,Ad Campaign
+CUST00135,Falguni Chacko,chaitalyramaswamy@example.net,0382293517,Lucknow,52,Male,2023-07-06,Ad Campaign
+CUST00136,Eesha Murty,upadmanabhan@example.com,+915565588636,Kolkata,35,Female,2022-08-13,Organic
+CUST00137,Aashi Batta,ldubey@example.net,09055089131,Kolkata,39,Other,2023-02-03,Social Media
+CUST00138,Geetika Badami,vartyria@example.org,+917105456117,Delhi,47,Other,2024-05-10,Influencer
+CUST00139,Faris Suresh,karanleena@example.com,+913965136729,Lucknow,43,Other,2022-01-28,Organic
+CUST00140,Kamala Gara,harrison09@example.com,7582840990,Kolkata,59,Male,2022-03-27,Ad Campaign
+CUST00141,Barkha Panchal,mekhalabahl@example.net,2221626453,Hyderabad,21,Female,2022-07-06,Friend Referral
+CUST00142,Megha Dugal,ramazayan@example.net,5539867312,Chennai,47,Female,2022-08-05,Ad Campaign
+CUST00143,Laksh Modi,bhavyamandal@example.net,+915897071151,Hyderabad,44,Male,2022-10-12,Ad Campaign
+CUST00144,Janani Chand,arunima22@example.com,8359981679,Mumbai,52,Female,2022-01-20,Social Media
+CUST00145,Michael Dugar,gulatigavin@example.com,8015400628,Mumbai,22,Male,2023-10-28,Social Media
+CUST00146,Gabriel Brar,ganesanojasvi@example.com,5633492792,Lucknow,19,Male,2022-07-24,Social Media
+CUST00147,Yutika Kapoor,dmittal@example.net,+911047801855,Pune,48,Other,2022-05-10,Social Media
+CUST00148,Zaid Swamy,vincent62@example.com,+912691642643,Chennai,34,Male,2023-04-22,Influencer
+CUST00149,Vincent Bhakta,neha58@example.net,+918263435410,Delhi,25,Female,2023-09-14,Organic
+CUST00150,Anvi Shenoy,ochandra@example.com,+911657322201,Hyderabad,19,Other,2023-08-16,Ad Campaign
+CUST00151,Vedhika Vora,loganzacharia@example.net,03097777190,Pune,30,Other,2023-02-11,Social Media
+CUST00152,Nakul Vala,dcomar@example.net,+917195169794,Lucknow,37,Male,2022-04-15,Influencer
+CUST00153,Qasim Rao,samesh94@example.org,01819127009,Chennai,20,Other,2024-03-12,Ad Campaign
+CUST00154,Anmol Datta,ekta72@example.org,02459035070,Pune,41,Other,2023-11-09,Friend Referral
+CUST00155,Sachi Ramakrishnan,yochana32@example.com,4723435163,Ahmedabad,44,Male,2022-01-13,Ad Campaign
+CUST00156,Chavvi Babu,zashil49@example.org,6285191786,Ahmedabad,58,Other,2023-01-06,Social Media
+CUST00157,Lajita Choudhury,aryan14@example.org,06245284709,Jaipur,29,Other,2023-03-22,Friend Referral
+CUST00158,Aradhana Kaul,girishnarula@example.org,05582494578,Ahmedabad,52,Female,2023-09-23,Ad Campaign
+CUST00159,Tristan Reddy,krao@example.org,+915531841574,Hyderabad,55,Female,2024-04-25,Social Media
+CUST00160,Garima Khare,ikothari@example.com,04016256068,Hyderabad,23,Female,2024-04-30,Social Media
+CUST00161,Baghyawati Gala,umang95@example.org,9128040946,Lucknow,47,Other,2024-02-08,Ad Campaign
+CUST00162,Umang Lala,krishna66@example.net,04121428271,Ahmedabad,19,Female,2022-12-11,Social Media
+CUST00163,Zansi Yadav,triveni59@example.com,2063709765,Chennai,31,Female,2023-05-15,Friend Referral
+CUST00164,Bachittar Kapur,dnadkarni@example.com,0697004018,Hyderabad,56,Other,2022-10-14,Organic
+CUST00165,Darpan Din,tpillai@example.net,5652921175,Pune,30,Male,2023-06-14,Ad Campaign
+CUST00166,Arya Nadkarni,modiorinder@example.org,8905316084,Bangalore,53,Other,2023-05-16,Ad Campaign
+CUST00167,Aarna Bhalla,bchakrabarti@example.org,+912537693152,Ahmedabad,49,Male,2023-10-24,Organic
+CUST00168,Nitara Kunda,khatrilajita@example.com,+912615766941,Kolkata,32,Other,2022-10-29,Social Media
+CUST00169,Charvi Varma,hamsinidada@example.org,3564579228,Lucknow,60,Female,2022-11-10,Ad Campaign
+CUST00170,Krishna Batra,bhavna38@example.net,7357814869,Chennai,51,Female,2023-07-21,Influencer
+CUST00171,Devika Sodhi,hredhaan79@example.com,2748532330,Ahmedabad,40,Female,2022-12-05,Friend Referral
+CUST00172,Ayush Subramanian,nigamneelima@example.org,4628441724,Pune,32,Other,2022-09-15,Social Media
+CUST00173,Dayita Lad,naksh33@example.com,3075111955,Jaipur,25,Other,2022-11-20,Social Media
+CUST00174,Rajata Balan,yben@example.org,+914695352970,Ahmedabad,31,Female,2022-07-16,Influencer
+CUST00175,Oni Prakash,ishanvi31@example.com,07715780506,Lucknow,51,Female,2024-02-18,Organic
+CUST00176,Mohini Balasubramanian,bvarkey@example.com,+916177360692,Hyderabad,30,Male,2024-05-02,Friend Referral
+CUST00177,Yatin Reddy,xavierbala@example.com,+913016756170,Mumbai,37,Other,2022-07-03,Influencer
+CUST00178,Dev Tak,xdora@example.org,00538522775,Mumbai,35,Male,2022-05-10,Influencer
+CUST00179,Pushti Chandra,wridesh09@example.com,02306354078,Ahmedabad,26,Male,2022-10-27,Organic
+CUST00180,Girish Sekhon,farajdeol@example.org,1603396726,Ahmedabad,36,Female,2023-08-11,Ad Campaign
+CUST00181,Wakeeta Bumb,andrewsunder@example.net,04823637155,Mumbai,29,Female,2022-12-15,Ad Campaign
+CUST00182,Maya Dayal,rushil18@example.org,+910014651619,Kolkata,22,Female,2022-04-27,Organic
+CUST00183,Lakshit Kumer,ftak@example.com,+917462178233,Mumbai,58,Male,2023-08-14,Social Media
+CUST00184,Ayaan Boase,abhavsar@example.net,+917445592512,Hyderabad,54,Male,2024-04-10,Social Media
+CUST00185,Atharv Mammen,jhalakdhillon@example.net,+917799768236,Kolkata,53,Other,2022-05-02,Influencer
+CUST00186,Aryan Karnik,ojasvi77@example.org,4037942063,Bangalore,57,Other,2024-03-20,Ad Campaign
+CUST00187,Liam Varughese,kevinkapoor@example.com,08671358250,Hyderabad,46,Other,2023-04-07,Ad Campaign
+CUST00188,Zayyan Bhandari,atharv01@example.net,2127722889,Lucknow,54,Male,2022-11-09,Influencer
+CUST00189,Benjamin Tandon,emistry@example.org,+916691540247,Bangalore,24,Other,2024-01-28,Social Media
+CUST00190,Jai Gera,tanayzacharia@example.org,4220991712,Pune,60,Male,2022-09-28,Social Media
+CUST00191,Kalpit Dugar,anjalidoshi@example.org,07211279179,Pune,53,Male,2022-06-27,Organic
+CUST00192,Aarna Mangat,unni49@example.net,07399792264,Lucknow,46,Female,2023-02-23,Friend Referral
+CUST00193,Frederick Sangha,michael10@example.net,7783898706,Hyderabad,32,Other,2022-02-03,Friend Referral
+CUST00194,Aradhana Bhatia,kalpit15@example.com,+919949360606,Pune,47,Other,2023-12-21,Social Media
+CUST00195,Viraj Dara,nidhidhar@example.org,+915171726353,Lucknow,58,Other,2022-09-28,Social Media
+CUST00196,Daksh Ganesan,ekapadmahajan@example.com,+919317862937,Jaipur,25,Male,2023-03-12,Social Media
+CUST00197,Harshil Pai,varkeycharvi@example.net,00691298166,Pune,27,Male,2022-09-30,Social Media
+CUST00198,Logan Biswas,quppal@example.net,+916649453415,Lucknow,37,Other,2024-03-22,Influencer
+CUST00199,Tejas Datta,ykrishnamurthy@example.com,+915067582040,Pune,46,Female,2022-10-23,Friend Referral
+CUST00200,Januja Memon,idika33@example.net,09691862113,Hyderabad,43,Other,2023-12-18,Influencer
+CUST00201,Zayyan Som,yugvirk@example.com,3391044704,Pune,46,Other,2023-05-21,Organic
+CUST00202,Samar Barad,munihema@example.org,9566841982,Chennai,45,Other,2024-06-29,Friend Referral
+CUST00203,Advika Dar,krishnathakkar@example.com,06286489440,Bangalore,23,Other,2022-01-27,Influencer
+CUST00204,Deepa Sarin,advik80@example.org,05832444345,Hyderabad,19,Other,2023-08-25,Organic
+CUST00205,Irya Agrawal,aprabhu@example.net,09402114402,Ahmedabad,29,Other,2024-02-21,Ad Campaign
+CUST00206,Chakradhar Vora,farajrattan@example.com,9204953521,Lucknow,29,Female,2022-10-12,Ad Campaign
+CUST00207,Inaya Guha,agastyaguha@example.org,+914639224268,Chennai,48,Female,2022-04-04,Friend Referral
+CUST00208,Deepa Vyas,amblevarsha@example.org,04355696077,Pune,60,Male,2022-11-25,Friend Referral
+CUST00209,Kalpit Shenoy,vasana67@example.com,0633394608,Hyderabad,49,Other,2023-02-26,Ad Campaign
+CUST00210,William Kadakia,bansallekha@example.com,04678599487,Mumbai,53,Female,2024-04-13,Organic
+CUST00211,Arunima Sem,yashasviatwal@example.net,6473466753,Chennai,34,Male,2022-11-19,Ad Campaign
+CUST00212,Garima Tandon,hemanigaba@example.net,+915284672199,Mumbai,50,Other,2024-06-04,Influencer
+CUST00213,Hemang Kale,rehaansachdeva@example.com,03991095499,Mumbai,44,Male,2023-04-19,Influencer
+CUST00214,Yug Goel,rajagopalanamara@example.org,+911104554003,Ahmedabad,57,Other,2023-01-06,Ad Campaign
+CUST00215,Teerth Vora,yauvani97@example.com,7239921126,Bangalore,21,Female,2024-02-18,Influencer
+CUST00216,Yug Kamdar,senguptagaurangi@example.net,+917455285075,Ahmedabad,36,Other,2022-05-15,Ad Campaign
+CUST00217,Vedhika Chad,sameshgupta@example.org,+917121094985,Lucknow,19,Male,2022-05-05,Social Media
+CUST00218,Faris Chadha,mohini01@example.org,08067912069,Mumbai,53,Other,2022-11-15,Ad Campaign
+CUST00219,Saksham Wason,dayalranbir@example.com,+914777095411,Pune,32,Female,2022-04-06,Organic
+CUST00220,Nathaniel Shetty,giriksule@example.org,06277836293,Ahmedabad,27,Other,2023-10-26,Friend Referral
+CUST00221,Ganga Koshy,omajasha@example.net,8993687791,Kolkata,35,Female,2023-06-06,Ad Campaign
+CUST00222,Maanav Ravel,nirjabir@example.com,07436829353,Jaipur,47,Male,2022-09-07,Ad Campaign
+CUST00223,Pranav Nadkarni,kgandhi@example.net,+912307513996,Jaipur,56,Other,2022-07-15,Social Media
+CUST00224,Ekapad Padmanabhan,imaransinha@example.com,5140470701,Hyderabad,22,Female,2024-06-03,Friend Referral
+CUST00225,Yash Loyal,lipikasoman@example.net,4406117701,Hyderabad,50,Male,2024-03-17,Friend Referral
+CUST00226,Falan Dube,subramaniamtriya@example.org,+913789256027,Lucknow,37,Other,2024-01-14,Ad Campaign
+CUST00227,Hardik Sachdeva,warda85@example.org,07592084679,Ahmedabad,27,Other,2024-06-05,Ad Campaign
+CUST00228,Siddharth Mistry,jeet81@example.net,03828631160,Jaipur,39,Other,2022-12-20,Ad Campaign
+CUST00229,Ekansh Bhagat,qbhalla@example.net,07961030365,Bangalore,38,Other,2023-04-12,Social Media
+CUST00230,Balveer Bansal,agarwalupasna@example.org,07350491312,Bangalore,42,Female,2023-08-09,Organic
+CUST00231,Andrew Bains,hroy@example.net,+916343156405,Kolkata,48,Female,2022-11-22,Social Media
+CUST00232,Anamika Bala,dtata@example.org,+918232573841,Delhi,20,Other,2023-05-23,Influencer
+CUST00233,Finn Pai,kothariridhi@example.com,09841859767,Ahmedabad,24,Male,2022-12-06,Influencer
+CUST00234,Nikita Varghese,ishita01@example.net,07945137641,Delhi,18,Female,2023-04-13,Social Media
+CUST00235,Girish Gill,meghana42@example.net,+910204434313,Hyderabad,48,Female,2022-03-18,Influencer
+CUST00236,Girish Sahni,rialad@example.org,8449225524,Pune,43,Female,2023-12-11,Influencer
+CUST00237,Fariq Tata,gandhichameli@example.net,+910685357095,Ahmedabad,38,Other,2023-01-25,Organic
+CUST00238,Baljiwan Kakar,paninipandya@example.net,0879435078,Bangalore,22,Other,2023-09-25,Friend Referral
+CUST00239,Ekbal Rana,pallazinal@example.org,08123733203,Kolkata,23,Male,2022-08-21,Organic
+CUST00240,Keya Sankar,george50@example.net,+914831817744,Hyderabad,28,Male,2023-03-31,Organic
+CUST00241,Samaksh Hora,pradhanwyatt@example.net,+914186876515,Hyderabad,21,Female,2022-11-29,Friend Referral
+CUST00242,Gayathri Rau,zkarnik@example.com,+916857625993,Bangalore,27,Other,2023-03-18,Ad Campaign
+CUST00243,Meera Chacko,tanmayiguha@example.net,+915080080680,Delhi,29,Male,2023-08-03,Organic
+CUST00244,Sanaya Sama,rushil42@example.net,8015804550,Lucknow,42,Other,2023-09-17,Social Media
+CUST00245,Qabil Dasgupta,uoommen@example.org,09790865047,Delhi,55,Male,2023-05-25,Ad Campaign
+CUST00246,Tara Chokshi,saanvibhalla@example.com,00269027258,Ahmedabad,34,Female,2023-10-16,Organic
+CUST00247,Osha Roy,ishani74@example.net,3324111204,Hyderabad,47,Other,2024-04-03,Influencer
+CUST00248,Wakeeta Choudhry,kalpitkuruvilla@example.net,1153537036,Ahmedabad,22,Female,2022-06-11,Influencer
+CUST00249,Onkar Tak,mayagill@example.org,00380660342,Kolkata,58,Other,2022-11-03,Friend Referral
+CUST00250,Vidhi Mukherjee,abhirammand@example.com,4489245082,Bangalore,37,Female,2023-04-13,Ad Campaign
+CUST00251,Nihal Pau,nihal14@example.net,+915230205023,Kolkata,33,Other,2022-04-20,Friend Referral
+CUST00252,Turvi Singhal,krish16@example.org,02778518785,Hyderabad,36,Male,2023-08-12,Ad Campaign
+CUST00253,Andrew Reddy,fradosolanki@example.com,+915750482806,Lucknow,18,Other,2022-10-09,Organic
+CUST00254,Devansh Pandya,nthakur@example.org,02555703070,Hyderabad,49,Male,2023-09-13,Influencer
+CUST00255,Hemangini Oak,ooommen@example.org,+919282248007,Bangalore,40,Other,2024-04-01,Social Media
+CUST00256,Yauvani Bandi,hayerkavya@example.com,+911757152672,Delhi,34,Other,2023-09-28,Organic
+CUST00257,Ekta Saxena,ytandon@example.org,2159924132,Mumbai,59,Female,2023-10-05,Ad Campaign
+CUST00258,Logan Ray,darakamala@example.net,3481449972,Chennai,55,Other,2022-02-04,Social Media
+CUST00259,Tarak Deo,girindra69@example.net,+913001369033,Chennai,36,Other,2022-04-03,Ad Campaign
+CUST00260,Tristan Verma,sawhneyedhitha@example.com,09648149133,Delhi,30,Other,2022-06-29,Friend Referral
+CUST00261,Alexander Chand,karanpandey@example.net,+916607581613,Hyderabad,50,Male,2023-06-28,Friend Referral
+CUST00262,Vidhi Jani,sandalgarima@example.org,02204411565,Hyderabad,48,Other,2024-04-24,Friend Referral
+CUST00263,Yuvraj Som,brijesh50@example.org,+916445130148,Ahmedabad,25,Male,2024-04-03,Social Media
+CUST00264,Ryan Babu,kumerbenjamin@example.net,03876250359,Kolkata,32,Other,2024-02-12,Friend Referral
+CUST00265,Tamanna Babu,umang35@example.net,+913165295895,Mumbai,43,Female,2022-04-03,Influencer
+CUST00266,Xavier Bath,tarakbhardwaj@example.com,00926625312,Chennai,47,Other,2022-05-07,Friend Referral
+CUST00267,Harinakshi Sengupta,jrao@example.com,9406390371,Chennai,42,Male,2023-08-22,Social Media
+CUST00268,Samesh Sahota,umangchoudhury@example.net,+910201689307,Lucknow,19,Other,2023-04-28,Friend Referral
+CUST00269,Omaja Chaudry,fkumar@example.org,+916493463958,Pune,32,Other,2023-09-17,Ad Campaign
+CUST00270,Vrinda Gola,srivastavaanya@example.org,+918542146665,Kolkata,37,Male,2023-12-19,Social Media
+CUST00271,Falan Mall,cheemaethan@example.net,05831081397,Hyderabad,20,Female,2022-02-16,Organic
+CUST00272,Patrick Rout,gangasandal@example.org,1390119401,Jaipur,33,Male,2022-04-10,Ad Campaign
+CUST00273,Jeet Purohit,xpathak@example.net,+914941909190,Jaipur,41,Female,2023-04-10,Influencer
+CUST00274,Libni Pillai,pillaifalan@example.com,+917640100764,Kolkata,27,Other,2024-01-31,Organic
+CUST00275,Mugdha Suri,xalak07@example.com,01332205428,Lucknow,49,Female,2024-05-03,Friend Referral
+CUST00276,Siya Natarajan,kevinbumb@example.com,0705457124,Bangalore,41,Female,2022-02-03,Ad Campaign
+CUST00277,Ayush Chopra,nachikethans@example.org,05802994280,Pune,41,Other,2022-08-30,Friend Referral
+CUST00278,Rudra Khurana,liamchanda@example.com,0177459271,Chennai,59,Male,2023-07-12,Ad Campaign
+CUST00279,Dayita Wali,miteshlal@example.org,+910337105961,Pune,30,Female,2022-10-10,Organic
+CUST00280,Jackson Shere,radhikachakraborty@example.net,05672038747,Lucknow,31,Male,2023-11-10,Organic
+CUST00281,Jackson Saha,christopher11@example.com,+917376532017,Bangalore,39,Male,2024-03-16,Influencer
+CUST00282,Pranit Narula,harish17@example.org,3807565916,Jaipur,22,Male,2022-07-30,Influencer
+CUST00283,Oni Cherian,shivansh77@example.com,4998344989,Chennai,32,Male,2022-08-10,Influencer
+CUST00284,Yashica Grover,gollaabhimanyu@example.com,2610158382,Delhi,35,Male,2022-01-03,Influencer
+CUST00285,Dhriti Chhabra,rtak@example.net,6691571541,Pune,29,Other,2022-09-14,Organic
+CUST00286,Benjamin Sahota,ayushrattan@example.org,+912573036941,Chennai,18,Male,2022-05-15,Influencer
+CUST00287,Pooja Jain,kalpitnigam@example.net,5660558691,Delhi,19,Female,2022-11-28,Organic
+CUST00288,Dev Sagar,rachit22@example.com,09620397923,Jaipur,44,Male,2022-05-10,Organic
+CUST00289,Sai Hari,dakshchandran@example.net,+911582726745,Chennai,46,Other,2023-05-03,Influencer
+CUST00290,Oliver Prasad,mvarkey@example.org,08226660957,Jaipur,46,Male,2022-04-22,Influencer
+CUST00291,Harinakshi Din,ubose@example.com,+916762948263,Jaipur,60,Female,2022-02-14,Ad Campaign
+CUST00292,Kevin Dutta,gkala@example.com,4035507042,Mumbai,19,Female,2023-10-21,Ad Campaign
+CUST00293,Janaki Rama,sanyadeshpande@example.net,+911088052907,Ahmedabad,24,Other,2023-03-13,Ad Campaign
+CUST00294,Kabir Pall,divanniharika@example.org,07675854179,Chennai,23,Other,2022-03-17,Social Media
+CUST00295,Lohit Borra,yagneshsandal@example.com,+910000807335,Hyderabad,26,Other,2022-03-09,Influencer
+CUST00296,Yashica Narula,charvi24@example.org,00279352982,Kolkata,38,Other,2023-07-16,Influencer
+CUST00297,Samar Pall,balveer18@example.net,0322647559,Jaipur,47,Other,2022-10-29,Ad Campaign
+CUST00298,Oliver Keer,timothy32@example.org,+918735279106,Jaipur,25,Other,2022-04-12,Social Media
+CUST00299,Turvi Sur,yuvraj24@example.org,00077147246,Bangalore,46,Female,2023-03-17,Friend Referral
+CUST00300,Falan Kala,faraskoshy@example.org,+912688429838,Kolkata,47,Female,2024-04-27,Organic
+CUST00301,Neha Khare,rajagopalkrish@example.com,8881095480,Chennai,45,Other,2022-11-17,Friend Referral
+CUST00302,Deepa Kumer,dpillai@example.org,+913007323365,Ahmedabad,27,Male,2023-01-19,Organic
+CUST00303,Ucchal Chowdhury,nihal99@example.org,02446242002,Pune,23,Female,2024-05-01,Organic
+CUST00304,Mitali Panchal,qadimpadmanabhan@example.org,+916235055841,Delhi,41,Other,2024-02-02,Organic
+CUST00305,Balvan Dhingra,chandreshchowdhury@example.com,1439350598,Jaipur,53,Female,2023-08-24,Organic
+CUST00306,Lajita Sule,yadavipradhan@example.org,03574300004,Kolkata,40,Other,2023-02-25,Organic
+CUST00307,Deepa Chopra,oshashenoy@example.net,2046789631,Hyderabad,56,Female,2022-10-22,Organic
+CUST00308,Rushil Narasimhan,sachdevanamika@example.net,8227805390,Bangalore,50,Male,2023-08-15,Ad Campaign
+CUST00309,Wishi Srinivasan,acharyazayyan@example.net,7650180153,Chennai,24,Other,2022-08-18,Friend Referral
+CUST00310,Neelima Brahmbhatt,hritikdhar@example.org,8733074537,Lucknow,35,Male,2022-04-28,Ad Campaign
+CUST00311,Vyanjana Nazareth,amol85@example.net,+915312891893,Lucknow,53,Other,2024-05-15,Influencer
+CUST00312,Vasudha Nadig,sethigauri@example.net,3655367313,Hyderabad,56,Male,2022-01-27,Social Media
+CUST00313,Zarna Dalal,sraj@example.net,2199347037,Chennai,37,Female,2022-10-07,Organic
+CUST00314,Vivaan Merchant,xlad@example.com,08894941434,Lucknow,27,Other,2022-07-05,Ad Campaign
+CUST00315,Manan Parsa,bhavaniganesan@example.org,+917827264666,Mumbai,27,Male,2022-03-13,Influencer
+CUST00316,Amaira Dutt,sharaftanvi@example.net,+919191858441,Kolkata,42,Female,2022-08-09,Friend Referral
+CUST00317,Tanay Chacko,prashadsamaksh@example.org,4598384382,Hyderabad,41,Other,2022-06-11,Friend Referral
+CUST00318,Bahadurjit Swaminathan,pranitbasak@example.com,+912347290636,Lucknow,54,Male,2024-03-06,Organic
+CUST00319,Balendra Comar,logan70@example.com,3814217664,Lucknow,28,Male,2022-06-09,Organic
+CUST00320,Chandani Raja,bajwayashawini@example.org,08085520697,Kolkata,46,Female,2022-10-06,Influencer
+CUST00321,Vrishti Kala,kannanbanjeet@example.org,07366839105,Hyderabad,44,Male,2023-03-29,Influencer
+CUST00322,Madhavi Parmer,agoswami@example.com,+912797175374,Kolkata,40,Male,2022-04-27,Friend Referral
+CUST00323,Tanish Ratta,patildamini@example.org,+916903853726,Ahmedabad,55,Other,2023-11-26,Friend Referral
+CUST00324,Mugdha Sane,inaya51@example.net,8994082180,Kolkata,32,Other,2022-02-16,Organic
+CUST00325,Lavanya Gill,ganeshvrishti@example.net,6930821108,Hyderabad,31,Male,2022-01-08,Social Media
+CUST00326,Ria Dixit,odika47@example.com,02280832674,Hyderabad,34,Female,2024-02-22,Organic
+CUST00327,Ishita Pandit,xlata@example.net,1181227864,Kolkata,49,Male,2022-01-08,Social Media
+CUST00328,Advaith Barad,ddugar@example.net,+911875967974,Bangalore,52,Other,2023-01-25,Influencer
+CUST00329,Idika Chadha,anita79@example.com,7188593443,Chennai,60,Male,2024-05-03,Ad Campaign
+CUST00330,Wishi Mane,zayyan77@example.net,+918832264910,Kolkata,20,Male,2024-06-01,Ad Campaign
+CUST00331,Ishaan Mannan,ppal@example.com,09509288821,Lucknow,38,Female,2022-03-21,Influencer
+CUST00332,Damyanti Tak,trivenimaharaj@example.net,1349750472,Kolkata,58,Female,2023-02-19,Organic
+CUST00333,Tanvi Mitra,prashadmax@example.org,02876149801,Chennai,19,Male,2023-02-19,Influencer
+CUST00334,Ronith Vaidya,advikbatra@example.net,9331192978,Pune,41,Female,2023-04-17,Organic
+CUST00335,Advika Pandit,tmalhotra@example.com,0278956953,Lucknow,45,Female,2022-09-07,Influencer
+CUST00336,Kamya Pandey,kashvimaharaj@example.com,1259081629,Hyderabad,43,Other,2022-03-22,Friend Referral
+CUST00337,Abeer Kashyap,bhasindivya@example.org,7769999784,Delhi,39,Male,2022-08-15,Influencer
+CUST00338,Ira Sharma,daksh22@example.com,0504073846,Jaipur,25,Other,2023-10-11,Social Media
+CUST00339,Laban Shukla,vaishnavi58@example.com,8075001936,Chennai,40,Other,2024-03-05,Social Media
+CUST00340,Odika Mane,rpadmanabhan@example.com,03025463130,Delhi,24,Female,2022-08-30,Social Media
+CUST00341,Aayush Malhotra,mekhalabalay@example.com,3444745985,Delhi,56,Other,2022-06-27,Organic
+CUST00342,Anmol Tailor,qabil18@example.net,05396708266,Ahmedabad,58,Female,2022-07-01,Influencer
+CUST00343,Naveen Chana,raolohit@example.com,+912595494889,Ahmedabad,55,Other,2024-02-18,Influencer
+CUST00344,Yatin Keer,henrysant@example.net,3360172961,Lucknow,58,Female,2023-10-21,Friend Referral
+CUST00345,Vanya Gaba,ghoshgirik@example.org,2056247549,Pune,46,Female,2022-06-04,Ad Campaign
+CUST00346,Andrew Suri,bediatharv@example.org,05531209304,Hyderabad,37,Other,2023-10-09,Organic
+CUST00347,Janaki Ghose,manthan25@example.com,01455936159,Pune,50,Female,2022-12-27,Ad Campaign
+CUST00348,Samar Chandra,khatrinitara@example.net,+912819370593,Mumbai,20,Female,2023-04-08,Friend Referral
+CUST00349,Pavani Wali,subramaniamjairaj@example.net,09656479664,Pune,59,Other,2022-03-20,Influencer
+CUST00350,Radha Kapur,aryanbansal@example.com,+910340865032,Ahmedabad,42,Other,2023-06-04,Influencer
+CUST00351,Qasim Balasubramanian,bajajrajata@example.com,3918594838,Ahmedabad,20,Other,2024-03-21,Social Media
+CUST00352,Hritik Ghose,balaarin@example.org,09531340759,Ahmedabad,56,Other,2022-11-26,Social Media
+CUST00353,Dhruv Mohanty,zaidbal@example.net,3935692468,Pune,46,Female,2022-03-05,Organic
+CUST00354,Vivaan Mand,indaliborde@example.net,06250236767,Delhi,59,Male,2023-06-01,Social Media
+CUST00355,Divya Dar,paldiya@example.org,5072123045,Ahmedabad,46,Other,2023-12-26,Influencer
+CUST00356,Lipika Bajwa,sachivora@example.com,1358729453,Chennai,28,Female,2023-09-17,Friend Referral
+CUST00357,Omisha Deep,zgupta@example.com,01270190573,Chennai,44,Other,2023-02-01,Influencer
+CUST00358,Lakshmi Gole,mannpriya@example.net,+916938759025,Chennai,58,Male,2022-02-23,Friend Referral
+CUST00359,Manbir Bala,manangole@example.com,09924225734,Kolkata,53,Female,2022-04-07,Friend Referral
+CUST00360,Yatin Pall,okala@example.net,3341784718,Lucknow,60,Male,2024-01-12,Friend Referral
+CUST00361,Sara Krishnamurthy,kraju@example.org,2138663440,Delhi,55,Female,2022-03-25,Friend Referral
+CUST00362,Xavier Setty,umangbhatnagar@example.net,+912194103658,Kolkata,60,Male,2023-11-03,Influencer
+CUST00363,Vidhi Madan,jhaaachal@example.com,09973406758,Hyderabad,23,Other,2023-12-27,Ad Campaign
+CUST00364,Anita Char,gulatiishita@example.org,07985960449,Delhi,39,Other,2023-10-21,Influencer
+CUST00365,Wridesh Bumb,wallaaryan@example.org,+912782781340,Kolkata,59,Other,2022-04-06,Friend Referral
+CUST00366,Anita Chokshi,amruta18@example.com,03985372459,Hyderabad,41,Male,2022-01-19,Social Media
+CUST00367,Zansi Lad,zayankala@example.net,1270360661,Bangalore,49,Male,2022-12-16,Social Media
+CUST00368,Tristan Kale,virajpillay@example.org,+918915373315,Hyderabad,22,Male,2022-06-08,Influencer
+CUST00369,Kashish Dugar,girish56@example.net,01361957504,Jaipur,52,Male,2024-02-29,Friend Referral
+CUST00370,Saumya Bala,kritikaloyal@example.com,+916224618281,Delhi,57,Other,2024-06-16,Ad Campaign
+CUST00371,Fariq Sarna,comarpranit@example.net,9936580594,Delhi,28,Other,2022-06-07,Influencer
+CUST00372,Veer Subramaniam,jaggieesha@example.com,02124058059,Ahmedabad,28,Male,2024-04-08,Ad Campaign
+CUST00373,Ekaraj Bhalla,maya37@example.net,01834708588,Ahmedabad,33,Other,2023-01-09,Friend Referral
+CUST00374,Girish Basu,faris36@example.com,7797411713,Bangalore,46,Other,2024-02-10,Social Media
+CUST00375,Nidra Ramaswamy,upmasur@example.com,07506308644,Bangalore,48,Female,2022-11-13,Influencer
+CUST00376,Jagdish Kar,bajwaagastya@example.org,03399408503,Hyderabad,47,Female,2023-03-28,Influencer
+CUST00377,Pratyush Sem,pallavi69@example.net,+915688350630,Delhi,44,Male,2023-06-25,Influencer
+CUST00378,Vasudha Nanda,hemal30@example.net,4406757755,Mumbai,34,Other,2022-05-22,Ad Campaign
+CUST00379,Hiral Padmanabhan,hemal70@example.com,+915179560937,Jaipur,41,Male,2024-06-14,Influencer
+CUST00380,Anika Korpal,majumdarom@example.net,01300455507,Hyderabad,25,Male,2024-05-21,Social Media
+CUST00381,Barkha Munshi,mbanik@example.net,+915812410340,Jaipur,46,Male,2022-10-07,Ad Campaign
+CUST00382,Ayush Prakash,garima82@example.net,+912544361529,Ahmedabad,32,Female,2022-04-04,Organic
+CUST00383,Yachana Balasubramanian,sai00@example.net,00368915402,Kolkata,21,Other,2023-03-01,Friend Referral
+CUST00384,Amara Keer,parikhunni@example.org,4417602344,Pune,42,Female,2022-08-30,Social Media
+CUST00385,Ishani Shanker,dyaldarsh@example.org,+918174795429,Pune,38,Other,2022-01-29,Friend Referral
+CUST00386,Tanay Mandal,ysangha@example.com,3503216532,Delhi,27,Male,2024-03-21,Friend Referral
+CUST00387,Matthew Khatri,hritik76@example.org,03364933923,Delhi,48,Other,2024-04-29,Ad Campaign
+CUST00388,Ekansh Chandra,patilvasana@example.net,06365654977,Mumbai,57,Male,2023-04-05,Organic
+CUST00389,Ikbal Hans,chakrabartiranbir@example.com,03598115240,Delhi,31,Other,2022-09-20,Influencer
+CUST00390,Oliver Sridhar,jagatbabu@example.net,+914083921970,Pune,45,Female,2023-06-25,Social Media
+CUST00391,Ayaan Rattan,joshijasmit@example.net,9034521289,Mumbai,25,Male,2022-11-05,Ad Campaign
+CUST00392,Abhiram Sanghvi,rehaanparikh@example.net,0778516900,Ahmedabad,57,Male,2023-10-17,Organic
+CUST00393,Pranit Choudhary,krishapadmanabhan@example.org,+912730821007,Lucknow,49,Other,2024-05-06,Organic
+CUST00394,Kiaan Bhatt,samashravya@example.com,06667918435,Lucknow,50,Male,2023-10-10,Social Media
+CUST00395,Qarin Pai,wahabsingh@example.org,6701048949,Mumbai,45,Other,2022-10-26,Friend Referral
+CUST00396,Jonathan Rao,jananijohal@example.net,6115463080,Kolkata,54,Male,2022-09-04,Organic
+CUST00397,Jackson Doctor,shivansh48@example.net,+919342833457,Pune,41,Other,2023-06-21,Influencer
+CUST00398,Advik Tandon,narayananwakeeta@example.net,+919726474474,Jaipur,50,Male,2023-06-04,Ad Campaign
+CUST00399,Yashvi Sathe,aarav81@example.com,3462618226,Mumbai,48,Other,2024-06-13,Ad Campaign
+CUST00400,Kai Lad,saumyavala@example.net,03056874345,Mumbai,34,Female,2023-01-18,Organic
+CUST00401,Bahadurjit Dash,gabrielvarkey@example.org,+915698894172,Pune,33,Other,2022-12-20,Friend Referral
+CUST00402,Janya Toor,deshmukhanjali@example.com,09941387288,Chennai,20,Other,2022-05-17,Friend Referral
+CUST00403,Yadavi Pillay,nramachandran@example.net,03700986239,Delhi,59,Other,2024-04-13,Ad Campaign
+CUST00404,Isha Wable,abhiram99@example.com,08580746658,Delhi,48,Male,2023-12-14,Organic
+CUST00405,Kai Jain,ojasvi73@example.com,08366378788,Mumbai,47,Female,2024-01-04,Social Media
+CUST00406,Gautam Naik,mitesh62@example.com,1171020498,Mumbai,30,Female,2022-02-14,Friend Referral
+CUST00407,Chandresh Hegde,sampathlekha@example.net,01152457574,Jaipur,43,Female,2023-06-12,Friend Referral
+CUST00408,Shravya Sani,smagar@example.com,08076960992,Bangalore,59,Female,2022-02-07,Friend Referral
+CUST00409,Luke Bhagat,nagiurvashi@example.net,+913072755808,Chennai,21,Female,2024-06-01,Organic
+CUST00410,Manya Date,mangalchakradev@example.com,02226349323,Kolkata,41,Female,2024-03-29,Ad Campaign
+CUST00411,Sanya Khanna,noah73@example.net,09232710069,Delhi,39,Female,2023-01-31,Ad Campaign
+CUST00412,Urmi Roy,oshan@example.org,+917998217655,Hyderabad,51,Male,2023-01-12,Ad Campaign
+CUST00413,Banjeet Datta,sahniyauvani@example.org,+917875511068,Lucknow,45,Male,2022-03-22,Influencer
+CUST00414,Ranveer Ramesh,zehaan56@example.com,05633495553,Pune,38,Male,2022-10-28,Friend Referral
+CUST00415,Qushi Basu,bainsyauvani@example.net,+918440091626,Hyderabad,36,Female,2023-11-08,Influencer
+CUST00416,Liam Shere,dtalwar@example.net,02264210107,Delhi,45,Other,2024-01-05,Ad Campaign
+CUST00417,Gaurika Chakraborty,manangrewal@example.net,00579594817,Mumbai,46,Other,2022-12-26,Friend Referral
+CUST00418,Madhav Bose,kashish25@example.com,08502589535,Hyderabad,45,Other,2023-09-22,Organic
+CUST00419,Frado Chand,achandran@example.com,0624012108,Kolkata,60,Female,2022-03-18,Influencer
+CUST00420,Patrick Chandra,vasudhadhawan@example.com,+912161942065,Mumbai,28,Male,2024-03-31,Influencer
+CUST00421,David Bhatti,kashishlad@example.net,3475992763,Mumbai,46,Male,2023-11-26,Organic
+CUST00422,Kalpit Sule,kapadiasaksham@example.net,3456353253,Chennai,59,Female,2022-08-30,Ad Campaign
+CUST00423,Chakradev Varma,koshymatthew@example.org,+915549154035,Lucknow,20,Male,2023-08-04,Ad Campaign
+CUST00424,Amrita Loke,routkamya@example.net,07644624631,Ahmedabad,41,Male,2023-01-15,Influencer
+CUST00425,Shivani Ganesan,indalisankaran@example.net,2409559994,Chennai,51,Female,2022-05-21,Friend Referral
+CUST00426,Zayyan Char,jyoti95@example.org,+916204193962,Bangalore,35,Male,2023-10-28,Organic
+CUST00427,Imaran Raja,sahotagagan@example.com,0909278961,Ahmedabad,29,Other,2024-01-24,Ad Campaign
+CUST00428,Omaja Devan,vrindakara@example.com,+911108488966,Hyderabad,25,Female,2023-07-30,Ad Campaign
+CUST00429,Neel Dara,gganesan@example.net,+912207588726,Hyderabad,57,Other,2022-08-08,Ad Campaign
+CUST00430,Oviya Kade,sekhonekta@example.com,0547161268,Delhi,25,Male,2022-07-24,Ad Campaign
+CUST00431,Hemal Gole,jeremiahmand@example.org,+916459745663,Pune,46,Other,2022-06-26,Friend Referral
+CUST00432,Netra Wali,kurianbhavna@example.org,+911718611264,Pune,40,Other,2023-11-15,Influencer
+CUST00433,Ayushman Sodhi,siya43@example.com,09874310611,Delhi,37,Other,2022-10-25,Social Media
+CUST00434,Pavani Saran,jacksonamble@example.org,3548778610,Jaipur,41,Male,2024-03-23,Organic
+CUST00435,Jagrati Mannan,odika09@example.org,+918484565861,Bangalore,26,Female,2022-07-25,Organic
+CUST00436,Girik Wali,zachariaraksha@example.net,04698955205,Lucknow,53,Female,2023-01-05,Ad Campaign
+CUST00437,Max Thakur,aayush57@example.org,01969008999,Delhi,53,Other,2024-04-02,Organic
+CUST00438,Dalbir Rajagopalan,samaraghav@example.org,2300862482,Kolkata,37,Other,2022-03-09,Ad Campaign
+CUST00439,Oscar Gopal,bvenkatesh@example.com,09241259509,Kolkata,44,Other,2023-06-23,Organic
+CUST00440,Hema Samra,krishnansamuel@example.org,06393236367,Pune,38,Female,2022-05-09,Ad Campaign
+CUST00441,Ikbal Goswami,robertanand@example.net,+919291530283,Chennai,51,Male,2023-11-28,Influencer
+CUST00442,Frado Handa,chaitalyramakrishnan@example.org,09630037837,Delhi,55,Male,2023-10-18,Ad Campaign
+CUST00443,Jagat Gupta,mborra@example.net,00567891288,Pune,21,Other,2023-05-30,Social Media
+CUST00444,Devansh Gupta,eshana18@example.org,09719690334,Delhi,28,Female,2022-11-08,Social Media
+CUST00445,Oni Chauhan,ekarajsoman@example.net,6660460645,Hyderabad,51,Male,2022-12-21,Friend Referral
+CUST00446,Bhavya Samra,waliaanita@example.com,04698128202,Jaipur,58,Female,2022-07-21,Social Media
+CUST00447,Frado Bains,umangsami@example.com,9893743936,Lucknow,37,Other,2023-10-03,Organic
+CUST00448,Zaid Narula,daksheshsem@example.net,+919254887700,Delhi,59,Other,2023-05-30,Influencer
+CUST00449,Isaiah Thakkar,doshigaurav@example.net,0449901210,Lucknow,28,Other,2022-06-07,Influencer
+CUST00450,Christopher Mand,prashadxavier@example.net,+910577434213,Mumbai,54,Male,2022-12-12,Organic
+CUST00451,Falan Nanda,anmolguha@example.net,+912007094131,Lucknow,59,Female,2022-02-16,Social Media
+CUST00452,Anmol Kanda,pavani23@example.com,04876024665,Kolkata,54,Other,2024-02-25,Organic
+CUST00453,Vasana Bedi,frederickdhar@example.net,8315154042,Jaipur,58,Female,2023-05-25,Friend Referral
+CUST00454,Inaya Cherian,xraj@example.org,+912254369564,Kolkata,33,Female,2023-05-10,Ad Campaign
+CUST00455,Farhan Gade,chaitanya30@example.org,+918404827814,Delhi,21,Female,2022-03-16,Ad Campaign
+CUST00456,Aadhya Wadhwa,hritikyadav@example.com,+915893118211,Bangalore,47,Female,2023-05-11,Influencer
+CUST00457,Tanay Bhakta,azaan77@example.org,8883006763,Chennai,38,Other,2022-05-28,Friend Referral
+CUST00458,Umang Trivedi,yauvanicheema@example.net,+919612258257,Chennai,26,Other,2023-02-13,Influencer
+CUST00459,Harrison Kurian,ishanigoda@example.net,+915884518795,Bangalore,38,Female,2022-04-19,Organic
+CUST00460,Krishna Oommen,mahajanadweta@example.net,+914122948932,Bangalore,46,Male,2022-10-01,Organic
+CUST00461,Henry Bail,golaforum@example.com,8249488627,Kolkata,36,Other,2022-02-21,Ad Campaign
+CUST00462,Matthew Goyal,vaidyasamar@example.net,07673690154,Chennai,28,Other,2022-09-12,Friend Referral
+CUST00463,Ijaya Chander,sahajagvi@example.org,05400791369,Ahmedabad,28,Other,2022-07-14,Ad Campaign
+CUST00464,Zashil Venkatesh,nsharaf@example.org,+914966287953,Ahmedabad,37,Male,2023-05-26,Organic
+CUST00465,Bina Mital,arunimagupta@example.net,+915919037040,Ahmedabad,50,Male,2023-02-07,Social Media
+CUST00466,Ayushman Dhillon,gchakrabarti@example.org,00235266418,Mumbai,40,Male,2023-08-21,Friend Referral
+CUST00467,Forum Loke,nidhigade@example.net,01443849347,Ahmedabad,56,Female,2023-05-22,Influencer
+CUST00468,Tanmayi Magar,charvimagar@example.com,7545965850,Kolkata,24,Male,2022-01-09,Friend Referral
+CUST00469,Ati Chada,faqid16@example.net,+913052540448,Kolkata,41,Female,2024-01-15,Organic
+CUST00470,Vrinda Hegde,eborah@example.net,09100780189,Lucknow,21,Other,2023-02-15,Social Media
+CUST00471,Omya Tank,manisathvik@example.com,+919518500161,Hyderabad,53,Male,2023-01-07,Ad Campaign
+CUST00472,Praneel Bajwa,daksha76@example.net,03514631530,Jaipur,46,Female,2023-06-01,Influencer
+CUST00473,Anya Mangat,yagneshsavant@example.org,+912118971000,Pune,57,Male,2023-11-28,Organic
+CUST00474,Jason Mitter,surmegha@example.org,8719691872,Chennai,41,Other,2023-02-08,Friend Referral
+CUST00475,Faraj Ramaswamy,rameshijaya@example.net,9989112426,Bangalore,27,Other,2024-02-13,Influencer
+CUST00476,Xiti Nagar,veergandhi@example.org,05227487115,Mumbai,50,Male,2023-02-16,Organic
+CUST00477,Luke Subramaniam,eiravati46@example.org,6657800499,Ahmedabad,39,Other,2022-05-21,Ad Campaign
+CUST00478,Ekani Dugar,hbumb@example.com,9758806669,Jaipur,56,Male,2022-06-02,Friend Referral
+CUST00479,Balvan Prasad,rameshkrisha@example.org,7037987059,Delhi,38,Female,2023-09-20,Influencer
+CUST00480,Jatin Randhawa,doctortanish@example.org,8632430596,Lucknow,37,Female,2024-01-28,Influencer
+CUST00481,Kashish Bhardwaj,damini69@example.com,+914574706692,Jaipur,50,Female,2024-04-28,Influencer
+CUST00482,Raagini Tank,krishnamekhala@example.org,08603206386,Mumbai,48,Female,2022-11-03,Friend Referral
+CUST00483,Saksham Madan,sethikamala@example.net,+912600466956,Kolkata,25,Other,2023-11-21,Friend Referral
+CUST00484,Ryan Misra,nathanielnarula@example.com,+915064121228,Mumbai,58,Other,2024-03-26,Ad Campaign
+CUST00485,Reyansh Sehgal,minhasdominic@example.com,+915420805848,Lucknow,59,Other,2022-09-29,Social Media
+CUST00486,Bhanumati Nagi,waida33@example.org,6360160355,Lucknow,21,Female,2024-01-09,Social Media
+CUST00487,Yasti Bhatnagar,quincylanka@example.net,7471778279,Lucknow,58,Female,2023-06-21,Social Media
+CUST00488,Dipta Dhar,shuklayamini@example.org,02106057700,Mumbai,33,Other,2024-04-21,Organic
+CUST00489,Yoshita Desai,andramaanav@example.org,5971926086,Ahmedabad,19,Female,2022-07-15,Ad Campaign
+CUST00490,Panini Saini,thomas13@example.net,06732396968,Bangalore,44,Female,2022-06-05,Influencer
+CUST00491,Tanveer Dani,naveenratta@example.com,4873189567,Ahmedabad,57,Other,2024-03-04,Organic
+CUST00492,Vanya Chander,hwarrior@example.org,2542218187,Jaipur,26,Male,2023-12-24,Influencer
+CUST00493,Wriddhish Rajan,deoharita@example.org,07772392298,Ahmedabad,60,Other,2022-11-29,Ad Campaign
+CUST00494,Zayyan Dutta,gdivan@example.org,08527868010,Ahmedabad,29,Other,2022-11-18,Friend Referral
+CUST00495,Gayathri Ganesan,cyohannan@example.com,09058950955,Hyderabad,40,Other,2023-07-14,Ad Campaign
+CUST00496,Charles De,rushilbabu@example.net,+914155435379,Hyderabad,33,Other,2022-07-16,Friend Referral
+CUST00497,Aadi Gupta,noahchawla@example.net,2279437239,Hyderabad,37,Other,2022-08-19,Social Media
+CUST00498,Vedika Kohli,anushavarughese@example.com,2602463453,Chennai,49,Female,2023-12-08,Friend Referral
+CUST00499,Eiravati Ratti,akshay40@example.net,1486177886,Hyderabad,35,Male,2023-07-28,Influencer
+CUST00500,Lekha Ramaswamy,shivansh62@example.org,+919775637620,Kolkata,52,Female,2023-11-24,Friend Referral
+CUST00501,Fiyaz Radhakrishnan,regevansha@example.org,+916510919881,Hyderabad,27,Male,2024-03-02,Friend Referral
+CUST00502,Elijah Keer,lshan@example.com,03916305501,Chennai,23,Female,2024-01-02,Friend Referral
+CUST00503,Oviya Krishnamurthy,nehananda@example.com,01950052622,Bangalore,48,Male,2024-02-05,Influencer
+CUST00504,Kala Madan,jagrati31@example.net,+916967995232,Hyderabad,53,Male,2022-10-05,Organic
+CUST00505,Naksh Palan,chakradharsaraf@example.com,7543439262,Bangalore,55,Male,2023-09-23,Organic
+CUST00506,Ekiya Aggarwal,daksheshbansal@example.org,+912742187905,Bangalore,51,Other,2023-11-17,Social Media
+CUST00507,Fiyaz Gandhi,liam99@example.net,+919664480524,Kolkata,24,Female,2022-02-23,Ad Campaign
+CUST00508,Bishakha Krish,kalabachittar@example.org,5567066644,Mumbai,26,Other,2022-04-13,Social Media
+CUST00509,Ishwar Jain,shethatharv@example.com,0083565723,Ahmedabad,59,Female,2023-02-21,Social Media
+CUST00510,Om Loke,neellata@example.com,+912914741635,Chennai,36,Female,2024-02-14,Organic
+CUST00511,Jackson Prashad,cramaswamy@example.com,01816884994,Lucknow,23,Male,2024-02-27,Influencer
+CUST00512,Lakshit Badami,ftailor@example.com,1883404535,Delhi,20,Female,2024-01-27,Social Media
+CUST00513,Arya Saraf,bmurty@example.net,8650329745,Ahmedabad,43,Male,2022-02-07,Friend Referral
+CUST00514,Vincent Mander,panini58@example.com,+910164887399,Mumbai,20,Female,2024-06-16,Influencer
+CUST00515,Shivansh Bansal,vincentmenon@example.net,9313816570,Chennai,24,Female,2023-09-10,Ad Campaign
+CUST00516,Balendra Mahajan,iacharya@example.net,00421457181,Jaipur,52,Female,2023-10-19,Social Media
+CUST00517,Chaman Mangal,vasanaupadhyay@example.org,+917030864736,Ahmedabad,50,Female,2024-05-21,Social Media
+CUST00518,Bina Luthra,pathaknathaniel@example.net,+912954025853,Chennai,25,Male,2024-04-08,Ad Campaign
+CUST00519,Damyanti Sunder,megha11@example.org,2031809418,Delhi,34,Male,2023-10-26,Friend Referral
+CUST00520,Warinder Grewal,fdugar@example.com,00932870227,Lucknow,36,Other,2024-03-20,Social Media
+CUST00521,Dayita Thakur,charlesbedi@example.org,+918926190393,Kolkata,57,Female,2022-06-29,Influencer
+CUST00522,Varenya Date,aarush40@example.com,+915837679286,Kolkata,23,Other,2022-12-02,Organic
+CUST00523,Aarini Chadha,krishamajumdar@example.com,+918328730987,Ahmedabad,26,Female,2022-07-09,Social Media
+CUST00524,Chaitaly Nagar,sarnajalsa@example.com,+919514449091,Kolkata,34,Male,2022-01-07,Ad Campaign
+CUST00525,Akshay Ahluwalia,kapadiayashvi@example.org,7226444193,Chennai,35,Female,2024-02-11,Influencer
+CUST00526,Shivani Divan,wbadami@example.org,+916699226991,Mumbai,54,Female,2024-01-11,Friend Referral
+CUST00527,Warda Loke,samarsankar@example.org,9183566409,Mumbai,33,Other,2023-12-11,Organic
+CUST00528,Aarna Zachariah,kthaker@example.net,4572889656,Delhi,37,Female,2023-04-22,Influencer
+CUST00529,Logan Prashad,etasandhu@example.net,0247323199,Pune,37,Other,2024-06-28,Friend Referral
+CUST00530,Neelima Setty,oviyatella@example.org,2979027784,Bangalore,57,Male,2023-01-12,Social Media
+CUST00531,Advika Mandal,liammody@example.org,+910998781320,Ahmedabad,27,Other,2023-05-05,Influencer
+CUST00532,Liam Mukhopadhyay,balasubramanianishanvi@example.net,+912281081619,Jaipur,44,Female,2023-01-18,Influencer
+CUST00533,Ethan Savant,tanejajack@example.com,+917910982580,Bangalore,60,Male,2024-04-01,Influencer
+CUST00534,Maanas Dubey,byogi@example.net,09711223166,Jaipur,23,Female,2024-06-13,Influencer
+CUST00535,Sneha Chakrabarti,edwinzayan@example.com,9060706125,Pune,41,Other,2023-12-22,Organic
+CUST00536,Qushi Bajwa,kashish71@example.net,5035003938,Jaipur,53,Male,2022-03-05,Influencer
+CUST00537,Lila Konda,cpalan@example.net,+918845353370,Delhi,27,Female,2023-07-04,Influencer
+CUST00538,Udyati Upadhyay,harita80@example.com,05508662427,Bangalore,25,Other,2023-03-29,Influencer
+CUST00539,Varenya Garde,xavierkohli@example.com,9654911617,Jaipur,23,Female,2023-05-16,Organic
+CUST00540,Isaac Chahal,rushilrajagopalan@example.org,4200272329,Jaipur,26,Female,2023-04-10,Ad Campaign
+CUST00541,George Agrawal,tarakkamdar@example.com,3489940321,Jaipur,21,Female,2023-08-01,Friend Referral
+CUST00542,Henry Dhar,chadyatan@example.com,07470466842,Kolkata,19,Female,2024-01-11,Organic
+CUST00543,Anthony Chahal,qmanne@example.net,+912562673859,Lucknow,31,Male,2024-02-03,Organic
+CUST00544,Aarav Jhaveri,ridhibora@example.org,02069413248,Pune,40,Other,2023-03-10,Organic
+CUST00545,Aadhya Balan,lbora@example.org,1230980430,Mumbai,48,Female,2022-03-12,Ad Campaign
+CUST00546,Harsh Dalal,onveer43@example.com,7559741753,Kolkata,26,Female,2022-07-04,Ad Campaign
+CUST00547,Sneha Seth,haritanarasimhan@example.com,07556674930,Kolkata,42,Male,2023-04-05,Influencer
+CUST00548,Gaurangi Sura,bishakha86@example.net,+912848512969,Chennai,59,Male,2022-05-17,Social Media
+CUST00549,Wriddhish Iyengar,kakarsai@example.org,+915778171666,Jaipur,43,Male,2023-07-05,Social Media
+CUST00550,Abha Agate,dhruv22@example.org,09108382722,Mumbai,18,Female,2024-05-04,Ad Campaign
+CUST00551,Dayita Mittal,golasanaya@example.com,06551889394,Kolkata,52,Other,2023-11-21,Ad Campaign
+CUST00552,Vamakshi Sane,naikpranit@example.net,08218546862,Bangalore,32,Female,2024-04-23,Friend Referral
+CUST00553,Indali Prabhu,yashodhara42@example.com,02065158193,Bangalore,35,Other,2022-06-08,Organic
+CUST00554,Chakrika Shah,kapoorjasmit@example.com,02850101262,Kolkata,60,Other,2022-02-02,Organic
+CUST00555,Agastya Dani,bvasa@example.net,04374870767,Pune,31,Male,2022-09-04,Influencer
+CUST00556,Jackson Raju,ekrish@example.com,07679287740,Lucknow,46,Other,2022-02-04,Organic
+CUST00557,Kritika Goswami,ijayabath@example.com,01536307478,Kolkata,20,Female,2022-09-08,Social Media
+CUST00558,Daksh Dada,yagneshgoel@example.org,+918045229546,Mumbai,31,Male,2023-07-07,Influencer
+CUST00559,Radhika Dewan,mishrapranav@example.org,04702480888,Lucknow,32,Female,2022-10-24,Influencer
+CUST00560,Irya Dayal,samimeera@example.net,+912321259231,Bangalore,38,Female,2023-09-05,Social Media
+CUST00561,Arin Walla,kalabhavini@example.com,00074945723,Bangalore,51,Female,2023-11-08,Friend Referral
+CUST00562,Hemani Murty,tanejareyansh@example.net,+910766062448,Jaipur,21,Other,2022-10-09,Social Media
+CUST00563,Farhan Narula,ramanathandarsh@example.net,7235065563,Jaipur,45,Female,2023-10-04,Organic
+CUST00564,Nisha Mittal,zvala@example.net,05630667818,Kolkata,59,Other,2022-12-19,Friend Referral
+CUST00565,Mitesh Lala,pgera@example.net,01854257440,Kolkata,44,Male,2023-12-15,Friend Referral
+CUST00566,Tarak Kapoor,varkeylakshmi@example.com,0832653222,Jaipur,29,Female,2023-01-21,Social Media
+CUST00567,Ikbal Bali,xgupta@example.com,+913671985214,Hyderabad,32,Other,2024-05-19,Social Media
+CUST00568,Logan Mand,etabath@example.net,+919168808559,Mumbai,47,Other,2024-04-05,Ad Campaign
+CUST00569,Anmol Mistry,yvala@example.org,2203576097,Jaipur,53,Male,2023-03-03,Ad Campaign
+CUST00570,Tanveer Nanda,bandideepa@example.net,02255300266,Bangalore,34,Female,2022-09-06,Organic
+CUST00571,Chameli Radhakrishnan,ishenoy@example.org,02214080955,Pune,41,Other,2023-04-06,Social Media
+CUST00572,Bahadurjit Thakur,rsibal@example.com,+918817233736,Kolkata,35,Other,2022-02-22,Influencer
+CUST00573,Jagdish Chanda,ektahayre@example.org,+912113441563,Pune,20,Male,2023-09-10,Influencer
+CUST00574,Urvashi Tandon,chakradhar14@example.org,9541317810,Jaipur,60,Male,2024-01-12,Ad Campaign
+CUST00575,Nakul Chawla,bumbqasim@example.net,07102655163,Hyderabad,39,Male,2022-08-02,Social Media
+CUST00576,Dev Rau,galapratyush@example.com,0421107022,Ahmedabad,25,Male,2022-07-14,Influencer
+CUST00577,Chandresh Balakrishnan,hramakrishnan@example.net,+914673383460,Kolkata,31,Male,2023-12-22,Influencer
+CUST00578,Ayush Contractor,inayak@example.com,3838838167,Kolkata,36,Female,2022-11-26,Influencer
+CUST00579,Omisha Bajwa,oscar51@example.com,03987204576,Hyderabad,40,Female,2023-10-27,Friend Referral
+CUST00580,Widisha Tripathi,xlad@example.org,+916307128814,Ahmedabad,49,Male,2023-06-10,Ad Campaign
+CUST00581,Ekavir Bawa,qabil86@example.com,3241818688,Bangalore,38,Female,2024-02-19,Friend Referral
+CUST00582,Brinda Shukla,singhfarhan@example.net,6339313306,Lucknow,20,Male,2023-02-28,Social Media
+CUST00583,Bishakha Vala,lakshmi11@example.net,0746921312,Jaipur,34,Other,2022-01-17,Influencer
+CUST00584,Zansi Iyengar,mnarang@example.com,+915808511169,Hyderabad,44,Male,2024-01-08,Social Media
+CUST00585,Ishwar Khatri,daksheshchaudhari@example.net,05885928534,Kolkata,32,Other,2022-12-04,Social Media
+CUST00586,Azad Bhalla,saishah@example.org,01699976226,Chennai,53,Female,2023-05-27,Ad Campaign
+CUST00587,Sanaya Ben,madhavi43@example.org,0397971810,Ahmedabad,59,Female,2024-01-11,Social Media
+CUST00588,Januja Sarna,manya28@example.org,06938582046,Delhi,40,Male,2024-01-21,Influencer
+CUST00589,Manan Bhasin,parekhrudra@example.com,+912941495061,Jaipur,29,Other,2023-05-16,Organic
+CUST00590,Nilima Gala,sbath@example.org,+914165957615,Pune,20,Other,2023-06-21,Organic
+CUST00591,Zaitra Dass,damyantiandra@example.org,08790105877,Kolkata,18,Male,2024-02-22,Social Media
+CUST00592,Mohini Dada,kala11@example.com,+913119639591,Mumbai,27,Male,2022-03-11,Influencer
+CUST00593,Chatura Sanghvi,arjunkorpal@example.com,0708934332,Mumbai,41,Other,2023-04-12,Influencer
+CUST00594,Gagan Shah,akshayrandhawa@example.org,6990593420,Ahmedabad,60,Male,2023-05-10,Organic
+CUST00595,Radha Garde,jagdish11@example.org,1280507982,Kolkata,53,Male,2023-06-29,Organic
+CUST00596,Xavier Kashyap,kibegeetika@example.net,8206268805,Jaipur,35,Female,2023-06-27,Organic
+CUST00597,Charita Thakkar,karharsh@example.org,7487540956,Delhi,45,Male,2023-05-30,Organic
+CUST00598,Ethan Purohit,jairajnori@example.com,2556195698,Bangalore,27,Male,2023-06-21,Influencer
+CUST00599,Champak Mallick,chanddaksh@example.org,02421257234,Chennai,34,Female,2023-06-24,Ad Campaign
+CUST00600,Krishna Natt,sodhibarkha@example.com,02076054484,Kolkata,41,Female,2022-03-22,Influencer
+CUST00601,Chaman Narayan,sathvik44@example.com,+911597050478,Hyderabad,32,Other,2022-09-07,Organic
+CUST00602,Widisha Andra,binaprashad@example.com,2324243259,Mumbai,59,Male,2023-11-01,Ad Campaign
+CUST00603,Raghav Murthy,wakeetapanchal@example.com,+910905686899,Jaipur,42,Female,2023-01-24,Organic
+CUST00604,Samarth Sen,labanmallick@example.org,02362790251,Delhi,18,Male,2023-10-15,Ad Campaign
+CUST00605,Warda Rout,ppant@example.net,+914406784643,Chennai,45,Other,2024-05-15,Organic
+CUST00606,Varsha Garde,ptaneja@example.org,+916236431482,Bangalore,20,Male,2023-06-25,Influencer
+CUST00607,Waida Mukhopadhyay,chamandutta@example.org,03099168270,Mumbai,35,Male,2023-05-02,Friend Referral
+CUST00608,Udyati Dubey,manan50@example.net,+919273800825,Mumbai,54,Male,2023-07-11,Friend Referral
+CUST00609,Daniel Bhasin,onveer82@example.net,07656677138,Lucknow,31,Male,2022-01-17,Ad Campaign
+CUST00610,Chandran Deol,miteshanne@example.org,07397593545,Delhi,37,Other,2022-03-20,Social Media
+CUST00611,Chameli Kunda,ybassi@example.com,8181096716,Jaipur,42,Female,2023-08-04,Ad Campaign
+CUST00612,Gauri Dhingra,radhatandon@example.com,9457271522,Pune,26,Other,2024-02-13,Friend Referral
+CUST00613,Ekbal Chawla,niharika44@example.com,06434151587,Kolkata,24,Male,2022-02-24,Organic
+CUST00614,Aarush Magar,senguptachakradhar@example.net,08749141582,Lucknow,56,Other,2022-12-15,Ad Campaign
+CUST00615,Ikbal Dave,chahalsamar@example.net,+915190716626,Mumbai,38,Other,2024-03-03,Friend Referral
+CUST00616,Varenya Shah,hbali@example.org,+912487997787,Ahmedabad,46,Male,2024-03-13,Friend Referral
+CUST00617,Vritti Iyengar,ckeer@example.com,03046742484,Kolkata,42,Male,2023-07-21,Influencer
+CUST00618,Nidra Bala,neelkohli@example.com,3089800285,Pune,42,Other,2023-11-08,Friend Referral
+CUST00619,Teerth Sood,advika09@example.org,07158173019,Pune,33,Male,2024-03-28,Friend Referral
+CUST00620,Girish Ganesh,surajai@example.org,2428671218,Delhi,42,Other,2022-06-07,Ad Campaign
+CUST00621,Nimrat Dixit,radhaghosh@example.org,+912768682333,Pune,41,Male,2022-11-21,Organic
+CUST00622,Urmi Bhasin,siddharthdeep@example.net,1305964682,Chennai,46,Female,2022-11-12,Organic
+CUST00623,Raagini Prakash,tooryutika@example.net,00687878615,Delhi,23,Female,2022-05-16,Ad Campaign
+CUST00624,Januja Char,pooja04@example.net,+911016157089,Jaipur,53,Female,2023-07-25,Organic
+CUST00625,Vasana Deep,yashoda64@example.net,1610811001,Chennai,23,Other,2022-01-27,Organic
+CUST00626,Hredhaan Sehgal,jhalak87@example.com,03974867731,Chennai,56,Female,2023-09-04,Organic
+CUST00627,Lipika Varghese,kashvi49@example.com,+913666457671,Kolkata,44,Male,2022-10-26,Influencer
+CUST00628,Dipta Narang,hariranveer@example.com,+919385355347,Jaipur,54,Male,2022-09-06,Ad Campaign
+CUST00629,Lajita Seth,asengupta@example.net,07588819368,Hyderabad,26,Female,2022-06-23,Friend Referral
+CUST00630,Aarav Garde,kevinvora@example.net,+910805445017,Pune,27,Male,2023-05-20,Ad Campaign
+CUST00631,Lucky Ahuja,yagneshnazareth@example.com,+910746505563,Hyderabad,44,Female,2022-10-10,Organic
+CUST00632,Geetika Parmar,bdada@example.org,0288933463,Bangalore,34,Other,2023-01-05,Ad Campaign
+CUST00633,Rajeshri Narasimhan,anaynarain@example.org,+910584451463,Bangalore,57,Female,2023-09-01,Organic
+CUST00634,Sanya Manne,shivani55@example.org,5283446955,Mumbai,37,Female,2022-05-19,Friend Referral
+CUST00635,Thomas Hayer,ymitra@example.com,+919084981267,Kolkata,57,Female,2024-05-11,Ad Campaign
+CUST00636,Netra Dhaliwal,hemagulati@example.com,3295403130,Lucknow,45,Male,2022-12-09,Friend Referral
+CUST00637,Tanay Ghosh,csuri@example.org,6959042556,Bangalore,56,Female,2022-11-25,Friend Referral
+CUST00638,Utkarsh Vora,rramakrishnan@example.org,5454974433,Chennai,43,Female,2022-07-01,Ad Campaign
+CUST00639,Bhavika Cheema,fraghavan@example.org,6088678412,Chennai,33,Female,2023-08-13,Friend Referral
+CUST00640,Chameli Sharma,parikhsamesh@example.net,04862056384,Chennai,43,Male,2024-04-16,Influencer
+CUST00641,Joshua Zachariah,ebajaj@example.com,+911378406147,Jaipur,55,Male,2022-07-24,Influencer
+CUST00642,Ikbal Lall,sahotadeepa@example.net,+914190482516,Bangalore,47,Female,2022-01-28,Friend Referral
+CUST00643,Jhalak Mandal,jrajan@example.org,1774147529,Kolkata,22,Other,2024-05-01,Ad Campaign
+CUST00644,Dakshesh Chowdhury,ishwar56@example.com,08861069145,Hyderabad,58,Male,2022-05-23,Friend Referral
+CUST00645,Ishaan Som,michaelseshadri@example.net,04205848298,Kolkata,27,Female,2023-11-06,Organic
+CUST00646,Yadavi Sami,chatresh42@example.org,08953894266,Ahmedabad,56,Other,2023-04-05,Ad Campaign
+CUST00647,Isaiah Mukhopadhyay,kundanicholas@example.net,+917280470480,Kolkata,50,Other,2023-07-02,Organic
+CUST00648,Mugdha Bajaj,umadan@example.com,+915413215970,Jaipur,41,Other,2024-03-20,Organic
+CUST00649,Dhruv Dixit,abdulagate@example.net,0730622796,Chennai,33,Male,2022-04-22,Influencer
+CUST00650,Neha Narayan,bhavsarrajeshri@example.org,+919523381032,Kolkata,54,Female,2022-02-15,Ad Campaign
+CUST00651,Vrinda Tank,ebadami@example.net,0978683706,Pune,18,Female,2022-04-19,Social Media
+CUST00652,Chatresh Murty,vkakar@example.org,2880408527,Jaipur,51,Other,2023-06-07,Influencer
+CUST00653,Warjas Shenoy,cparsa@example.com,07715009850,Chennai,46,Female,2022-08-15,Ad Campaign
+CUST00654,Chakradev Narain,yashicagolla@example.com,0662822655,Jaipur,55,Male,2024-03-01,Friend Referral
+CUST00655,Tarak Gour,sastryreyansh@example.net,03443250068,Pune,48,Female,2022-01-26,Ad Campaign
+CUST00656,Hemang Bath,gpradhan@example.com,08948993923,Delhi,25,Female,2022-03-29,Friend Referral
+CUST00657,Kabir Iyengar,fmital@example.net,09027205926,Bangalore,47,Other,2022-12-18,Ad Campaign
+CUST00658,Vinaya Pal,charan34@example.org,+913965707699,Pune,48,Female,2022-12-23,Ad Campaign
+CUST00659,Unni Nadig,charvitailor@example.org,5068873405,Hyderabad,22,Male,2022-11-23,Organic
+CUST00660,Jack Varughese,hemanisur@example.org,+918347476025,Pune,39,Other,2022-01-24,Social Media
+CUST00661,Yashawini Pant,swaminathangunbir@example.org,7254583339,Jaipur,33,Male,2024-01-29,Influencer
+CUST00662,Sara Pandey,rajeshri82@example.net,8592266269,Jaipur,39,Female,2022-06-13,Ad Campaign
+CUST00663,Farhan Baral,chaudrymaanav@example.com,8678391535,Delhi,43,Male,2022-08-26,Ad Campaign
+CUST00664,Zinal Suri,kavyavaidya@example.com,05053113894,Lucknow,19,Male,2023-02-10,Ad Campaign
+CUST00665,Laksh Mital,bailsimon@example.org,02718051686,Kolkata,45,Male,2023-08-30,Social Media
+CUST00666,Gagan Setty,avi00@example.net,+916630779804,Pune,35,Other,2022-07-30,Organic
+CUST00667,Upma Mammen,pbava@example.net,+910870093612,Delhi,52,Female,2024-03-29,Friend Referral
+CUST00668,Nisha Dugar,sainisai@example.com,+918428985342,Pune,47,Female,2022-07-21,Ad Campaign
+CUST00669,Upasna Date,isarna@example.com,00849710595,Chennai,58,Other,2023-06-25,Ad Campaign
+CUST00670,Suhani Chandra,lratti@example.com,04776618652,Lucknow,43,Male,2023-09-18,Friend Referral
+CUST00671,Sathvik Sunder,raghav44@example.com,02709174986,Lucknow,47,Male,2022-12-27,Friend Referral
+CUST00672,Faqid Saran,leenayogi@example.org,1295047726,Pune,55,Other,2023-09-22,Social Media
+CUST00673,Isaiah Goyal,lohitranganathan@example.com,04155022134,Bangalore,25,Female,2022-11-17,Organic
+CUST00674,Bimala Sharma,buchazad@example.com,+916316456513,Delhi,41,Other,2022-07-07,Ad Campaign
+CUST00675,Gaurika Oza,ekala@example.com,7824471938,Delhi,56,Other,2023-03-05,Ad Campaign
+CUST00676,Vanya Patla,dharomkaar@example.org,01378220207,Ahmedabad,29,Other,2023-03-10,Influencer
+CUST00677,Vedhika Sachdeva,barkha94@example.net,6325811007,Delhi,59,Other,2023-12-12,Social Media
+CUST00678,Dalaja Prasad,netra27@example.com,+911139202366,Delhi,36,Male,2023-05-17,Friend Referral
+CUST00679,Jeremiah Salvi,qasim94@example.com,07218599552,Lucknow,46,Male,2024-05-12,Friend Referral
+CUST00680,Chandresh Munshi,pushti72@example.net,8324505520,Delhi,49,Male,2022-01-10,Ad Campaign
+CUST00681,Luke Viswanathan,praneelshroff@example.com,+915917353675,Ahmedabad,50,Female,2023-07-30,Ad Campaign
+CUST00682,Ekavir Baria,shethekalinga@example.com,+915090333263,Ahmedabad,46,Male,2023-03-02,Organic
+CUST00683,Krisha Bhatnagar,wazirdash@example.org,08955609925,Bangalore,19,Female,2023-08-02,Organic
+CUST00684,Deepa Chakraborty,zaitra06@example.net,+918123965477,Jaipur,32,Female,2022-10-09,Social Media
+CUST00685,Ubika Bobal,jalsagandhi@example.net,4092423359,Lucknow,47,Other,2024-03-10,Ad Campaign
+CUST00686,Lavanya Bava,yahvi11@example.org,+919509580167,Pune,50,Other,2023-07-17,Organic
+CUST00687,Krishna Chatterjee,fkrish@example.com,08414890802,Chennai,52,Other,2022-10-02,Organic
+CUST00688,Bhavini Hegde,murthykala@example.net,+915953076790,Jaipur,46,Male,2024-02-18,Ad Campaign
+CUST00689,Omaja Basak,upasna75@example.net,03262157249,Bangalore,59,Female,2022-04-15,Organic
+CUST00690,Jack Arya,vedantkaul@example.net,+913637414543,Chennai,34,Male,2023-04-06,Ad Campaign
+CUST00691,Udyati Aurora,darpan54@example.com,01244766475,Bangalore,25,Male,2024-06-05,Influencer
+CUST00692,Mason Chander,qabilbedi@example.com,2836886403,Lucknow,40,Other,2023-12-07,Ad Campaign
+CUST00693,Hema Prabhakar,kparekh@example.com,06924166702,Delhi,57,Male,2022-06-19,Social Media
+CUST00694,Ayushman Rout,chaaya94@example.net,+919720470205,Lucknow,21,Female,2024-04-04,Influencer
+CUST00695,Noah Dugal,adityakoshy@example.net,06598532408,Jaipur,56,Male,2022-10-15,Friend Referral
+CUST00696,Charan Prashad,arya78@example.com,09366931252,Hyderabad,36,Other,2023-12-22,Friend Referral
+CUST00697,Chatura Dhar,girindra35@example.com,04172421337,Pune,50,Male,2024-05-28,Ad Campaign
+CUST00698,Oeshi Acharya,nakul77@example.com,+916994565053,Delhi,35,Other,2022-03-02,Social Media
+CUST00699,Om Dhillon,yshenoy@example.net,+919464680388,Chennai,27,Male,2022-09-13,Ad Campaign
+CUST00700,Jonathan Taneja,gopal64@example.net,06205693696,Lucknow,27,Other,2023-05-17,Friend Referral
+CUST00701,Yagnesh Ranganathan,turvibedi@example.org,+917081128889,Kolkata,44,Female,2023-10-05,Organic
+CUST00702,Dakshesh Sabharwal,luthraudant@example.org,07698410410,Kolkata,23,Other,2023-10-11,Friend Referral
+CUST00703,Ekavir Sachdeva,kaulupkaar@example.net,09794706687,Ahmedabad,41,Female,2023-12-13,Friend Referral
+CUST00704,Meghana Wable,chakrika35@example.com,2412798783,Pune,18,Other,2023-08-19,Ad Campaign
+CUST00705,Falak Loyal,spandit@example.net,+913464469275,Chennai,60,Male,2023-10-13,Influencer
+CUST00706,Ikshita Kala,bakhshi41@example.com,+910514322250,Kolkata,31,Male,2023-02-12,Ad Campaign
+CUST00707,Unni Vyas,suhanigala@example.org,07591105361,Hyderabad,38,Female,2022-10-02,Influencer
+CUST00708,Urishilla Sule,fsaraf@example.com,+910026541692,Lucknow,26,Female,2023-08-15,Friend Referral
+CUST00709,Charan Deep,mannanedhitha@example.com,06762820543,Mumbai,21,Male,2023-11-30,Ad Campaign
+CUST00710,Rehaan Om,baradvincent@example.org,5100867671,Delhi,25,Female,2022-01-17,Ad Campaign
+CUST00711,Nandini Narang,meghanadubey@example.net,3549481840,Bangalore,45,Other,2022-01-01,Social Media
+CUST00712,Ekbal Ranganathan,lekha52@example.com,2559340221,Hyderabad,59,Male,2024-06-22,Friend Referral
+CUST00713,Simon Parekh,behlkabir@example.org,5333749622,Chennai,59,Female,2022-04-06,Organic
+CUST00714,Jonathan Loke,mekhala52@example.org,+917455024301,Delhi,60,Male,2023-01-16,Ad Campaign
+CUST00715,Liam Srinivasan,nwadhwa@example.com,07723104609,Bangalore,37,Female,2023-10-03,Organic
+CUST00716,Vidhi Bhalla,rkumar@example.com,+917672696912,Mumbai,24,Male,2023-12-22,Ad Campaign
+CUST00717,Zayan Pathak,wishi53@example.com,+917929707115,Lucknow,26,Male,2022-03-21,Influencer
+CUST00718,Ekiya Tailor,bhavna14@example.com,6360552697,Mumbai,46,Male,2023-11-28,Friend Referral
+CUST00719,Veer Thaker,bainsinaya@example.net,04440343790,Kolkata,25,Other,2024-04-16,Social Media
+CUST00720,Ethan Gill,bkanda@example.net,+918486925428,Bangalore,22,Female,2023-05-05,Organic
+CUST00721,Nidra Sandal,kalanicholas@example.net,+919228494238,Pune,24,Female,2024-01-19,Friend Referral
+CUST00722,Vasatika Srinivasan,bhatianilima@example.net,+915487773370,Delhi,37,Female,2024-06-21,Social Media
+CUST00723,Tara Mishra,yatwal@example.org,4244443244,Pune,27,Other,2023-10-19,Influencer
+CUST00724,Chanakya Master,mganguly@example.com,7800502956,Delhi,57,Female,2022-01-09,Friend Referral
+CUST00725,Quincy Goda,jason30@example.net,4278770152,Delhi,31,Female,2024-01-10,Influencer
+CUST00726,Jacob Palan,sanyaahluwalia@example.com,03523017431,Bangalore,46,Male,2023-12-05,Organic
+CUST00727,Pallavi Chopra,kabir71@example.com,+919375942065,Lucknow,25,Other,2022-05-24,Ad Campaign
+CUST00728,Dalbir Munshi,priya95@example.com,+917405449197,Chennai,45,Male,2022-12-26,Social Media
+CUST00729,Gopal Chandran,chadomisha@example.org,00664129387,Pune,59,Male,2022-10-11,Influencer
+CUST00730,Tanish Minhas,usur@example.org,5232560330,Lucknow,56,Female,2023-09-08,Organic
+CUST00731,Xalak Bala,kbanerjee@example.com,00182325307,Hyderabad,60,Male,2024-05-18,Influencer
+CUST00732,Vamakshi Ramachandran,tsen@example.net,04164155958,Bangalore,50,Other,2023-09-14,Ad Campaign
+CUST00733,Wriddhish Mital,ikapoor@example.com,09106601604,Mumbai,59,Male,2022-10-30,Ad Campaign
+CUST00734,Maya Dewan,kalaabhiram@example.org,8039258312,Bangalore,25,Female,2023-01-31,Influencer
+CUST00735,Chanakya Kurian,bobalalexander@example.net,08188355497,Mumbai,51,Female,2022-03-14,Friend Referral
+CUST00736,Dhriti Sathe,dyohannan@example.net,2224894483,Lucknow,42,Female,2022-05-16,Friend Referral
+CUST00737,Barkha Manda,xnair@example.org,02534310873,Ahmedabad,29,Male,2023-07-14,Organic
+CUST00738,Saanvi Garg,ladlioommen@example.net,2554496121,Mumbai,22,Female,2023-08-25,Social Media
+CUST00739,Chavvi Sarraf,charvichawla@example.com,03895401727,Kolkata,21,Other,2022-02-10,Friend Referral
+CUST00740,Gaurika Sahota,anayviswanathan@example.com,+916401901913,Kolkata,50,Female,2023-10-06,Ad Campaign
+CUST00741,Wyatt Madan,mandalayushman@example.org,7150323442,Jaipur,58,Other,2022-03-26,Influencer
+CUST00742,Bhanumati Bajwa,matthew47@example.org,05710456789,Pune,35,Female,2022-06-06,Organic
+CUST00743,Charita Doshi,baghyawatiraghavan@example.net,+912689755582,Delhi,31,Other,2023-06-08,Friend Referral
+CUST00744,Jacob Dugar,masterlavanya@example.net,+910685676244,Pune,55,Female,2023-02-05,Ad Campaign
+CUST00745,Isaac Mistry,dwadhwa@example.net,05801168374,Mumbai,33,Male,2024-01-18,Organic
+CUST00746,Frado Mander,hardikpant@example.com,+910102575708,Ahmedabad,25,Other,2023-03-21,Influencer
+CUST00747,Triya Kala,jasmitsingh@example.com,01046003836,Delhi,37,Male,2022-02-26,Organic
+CUST00748,Oliver Mangal,ramabahadurjit@example.net,3841125099,Mumbai,26,Male,2023-12-26,Ad Campaign
+CUST00749,Saksham Vasa,raagini27@example.net,00457003149,Jaipur,51,Other,2022-12-22,Friend Referral
+CUST00750,Varsha Verma,oliverlad@example.net,5752531335,Delhi,41,Other,2022-06-20,Friend Referral
+CUST00751,Krishna Chand,lbarman@example.net,07491330977,Mumbai,25,Female,2024-01-21,Ad Campaign
+CUST00752,Madhav Chandran,rauarunima@example.org,+916269700026,Pune,51,Female,2022-10-06,Influencer
+CUST00753,Lohit Chanda,sakshamdesai@example.net,0691756798,Ahmedabad,22,Female,2023-10-05,Influencer
+CUST00754,Vrishti Pant,keya97@example.net,+917931613274,Ahmedabad,21,Other,2023-01-04,Social Media
+CUST00755,Vritti Dara,barmancharvi@example.net,0682655195,Hyderabad,28,Male,2023-01-12,Influencer
+CUST00756,Vasudha Agrawal,gayathrigarde@example.com,8728916003,Bangalore,25,Other,2023-11-22,Influencer
+CUST00757,Dhruv Bava,gangapingle@example.net,8079967331,Mumbai,20,Male,2022-01-03,Organic
+CUST00758,Vedika Warrior,sluthra@example.com,07235107110,Kolkata,41,Male,2023-04-29,Social Media
+CUST00759,Unnati Vaidya,warhi49@example.org,+914925380343,Jaipur,20,Other,2024-05-28,Ad Campaign
+CUST00760,Ekantika Kurian,rvenkatesh@example.com,+918314167803,Bangalore,38,Female,2022-08-18,Friend Referral
+CUST00761,Geetika Pillai,lsahni@example.org,+918489792649,Lucknow,22,Female,2022-10-05,Organic
+CUST00762,Kevin Rana,mekhalasingh@example.net,09020468376,Delhi,21,Male,2023-05-30,Influencer
+CUST00763,Hitesh Misra,salviyashoda@example.org,02299560600,Pune,43,Female,2022-02-17,Friend Referral
+CUST00764,Chanchal Sathe,neelimadugal@example.com,01505008026,Chennai,37,Male,2024-03-03,Influencer
+CUST00765,Rudra Karnik,gtak@example.net,+917816718751,Chennai,18,Male,2023-04-13,Friend Referral
+CUST00766,Max Murty,tanejayauvani@example.org,6296097274,Lucknow,37,Male,2023-08-01,Ad Campaign
+CUST00767,Andrew Walla,kakarqabil@example.net,1398363909,Ahmedabad,55,Male,2023-01-13,Influencer
+CUST00768,Leena Mishra,ksood@example.org,7487648155,Delhi,33,Male,2024-02-18,Ad Campaign
+CUST00769,Utkarsh Gulati,vrattan@example.com,9332926842,Jaipur,32,Female,2022-01-25,Organic
+CUST00770,Frederick Sawhney,vdhar@example.net,+910336587653,Kolkata,18,Other,2022-12-10,Friend Referral
+CUST00771,Jagdish Batra,oeshiarya@example.org,+919292723500,Jaipur,31,Male,2022-04-17,Ad Campaign
+CUST00772,Geetika Dhar,isha40@example.org,1992915360,Delhi,21,Other,2023-05-19,Friend Referral
+CUST00773,Hemang Bhalla,saiben@example.com,9473253995,Bangalore,20,Other,2022-04-06,Ad Campaign
+CUST00774,Upadhriti Saraf,zinaltalwar@example.org,+915317220311,Ahmedabad,41,Other,2023-12-19,Organic
+CUST00775,Meghana Patil,jeetrandhawa@example.com,+919974658287,Jaipur,24,Male,2023-08-18,Ad Campaign
+CUST00776,Jeet Aurora,dominic24@example.net,05634307780,Lucknow,55,Male,2022-03-18,Ad Campaign
+CUST00777,Ladli Goel,varmayadavi@example.org,08466507416,Bangalore,26,Female,2023-11-10,Friend Referral
+CUST00778,Atharv Padmanabhan,parth76@example.com,6790850381,Kolkata,38,Other,2024-05-21,Friend Referral
+CUST00779,Krishna Dubey,vrishtilall@example.org,01282841495,Hyderabad,46,Male,2022-11-22,Organic
+CUST00780,Matthew Tandon,obhardwaj@example.com,+917842330586,Lucknow,26,Male,2022-07-27,Social Media
+CUST00781,Widisha Sharma,osanghvi@example.net,06159897710,Ahmedabad,28,Female,2022-04-19,Friend Referral
+CUST00782,Jalsa Kota,idikahayre@example.net,3909163451,Jaipur,25,Female,2023-02-21,Social Media
+CUST00783,Girindra Garde,zwali@example.org,02632866124,Ahmedabad,37,Female,2023-04-08,Organic
+CUST00784,Girindra Deep,shethzaitra@example.net,0012905783,Hyderabad,28,Other,2022-04-03,Influencer
+CUST00785,Nisha Khurana,madhav00@example.com,+915266718539,Chennai,31,Male,2022-02-11,Organic
+CUST00786,Ansh Kapur,phalder@example.net,09314662403,Chennai,33,Female,2023-12-30,Influencer
+CUST00787,Aayush Bhardwaj,ansh36@example.com,+911562449726,Hyderabad,37,Male,2022-02-20,Organic
+CUST00788,Tanveer Pant,dayamainagarajan@example.com,07133001162,Jaipur,46,Other,2023-02-19,Influencer
+CUST00789,Bhavika Saha,oramachandran@example.org,7994018698,Ahmedabad,24,Male,2022-09-13,Social Media
+CUST00790,Gaurang Dua,vasatikasom@example.org,06251588642,Mumbai,18,Male,2022-05-05,Social Media
+CUST00791,Nilima Kaul,masonben@example.org,01877352698,Chennai,43,Other,2022-07-22,Organic
+CUST00792,Laban Bali,ishani56@example.com,+918386474619,Hyderabad,55,Male,2023-08-20,Organic
+CUST00793,Oliver Reddy,vasudhamahal@example.com,08144002786,Ahmedabad,30,Male,2022-03-08,Organic
+CUST00794,Darpan Pillay,ijayabhatti@example.net,04172762833,Pune,39,Male,2024-05-17,Ad Campaign
+CUST00795,Thomas Batta,desailohit@example.net,05535860335,Lucknow,28,Female,2022-02-21,Ad Campaign
+CUST00796,Hemangini Jha,ubikamammen@example.com,4561662372,Kolkata,19,Other,2023-05-24,Ad Campaign
+CUST00797,Azad Rastogi,khalsakamala@example.com,9720479908,Bangalore,40,Male,2022-06-26,Friend Referral
+CUST00798,Dayamai Mani,rattidevika@example.com,07908823534,Delhi,46,Male,2022-10-14,Influencer
+CUST00799,Gavin Bhargava,xgoda@example.org,+917646636539,Bangalore,57,Other,2023-09-27,Friend Referral
+CUST00800,Jason Palla,krishnaraj@example.net,08558202535,Jaipur,44,Female,2023-05-26,Organic
+CUST00801,Deepa Vyas,wriddhishbhatnagar@example.com,2835462551,Kolkata,35,Male,2022-03-31,Ad Campaign
+CUST00802,Harinakshi Mallick,upmachandran@example.com,+915376591805,Jaipur,59,Male,2022-07-24,Influencer
+CUST00803,Ishita Vaidya,jasmitpatla@example.net,5939044553,Kolkata,19,Other,2024-03-24,Friend Referral
+CUST00804,Wazir Sridhar,karankumer@example.com,1734238915,Ahmedabad,52,Female,2023-05-07,Influencer
+CUST00805,Ayush Chauhan,masonmital@example.net,05136881219,Kolkata,38,Female,2023-05-30,Social Media
+CUST00806,Krishna Sodhi,meghanagy@example.com,1953181706,Lucknow,38,Male,2022-01-27,Organic
+CUST00807,Unnati Bobal,vasana60@example.net,+914052004343,Mumbai,35,Female,2024-04-10,Influencer
+CUST00808,Bakhshi Nazareth,michaelsrinivasan@example.net,00930366761,Bangalore,55,Male,2023-01-02,Organic
+CUST00809,Ekaraj Din,sundaramlucky@example.org,+913282263931,Bangalore,60,Female,2022-09-11,Influencer
+CUST00810,Kavya Vig,timothyrajagopal@example.com,+918378465028,Bangalore,21,Other,2024-04-15,Ad Campaign
+CUST00811,Yadavi Dayal,thakkaryuvraj@example.com,+910288375323,Delhi,29,Male,2022-12-30,Influencer
+CUST00812,Christopher Apte,omisha77@example.org,+910118089746,Lucknow,40,Male,2022-11-22,Friend Referral
+CUST00813,William Nadig,harrison02@example.com,5730897562,Delhi,54,Other,2023-08-05,Social Media
+CUST00814,Kalpit Shetty,bkonda@example.org,03041421624,Jaipur,49,Female,2024-05-06,Social Media
+CUST00815,Isha Ravi,soodvyanjana@example.com,7095271863,Pune,20,Male,2023-05-18,Social Media
+CUST00816,Upma Gokhale,oeshi33@example.net,+911410418897,Mumbai,32,Other,2023-09-09,Ad Campaign
+CUST00817,Yatin Chopra,kundanilima@example.net,+915384347179,Lucknow,39,Male,2022-01-01,Social Media
+CUST00818,Victor Shenoy,warhi55@example.org,9254644766,Chennai,29,Male,2022-12-15,Organic
+CUST00819,Balhaar Garde,urvisachdeva@example.com,7262473241,Delhi,55,Male,2022-06-01,Influencer
+CUST00820,Jagvi Sha,charan47@example.net,7182608112,Pune,41,Female,2024-05-31,Ad Campaign
+CUST00821,Bimala Ghosh,cverma@example.com,+915538582227,Chennai,24,Female,2023-08-24,Friend Referral
+CUST00822,Barkha Chadha,buchyahvi@example.org,01478517750,Kolkata,28,Other,2022-05-20,Ad Campaign
+CUST00823,Jatin Khanna,aditya48@example.net,1355243948,Delhi,38,Other,2023-10-27,Influencer
+CUST00824,Frado Jayaraman,duttachakrika@example.net,09403969949,Chennai,57,Male,2023-12-12,Influencer
+CUST00825,Jeet Sarkar,cthakur@example.net,5772752339,Kolkata,29,Female,2024-04-14,Friend Referral
+CUST00826,Aditya Borra,hnigam@example.org,1811369185,Mumbai,29,Other,2022-05-11,Influencer
+CUST00827,Oviya Joshi,deshmukhidika@example.net,+915237904056,Mumbai,54,Male,2023-02-05,Influencer
+CUST00828,Zayan Date,rehaangrewal@example.com,2398399129,Bangalore,57,Other,2022-11-22,Influencer
+CUST00829,Aayush Parikh,wguha@example.net,2703676723,Delhi,49,Female,2022-04-17,Organic
+CUST00830,Indrajit Munshi,ibhatnagar@example.net,0892930300,Chennai,40,Male,2022-09-01,Organic
+CUST00831,Advaith Choudhary,nathnihal@example.org,+919142309202,Chennai,60,Female,2024-04-21,Organic
+CUST00832,Viraj Mann,vedhika56@example.net,6777820292,Bangalore,31,Other,2022-09-29,Organic
+CUST00833,Jairaj Cheema,prashadpavani@example.com,3995939349,Pune,34,Other,2022-12-25,Organic
+CUST00834,Kashvi Korpal,llad@example.com,03086731799,Ahmedabad,42,Other,2022-02-19,Ad Campaign
+CUST00835,Jeremiah Sarma,wraj@example.com,5831859862,Ahmedabad,44,Female,2022-06-20,Friend Referral
+CUST00836,Jatin Dara,karanom@example.net,02404570306,Pune,42,Female,2023-07-14,Influencer
+CUST00837,Jonathan Mital,dalbir37@example.org,+910352350886,Delhi,32,Female,2023-10-29,Organic
+CUST00838,Nakul Pillai,amahal@example.net,+910327213040,Hyderabad,20,Male,2024-03-29,Friend Referral
+CUST00839,Jatin Master,wyattmukhopadhyay@example.net,+914829147355,Pune,24,Female,2022-09-25,Social Media
+CUST00840,Ekavir Patla,gandhigirik@example.net,+914252076497,Delhi,42,Other,2024-06-28,Organic
+CUST00841,Qasim Rege,sameshbalan@example.net,06391727577,Chennai,23,Other,2023-07-15,Influencer
+CUST00842,Vamakshi Kumer,shankarjagvi@example.org,3020613116,Kolkata,19,Other,2023-05-10,Social Media
+CUST00843,Radha Handa,chaitanya38@example.com,8617627725,Delhi,45,Male,2023-09-14,Organic
+CUST00844,Sachi Sawhney,mohanvivaan@example.net,4805993069,Bangalore,31,Female,2022-12-06,Influencer
+CUST00845,Utkarsh Gole,mekhalachoudhary@example.org,00874682975,Hyderabad,52,Other,2024-01-10,Friend Referral
+CUST00846,Indali Sheth,ikbal87@example.com,3211635336,Pune,33,Male,2022-11-01,Ad Campaign
+CUST00847,Arya Memon,wsinghal@example.com,08101307200,Ahmedabad,53,Male,2023-08-09,Organic
+CUST00848,Veda Banerjee,xiti22@example.net,+919427789235,Kolkata,18,Male,2023-01-05,Friend Referral
+CUST00849,Gayathri Kannan,somantanvi@example.com,03014422762,Lucknow,60,Female,2024-04-23,Social Media
+CUST00850,Ayushman Ahuja,naveen81@example.net,06054884221,Bangalore,19,Male,2022-04-10,Friend Referral
+CUST00851,Michael Banik,skoshy@example.com,9176189905,Pune,48,Female,2022-03-25,Ad Campaign
+CUST00852,Zehaan Lanka,harita38@example.net,+913487957110,Hyderabad,49,Male,2023-04-28,Influencer
+CUST00853,Turvi Aurora,pallkevin@example.com,+916130786739,Chennai,29,Female,2023-02-01,Friend Referral
+CUST00854,Imaran Nath,deepa02@example.net,06621730739,Mumbai,46,Female,2022-07-11,Ad Campaign
+CUST00855,Veda Bhalla,hiralsunder@example.com,+915271998374,Bangalore,34,Female,2023-04-22,Influencer
+CUST00856,Guneet Borra,wsachdeva@example.com,5865046528,Pune,27,Male,2022-03-05,Friend Referral
+CUST00857,Leena Prakash,fpai@example.org,+917241669673,Kolkata,52,Other,2024-04-07,Social Media
+CUST00858,Yashodhara Mukherjee,rsachdev@example.net,4615400121,Kolkata,21,Other,2023-07-21,Ad Campaign
+CUST00859,Shivani Jayaraman,msarna@example.net,06675870228,Lucknow,48,Male,2023-07-03,Ad Campaign
+CUST00860,Harita Saini,jagvi24@example.org,+910515874032,Kolkata,23,Other,2022-11-03,Organic
+CUST00861,Harita More,narayanirya@example.net,1495583186,Jaipur,54,Other,2023-05-30,Influencer
+CUST00862,Nathaniel Khalsa,jbajwa@example.com,03408494966,Ahmedabad,25,Male,2022-05-31,Social Media
+CUST00863,Rohan Chhabra,balabachittar@example.net,+913437765042,Delhi,30,Male,2022-08-05,Ad Campaign
+CUST00864,Hardik Reddy,tankwarhi@example.com,05687233895,Bangalore,45,Other,2022-03-22,Social Media
+CUST00865,Abdul Merchant,yaminidoctor@example.net,07901521261,Hyderabad,56,Female,2024-05-04,Organic
+CUST00866,Pallavi Sachdeva,chanchalnaidu@example.org,06924944331,Jaipur,42,Female,2022-03-31,Influencer
+CUST00867,Tristan Randhawa,bhanumatiparsa@example.net,+917220053366,Jaipur,35,Female,2022-11-30,Organic
+CUST00868,Tarak Jain,doshidaksha@example.com,04945154429,Lucknow,57,Other,2024-03-16,Ad Campaign
+CUST00869,Chakradhar Puri,hiral80@example.net,8955047958,Delhi,44,Male,2022-04-26,Influencer
+CUST00870,Eesha Varma,hvig@example.net,+912062309285,Pune,55,Male,2023-08-26,Influencer
+CUST00871,Jack Kumar,dhari@example.org,+919515187040,Hyderabad,24,Other,2024-03-09,Friend Referral
+CUST00872,Guneet De,yashicaedwin@example.net,02446033225,Hyderabad,44,Female,2024-06-17,Ad Campaign
+CUST00873,Jai Aggarwal,tanish84@example.com,+915385925217,Ahmedabad,56,Male,2023-08-09,Social Media
+CUST00874,Henry Tripathi,ucchal56@example.com,06843068011,Delhi,43,Other,2022-10-10,Influencer
+CUST00875,Maya Shah,bdey@example.net,7164915747,Mumbai,43,Female,2023-11-29,Friend Referral
+CUST00876,Owen Sandal,manyachana@example.org,8509936388,Mumbai,33,Other,2023-12-09,Ad Campaign
+CUST00877,Samesh Baria,srinivassuhani@example.org,2410498144,Mumbai,41,Female,2022-10-03,Friend Referral
+CUST00878,Yashawini Wagle,ramabahadurjit@example.org,07988523544,Ahmedabad,35,Other,2022-11-15,Organic
+CUST00879,Pahal Rattan,doragunbir@example.com,01713330451,Delhi,32,Female,2024-06-08,Ad Campaign
+CUST00880,Lopa Chand,sharmayochana@example.com,4712482411,Hyderabad,38,Other,2024-03-03,Ad Campaign
+CUST00881,Yashodhara Parsa,pushti91@example.net,+912986802370,Pune,59,Male,2023-09-12,Ad Campaign
+CUST00882,Zaitra Mannan,vsehgal@example.org,3025050651,Ahmedabad,44,Other,2022-08-05,Friend Referral
+CUST00883,Chanchal Char,kparmer@example.com,+916835344393,Jaipur,21,Male,2024-04-20,Organic
+CUST00884,Ekani Randhawa,nakshsamra@example.net,5394606574,Kolkata,50,Male,2022-11-15,Influencer
+CUST00885,Aditya Raj,chaitanya36@example.com,+915209219655,Mumbai,54,Male,2024-06-19,Social Media
+CUST00886,Maya Lanka,anjalichaudhary@example.com,5030358323,Mumbai,30,Male,2024-06-15,Organic
+CUST00887,Eta Setty,wardachatterjee@example.net,0859267468,Chennai,21,Other,2023-04-13,Social Media
+CUST00888,Tarak Chopra,korpalekavir@example.com,5404680171,Ahmedabad,41,Other,2022-10-08,Ad Campaign
+CUST00889,Mahika Mani,mcheema@example.org,6582024367,Mumbai,25,Male,2023-10-13,Friend Referral
+CUST00890,Veer Bobal,rishi24@example.net,0847513323,Ahmedabad,56,Male,2023-05-16,Ad Campaign
+CUST00891,Yash Rege,mohini27@example.net,+910526557351,Chennai,53,Female,2023-08-24,Social Media
+CUST00892,Januja Nath,hemangkurian@example.com,+915836227722,Pune,34,Female,2024-05-07,Organic
+CUST00893,Benjamin Sant,anamikadani@example.org,+913098839461,Delhi,21,Other,2023-01-31,Social Media
+CUST00894,Bhavna Karpe,tanveer44@example.org,05960493607,Bangalore,32,Other,2024-05-27,Social Media
+CUST00895,Arin Sane,sanaya04@example.org,01520589319,Kolkata,59,Other,2022-10-03,Organic
+CUST00896,William Sastry,udarsh29@example.com,+914562240813,Ahmedabad,18,Male,2024-06-04,Social Media
+CUST00897,Aarnav Saraf,henrymukherjee@example.com,+913902550282,Bangalore,18,Female,2023-09-08,Influencer
+CUST00898,Kritika Kari,jhalakborde@example.net,07171610615,Hyderabad,37,Female,2024-04-04,Ad Campaign
+CUST00899,Aahana Dara,umang50@example.com,+914291467467,Ahmedabad,40,Female,2024-05-22,Social Media
+CUST00900,Baljiwan Buch,ayaan41@example.com,01636685045,Jaipur,37,Other,2023-04-23,Ad Campaign
+CUST00901,Baljiwan Sidhu,fsolanki@example.net,02461857592,Mumbai,24,Other,2023-08-22,Friend Referral
+CUST00902,Yasti Munshi,deranbir@example.org,03120872136,Lucknow,59,Other,2023-07-29,Friend Referral
+CUST00903,Vivaan Sheth,lkumer@example.org,4790588322,Ahmedabad,24,Male,2022-11-02,Friend Referral
+CUST00904,Nathan Purohit,grovergeetika@example.com,1375210352,Chennai,58,Female,2022-10-11,Friend Referral
+CUST00905,Aarini Khanna,deolorinder@example.net,04724210833,Hyderabad,59,Male,2023-11-03,Social Media
+CUST00906,Lavanya Patel,iandra@example.org,02088687800,Mumbai,33,Other,2023-06-14,Ad Campaign
+CUST00907,Quincy Sanghvi,lsalvi@example.org,+918148739753,Delhi,38,Other,2023-11-08,Organic
+CUST00908,Gaurav Mammen,mwadhwa@example.net,+919045042994,Hyderabad,49,Female,2023-11-03,Ad Campaign
+CUST00909,Faras Korpal,chamelibaral@example.org,+911069899349,Mumbai,42,Other,2023-02-19,Influencer
+CUST00910,Aditya Chauhan,dashoviya@example.com,5127749496,Chennai,30,Other,2024-04-15,Social Media
+CUST00911,Omisha Loke,ganeshaachal@example.net,00597376895,Ahmedabad,52,Other,2023-12-04,Friend Referral
+CUST00912,Eiravati Krishna,erandhawa@example.net,+912161885529,Delhi,37,Other,2023-06-04,Influencer
+CUST00913,Falak Shan,sanya50@example.com,0106879562,Pune,36,Female,2022-07-05,Social Media
+CUST00914,Gavin Khare,somkrishna@example.org,0062389290,Jaipur,34,Male,2024-01-29,Friend Referral
+CUST00915,Harshil Agate,mswamy@example.net,00032110180,Bangalore,23,Female,2023-11-02,Social Media
+CUST00916,Nilima Balan,gchahal@example.org,+915257320413,Kolkata,37,Female,2024-02-02,Friend Referral
+CUST00917,Yauvani Chaudhari,skaran@example.net,00719391689,Hyderabad,55,Female,2022-09-24,Organic
+CUST00918,Ekta Vaidya,lalajairaj@example.org,00189523369,Lucknow,21,Other,2023-04-27,Influencer
+CUST00919,Eshana Badal,tarababu@example.net,7231478813,Bangalore,48,Other,2022-03-14,Organic
+CUST00920,Yashica Murty,cjhaveri@example.net,1734859546,Jaipur,42,Female,2024-06-07,Ad Campaign
+CUST00921,Krishna Nagar,halderzaid@example.com,7334300896,Delhi,27,Male,2022-02-25,Friend Referral
+CUST00922,Yutika Sachdeva,ojasvisagar@example.org,02468180793,Ahmedabad,54,Male,2023-02-24,Friend Referral
+CUST00923,Varsha Sarma,anay05@example.org,04972180931,Pune,29,Female,2024-06-02,Friend Referral
+CUST00924,Varsha Kaur,radhikayadav@example.com,8873258423,Chennai,29,Other,2023-10-09,Organic
+CUST00925,Sai Nagar,cpandey@example.net,07565811904,Hyderabad,46,Male,2022-01-05,Social Media
+CUST00926,Pratyush Arora,lila39@example.net,9569041780,Ahmedabad,28,Male,2023-08-14,Social Media
+CUST00927,Eshana Nadig,ishaninagarajan@example.org,01207610339,Kolkata,45,Female,2023-09-22,Ad Campaign
+CUST00928,Falan Khosla,schandra@example.net,7640662470,Mumbai,42,Male,2023-05-04,Influencer
+CUST00929,Zansi Chaudhari,zehaan32@example.com,6141206656,Mumbai,41,Female,2022-07-24,Influencer
+CUST00930,Om Kurian,yashodharavyas@example.com,08093215699,Mumbai,19,Other,2022-07-15,Social Media
+CUST00931,Indrajit Oak,masteradweta@example.com,+919535451406,Hyderabad,40,Male,2022-08-20,Organic
+CUST00932,Daksha Patla,ebarad@example.net,06829731717,Lucknow,50,Female,2023-01-28,Social Media
+CUST00933,Xiti Saraf,hrao@example.org,04698667339,Hyderabad,20,Female,2022-03-08,Ad Campaign
+CUST00934,Yadavi Kanda,parekhupkaar@example.net,1167192889,Lucknow,51,Other,2024-01-16,Friend Referral
+CUST00935,Hitesh Tata,aprabhu@example.net,+913195475137,Chennai,26,Female,2023-03-21,Friend Referral
+CUST00936,Urvashi Thaker,ryan14@example.net,+917173748482,Delhi,30,Female,2024-02-08,Organic
+CUST00937,Niharika Yogi,aashibora@example.com,08235466607,Delhi,32,Male,2022-08-22,Organic
+CUST00938,Advika Grover,bhallalaksh@example.org,5087663991,Delhi,50,Male,2023-08-27,Friend Referral
+CUST00939,Abhimanyu Mutti,vasana27@example.net,+917023406517,Mumbai,59,Female,2023-12-30,Friend Referral
+CUST00940,Oeshi Prasad,adweta12@example.net,+914626258488,Lucknow,52,Male,2024-02-29,Influencer
+CUST00941,Ansh Borde,jalsasura@example.net,3495794302,Pune,60,Other,2022-02-19,Organic
+CUST00942,Zehaan Mody,daraamruta@example.org,+917360763396,Kolkata,25,Female,2022-02-19,Ad Campaign
+CUST00943,Pooja Ganesan,nilima93@example.org,+915384788502,Hyderabad,53,Female,2022-05-07,Social Media
+CUST00944,Chakradev Halder,vrishti35@example.org,0878894176,Mumbai,58,Female,2022-07-30,Ad Campaign
+CUST00945,Gopal Chandran,kavya28@example.org,+912059327239,Jaipur,24,Female,2023-11-09,Influencer
+CUST00946,Samarth Bhatti,cramaswamy@example.org,1630590580,Kolkata,26,Male,2023-09-13,Influencer
+CUST00947,Diya Narasimhan,ishitachaudhuri@example.net,03949612226,Pune,57,Female,2024-01-07,Organic
+CUST00948,Nachiket Seth,mkamdar@example.net,05267613044,Ahmedabad,24,Male,2024-03-14,Influencer
+CUST00949,Akshay Dugal,dashfrado@example.com,05925074132,Jaipur,34,Male,2022-07-24,Friend Referral
+CUST00950,Girindra Goda,mkunda@example.com,+910277395255,Hyderabad,44,Male,2023-12-22,Organic
+CUST00951,Nihal Sen,mason58@example.org,+917834607368,Bangalore,49,Other,2023-07-16,Ad Campaign
+CUST00952,Dipta Naidu,varenyanayar@example.org,02252874440,Mumbai,33,Male,2022-12-05,Organic
+CUST00953,Nicholas Sarraf,chaitaly72@example.net,9349553059,Ahmedabad,54,Male,2022-04-24,Organic
+CUST00954,Baljiwan Keer,oscardutt@example.org,07708256893,Pune,50,Other,2024-03-09,Organic
+CUST00955,Parth Bahl,vincent28@example.org,6310821428,Bangalore,59,Female,2022-09-20,Friend Referral
+CUST00956,Chaitanya Palla,zbhattacharyya@example.com,05396322914,Mumbai,47,Male,2022-09-28,Social Media
+CUST00957,Nicholas Pillai,rachitratta@example.com,+914600848601,Hyderabad,20,Female,2024-06-14,Friend Referral
+CUST00958,Kabir Ben,utripathi@example.net,+918578099452,Pune,25,Male,2023-03-13,Organic
+CUST00959,Nicholas Virk,zbava@example.net,01955838984,Delhi,26,Female,2024-05-22,Friend Referral
+CUST00960,Vasudha Devi,danielbadal@example.com,+915569949257,Hyderabad,57,Other,2023-03-25,Organic
+CUST00961,Bishakha Bawa,chanakya72@example.net,+913398375370,Delhi,39,Male,2023-01-17,Ad Campaign
+CUST00962,Hemang Subramaniam,jagat98@example.net,+914509091769,Hyderabad,47,Female,2023-02-14,Ad Campaign
+CUST00963,Yashoda Vig,advika68@example.com,+915574743292,Delhi,44,Male,2024-03-30,Social Media
+CUST00964,Tamanna Dara,imisra@example.com,2451377068,Delhi,21,Male,2023-12-14,Ad Campaign
+CUST00965,Benjamin Taneja,rehaandey@example.org,00427932087,Lucknow,48,Other,2023-08-28,Ad Campaign
+CUST00966,Chakradhar Tak,chanakyagour@example.com,4174102682,Kolkata,57,Female,2022-07-05,Influencer
+CUST00967,Farhan Bhat,hvarty@example.org,09786066309,Ahmedabad,26,Female,2022-01-30,Organic
+CUST00968,Amrita Bhatia,pranitraman@example.com,05132274984,Ahmedabad,44,Male,2024-06-27,Organic
+CUST00969,Inaya Bhakta,omagar@example.com,+917080071742,Chennai,59,Male,2022-09-25,Influencer
+CUST00970,Shivansh Arora,mbahri@example.com,01205071857,Lucknow,54,Male,2024-02-25,Friend Referral
+CUST00971,Manbir Sha,yochanasrinivas@example.net,+919620412694,Lucknow,51,Male,2023-06-16,Ad Campaign
+CUST00972,Azaan Prabhu,csolanki@example.net,+910769869417,Ahmedabad,33,Female,2023-11-09,Ad Campaign
+CUST00973,Ayush Cherian,mitalmohini@example.net,+915980034717,Lucknow,53,Male,2022-06-02,Organic
+CUST00974,Zarna Taneja,teerthpingle@example.net,8608068981,Jaipur,28,Female,2023-10-21,Ad Campaign
+CUST00975,Orinder Viswanathan,psrivastava@example.com,9616741512,Pune,28,Female,2024-06-09,Friend Referral
+CUST00976,Sneha Lanka,manidayamai@example.com,6799437893,Hyderabad,39,Male,2022-09-04,Influencer
+CUST00977,Aarna Sood,traghavan@example.net,+916875320755,Kolkata,53,Female,2022-08-17,Social Media
+CUST00978,Madhav Sheth,avninarasimhan@example.net,09345709789,Ahmedabad,47,Other,2022-03-22,Ad Campaign
+CUST00979,Charles Keer,golajason@example.net,+911586979800,Ahmedabad,49,Female,2022-04-01,Organic
+CUST00980,Jeet Ghose,dcontractor@example.com,04141076660,Mumbai,59,Male,2023-05-25,Ad Campaign
+CUST00981,Oeshi Sarma,csood@example.net,+913630368002,Jaipur,20,Other,2023-02-27,Organic
+CUST00982,Leena Varughese,zehaannaik@example.org,9619407911,Lucknow,23,Other,2024-04-25,Friend Referral
+CUST00983,Rayaan Jaggi,edada@example.org,04942918301,Jaipur,50,Male,2024-06-30,Ad Campaign
+CUST00984,Maanav Dada,sacharhredhaan@example.org,08457150336,Mumbai,41,Male,2022-12-16,Ad Campaign
+CUST00985,Orinder Barad,basaknetra@example.com,07645245219,Lucknow,53,Other,2022-12-06,Ad Campaign
+CUST00986,Logan Pandya,settybhavini@example.com,+914114674968,Chennai,60,Other,2024-01-04,Ad Campaign
+CUST00987,Lopa Wadhwa,suhanisharma@example.com,6930433888,Bangalore,24,Male,2022-04-27,Friend Referral
+CUST00988,Yutika Bakshi,vasanachaudry@example.org,01681833387,Hyderabad,58,Other,2022-12-30,Influencer
+CUST00989,Bina Vala,muttiwarhi@example.net,9107184000,Mumbai,24,Male,2023-01-18,Ad Campaign
+CUST00990,Mugdha Hora,fsangha@example.org,2852028188,Pune,44,Female,2022-05-24,Influencer
+CUST00991,Samuel Dora,ladli66@example.com,+913454931421,Pune,30,Female,2022-07-20,Social Media
+CUST00992,Frederick Tara,emane@example.org,+918393060709,Chennai,30,Male,2023-04-14,Ad Campaign
+CUST00993,Balvan Dara,iyerekantika@example.com,+918861364521,Lucknow,58,Male,2022-02-17,Ad Campaign
+CUST00994,Tripti Chaudry,januja82@example.net,+910223381133,Lucknow,60,Other,2023-04-14,Social Media
+CUST00995,Shivani Memon,upkaar67@example.com,3376385987,Jaipur,18,Other,2023-05-26,Organic
+CUST00996,Anirudh Arora,ramakrishnanikshita@example.net,07216493231,Lucknow,45,Female,2023-07-21,Influencer
+CUST00997,Gautami Gour,jasmit28@example.org,07309288030,Lucknow,29,Male,2024-03-10,Social Media
+CUST00998,Tanish Buch,lakshmivora@example.net,01074800405,Lucknow,42,Other,2022-04-17,Friend Referral
+CUST00999,Eesha Pingle,mugdha45@example.net,01517611227,Kolkata,42,Other,2023-06-01,Social Media
+CUST01000,Peter Borra,edugar@example.org,4980834940,Chennai,43,Female,2022-10-08,Ad Campaign
+CUST01001,Hritik Majumdar,gauri46@example.net,02824556073,Delhi,26,Female,2024-04-04,Influencer
+CUST01002,Adweta Johal,yogivrinda@example.org,03209357751,Hyderabad,50,Other,2023-12-18,Influencer
+CUST01003,Ekani Iyengar,naveenrajan@example.net,08713457767,Jaipur,38,Other,2024-05-31,Social Media
+CUST01004,Gabriel Kalita,adesai@example.net,7883956970,Lucknow,31,Other,2022-07-25,Friend Referral
+CUST01005,Azaan Varughese,janani91@example.org,+917029455628,Delhi,40,Other,2023-12-05,Social Media
+CUST01006,Siddharth Kashyap,yashodharasama@example.org,00313348432,Chennai,52,Other,2023-05-31,Organic
+CUST01007,Bhanumati Soman,adweta36@example.com,08695553163,Jaipur,40,Female,2024-02-19,Influencer
+CUST01008,Victor Walia,rajata92@example.org,+914367603243,Kolkata,60,Other,2023-08-08,Influencer
+CUST01009,Riya Datta,rtandon@example.org,07389462104,Mumbai,45,Other,2022-10-20,Organic
+CUST01010,Warda Sibal,edwinsachi@example.net,6116772367,Delhi,42,Male,2022-01-26,Organic
+CUST01011,Tristan Mukhopadhyay,vseshadri@example.org,+912588480537,Delhi,35,Female,2022-07-24,Friend Referral
+CUST01012,Yachana Choudhury,lbains@example.net,08561383938,Hyderabad,21,Male,2022-05-30,Influencer
+CUST01013,Kabir Bhatt,cdate@example.net,08544986335,Ahmedabad,40,Male,2022-02-03,Influencer
+CUST01014,Balvan Sridhar,rachitchatterjee@example.com,8847018094,Bangalore,53,Other,2024-06-07,Influencer
+CUST01015,Vihaan Bawa,bsehgal@example.org,1328985406,Jaipur,33,Other,2023-02-03,Friend Referral
+CUST01016,Zayyan Amble,fthaman@example.org,+915581418151,Mumbai,60,Female,2023-12-11,Ad Campaign
+CUST01017,Kavya Dewan,qjoshi@example.com,+915996560365,Jaipur,38,Male,2023-03-03,Organic
+CUST01018,Kiaan Bajaj,sarnasneha@example.net,00779806123,Bangalore,34,Other,2024-02-01,Ad Campaign
+CUST01019,Warhi Kant,samar81@example.net,+911057972561,Chennai,32,Other,2024-04-29,Influencer
+CUST01020,Mason Sarin,niharika27@example.net,0635513506,Bangalore,56,Other,2024-01-27,Social Media
+CUST01021,Ekalinga Deshmukh,mohinisem@example.org,1218895308,Delhi,46,Other,2022-10-29,Organic
+CUST01022,Frederick Modi,imurty@example.org,+918548709393,Jaipur,29,Male,2022-07-11,Ad Campaign
+CUST01023,Ekavir Andra,virkxavier@example.com,08546295481,Hyderabad,45,Other,2022-02-11,Friend Referral
+CUST01024,Jeevika Tiwari,sahawakeeta@example.com,+913415540103,Lucknow,28,Female,2022-05-14,Organic
+CUST01025,Hamsini Nigam,warinder15@example.net,0503090517,Delhi,47,Male,2022-12-05,Social Media
+CUST01026,Samar Ramanathan,abha38@example.org,02739582024,Mumbai,56,Other,2022-11-27,Influencer
+CUST01027,Devika Randhawa,sharafyahvi@example.com,08944605194,Hyderabad,60,Female,2024-05-13,Influencer
+CUST01028,Inaya Nath,omya05@example.net,4148791262,Pune,40,Other,2023-07-18,Friend Referral
+CUST01029,Janani Choudhry,chanamitali@example.com,08351127934,Delhi,32,Other,2023-06-23,Organic
+CUST01030,Nicholas Dutt,sanyamitter@example.com,3975995715,Delhi,50,Female,2024-03-16,Influencer
+CUST01031,Aahana Dutt,krishjasmit@example.com,1684519787,Pune,43,Female,2023-07-04,Social Media
+CUST01032,Kavya Rama,vupadhyay@example.org,+912331787109,Chennai,31,Female,2024-06-23,Friend Referral
+CUST01033,Niharika Kalla,qabildube@example.com,7497689266,Lucknow,31,Other,2022-10-28,Ad Campaign
+CUST01034,Osha Palan,mbabu@example.net,+910047832636,Mumbai,59,Male,2023-07-29,Friend Referral
+CUST01035,Lipika Devan,wishibala@example.net,+913151863699,Lucknow,33,Other,2023-04-02,Social Media
+CUST01036,Oni Gandhi,ayush66@example.com,+913382213082,Kolkata,38,Male,2022-02-10,Ad Campaign
+CUST01037,Jacob Sheth,meghanachatterjee@example.org,+918600888916,Hyderabad,52,Male,2022-09-20,Influencer
+CUST01038,Veer Varghese,bkeer@example.org,+918950073814,Jaipur,41,Other,2024-04-21,Ad Campaign
+CUST01039,Pallavi Pall,neha49@example.com,7724669920,Hyderabad,20,Other,2023-05-14,Social Media
+CUST01040,Tara Bath,kondaabha@example.org,03362407751,Pune,50,Male,2022-11-25,Social Media
+CUST01041,Radha Sane,sekhonvansha@example.net,5801011980,Jaipur,52,Male,2024-03-02,Organic
+CUST01042,Nilima Bansal,abdul80@example.net,07816737991,Bangalore,60,Other,2022-08-04,Ad Campaign
+CUST01043,Yashasvi Narayan,bathharsh@example.com,+913195127204,Bangalore,24,Other,2024-05-05,Ad Campaign
+CUST01044,Hemal Anne,kashvigole@example.com,+915034392187,Delhi,22,Male,2023-10-25,Ad Campaign
+CUST01045,Nihal Naik,bgupta@example.com,+914856417921,Mumbai,39,Male,2024-01-05,Organic
+CUST01046,Ekaja Balay,devansh66@example.com,1865411971,Hyderabad,29,Other,2022-02-25,Organic
+CUST01047,Raksha Acharya,khoslabarkha@example.net,7711546426,Hyderabad,32,Female,2023-08-12,Ad Campaign
+CUST01048,Laksh Muni,nidra27@example.org,5902195100,Kolkata,58,Female,2023-04-07,Friend Referral
+CUST01049,Triya Baral,sarinmegha@example.net,+917842568731,Pune,42,Other,2022-01-18,Organic
+CUST01050,Lopa Jha,ychana@example.org,5532494224,Pune,57,Other,2023-10-19,Influencer
+CUST01051,Arjun Ramesh,epalla@example.org,2747256470,Chennai,22,Other,2022-02-16,Organic
+CUST01052,Robert Bava,hkara@example.org,+912329007610,Lucknow,37,Male,2022-10-24,Friend Referral
+CUST01053,Omisha Khanna,daksha90@example.net,7703157329,Kolkata,46,Female,2024-02-23,Organic
+CUST01054,Kritika Patil,hiralchaudhry@example.net,+917887870216,Jaipur,28,Male,2023-05-01,Social Media
+CUST01055,Libni Sachdev,dayamai96@example.net,5716156443,Jaipur,43,Female,2024-02-04,Social Media
+CUST01056,Baljiwan Rana,bhavini38@example.net,+913218809388,Chennai,59,Male,2022-11-02,Influencer
+CUST01057,Warda Johal,karqadim@example.org,+914570232895,Delhi,53,Male,2024-06-14,Organic
+CUST01058,Ethan Bumb,zbakshi@example.org,02672950318,Lucknow,54,Female,2022-01-06,Influencer
+CUST01059,Hitesh Kaul,sathewazir@example.org,+914640642791,Hyderabad,23,Male,2023-07-15,Friend Referral
+CUST01060,Frederick Baral,indira25@example.net,05155969605,Jaipur,44,Male,2022-08-05,Social Media
+CUST01061,Nitesh Prakash,yochana34@example.net,+913195384685,Lucknow,32,Female,2022-07-08,Social Media
+CUST01062,Samarth Ahluwalia,pvaidya@example.com,+917550346128,Lucknow,29,Male,2022-04-28,Influencer
+CUST01063,Laksh Chacko,nisha38@example.org,3471676169,Jaipur,59,Male,2023-04-18,Friend Referral
+CUST01064,Vincent Chaudry,hemal71@example.org,07666859280,Hyderabad,22,Male,2023-11-19,Social Media
+CUST01065,Vidhi Shankar,apant@example.com,03091407815,Ahmedabad,55,Female,2024-01-14,Friend Referral
+CUST01066,Arunima Dhar,kavya57@example.org,8307317508,Bangalore,60,Male,2022-05-12,Friend Referral
+CUST01067,Jagat Malhotra,bhattacharyyaarjun@example.net,+911766121205,Bangalore,22,Female,2023-09-27,Ad Campaign
+CUST01068,Chanakya Trivedi,soninoah@example.net,04149130159,Lucknow,39,Other,2023-04-07,Friend Referral
+CUST01069,Ekaraj Srinivas,dalajadoshi@example.com,4097771388,Delhi,55,Other,2023-12-12,Influencer
+CUST01070,Omisha Narain,amruta16@example.org,01575488938,Kolkata,38,Male,2023-01-09,Organic
+CUST01071,Qadim Pingle,jkhatri@example.net,+918553724822,Bangalore,33,Other,2022-11-17,Ad Campaign
+CUST01072,Hemang Dora,kashyapviraj@example.com,05382105761,Delhi,41,Other,2022-10-11,Friend Referral
+CUST01073,Neel Suresh,rpuri@example.net,+916545029652,Ahmedabad,48,Female,2024-06-17,Friend Referral
+CUST01074,Leela Cherian,ravelhiral@example.net,+911048107611,Ahmedabad,37,Other,2024-03-04,Organic
+CUST01075,Anita Ravel,settyyashawini@example.com,06882725305,Lucknow,59,Male,2022-06-29,Friend Referral
+CUST01076,George Gara,gaurangilad@example.net,+916543148584,Jaipur,26,Male,2024-05-29,Friend Referral
+CUST01077,Pooja Ghose,barkhavarghese@example.com,+915624431614,Pune,58,Other,2024-01-22,Organic
+CUST01078,Warinder Seshadri,abdul17@example.com,7796888679,Mumbai,50,Other,2022-01-20,Influencer
+CUST01079,Liam Dass,xvenkataraman@example.com,08236216034,Bangalore,55,Male,2023-02-19,Influencer
+CUST01080,Chakradhar Srinivas,schowdhury@example.net,8316434087,Jaipur,52,Female,2022-09-24,Social Media
+CUST01081,Chaaya Mody,borachasmum@example.org,01911049098,Bangalore,43,Other,2023-01-10,Friend Referral
+CUST01082,Madhavi Chauhan,tjayaraman@example.org,00699888254,Jaipur,47,Other,2022-05-18,Organic
+CUST01083,Aarna Mishra,xitidugal@example.net,+913415195985,Jaipur,41,Male,2023-02-11,Social Media
+CUST01084,Krish Kamdar,niteshbedi@example.net,+914462919264,Delhi,57,Other,2024-05-18,Social Media
+CUST01085,Rachita Singhal,tvohra@example.net,3573217491,Delhi,28,Other,2023-04-02,Influencer
+CUST01086,William Karnik,zansichopra@example.net,+910643373260,Ahmedabad,27,Female,2023-11-07,Organic
+CUST01087,Kamala Dada,samaksh85@example.net,+912700232412,Bangalore,49,Male,2022-08-13,Friend Referral
+CUST01088,Fariq Chhabra,bumbyatin@example.com,+916439517951,Mumbai,32,Other,2023-01-14,Social Media
+CUST01089,Teerth Venkatesh,isaiah48@example.com,06587517659,Kolkata,41,Female,2023-06-15,Ad Campaign
+CUST01090,Ekbal Deep,farajsodhi@example.com,+914575384413,Mumbai,20,Other,2024-06-21,Friend Referral
+CUST01091,Hiral Tara,sraman@example.com,04253946382,Hyderabad,51,Other,2022-04-16,Friend Referral
+CUST01092,Samesh Dey,karawilliam@example.org,9634993053,Lucknow,52,Male,2023-08-16,Ad Campaign
+CUST01093,Nandini Patil,vivaan70@example.org,0108248200,Chennai,42,Other,2023-11-01,Organic
+CUST01094,Ronith Edwin,luckymurthy@example.org,+919151451297,Kolkata,34,Male,2023-06-14,Influencer
+CUST01095,Gagan Bahl,jackson00@example.org,04833593445,Chennai,40,Female,2023-02-20,Ad Campaign
+CUST01096,Avni Bhatti,senguptayashodhara@example.org,5092644424,Mumbai,56,Other,2024-06-27,Social Media
+CUST01097,Agastya Prakash,tara91@example.com,+918251198187,Bangalore,28,Male,2023-03-27,Influencer
+CUST01098,Rayaan Bora,chowdhurygeorge@example.org,+914343141043,Bangalore,35,Male,2023-10-21,Social Media
+CUST01099,Ojas Buch,osheth@example.net,05451435665,Lucknow,41,Other,2022-06-11,Organic
+CUST01100,Naksh Panchal,glata@example.net,05392932543,Kolkata,32,Female,2023-11-08,Organic
+CUST01101,Nidhi Sangha,trivediira@example.com,+917199139733,Ahmedabad,48,Male,2023-05-09,Influencer
+CUST01102,Ijaya Guha,mukherjeelipika@example.org,+913009587660,Kolkata,59,Male,2022-06-15,Social Media
+CUST01103,Bhavya Dugal,hamsinimukhopadhyay@example.com,6195993642,Lucknow,26,Other,2022-02-14,Social Media
+CUST01104,Triveni Dara,vyanjanaraju@example.net,6034186008,Jaipur,58,Male,2022-05-18,Influencer
+CUST01105,Dayamai Dhillon,mguha@example.com,09584848469,Delhi,21,Female,2022-05-31,Social Media
+CUST01106,Sai Mall,vritti55@example.net,04441604217,Lucknow,43,Other,2023-06-14,Organic
+CUST01107,Baljiwan Ganguly,talwarranbir@example.net,1740491728,Hyderabad,60,Male,2024-06-18,Social Media
+CUST01108,Manthan Chakraborty,timothysathe@example.org,01754393781,Ahmedabad,56,Female,2023-04-05,Social Media
+CUST01109,Alexander Lanka,ehari@example.com,+911976309129,Lucknow,44,Male,2022-08-13,Influencer
+CUST01110,Umang Sha,aishanisheth@example.org,03246707960,Lucknow,29,Other,2024-04-20,Influencer
+CUST01111,Chandresh Gola,bbuch@example.net,06801955854,Chennai,28,Female,2022-09-28,Influencer
+CUST01112,Unnati Bhat,zaitra36@example.com,+913233377964,Bangalore,22,Female,2023-08-28,Ad Campaign
+CUST01113,Jason Arya,william82@example.net,+914179933816,Mumbai,24,Male,2022-05-16,Influencer
+CUST01114,Ayushman Sankaran,andrewkarpe@example.com,5619339361,Kolkata,50,Male,2024-05-30,Influencer
+CUST01115,Pratyush Venkataraman,swamyjanaki@example.net,+918471913399,Ahmedabad,29,Other,2022-04-09,Influencer
+CUST01116,Amaira Pandey,saumyaramanathan@example.net,05687111211,Jaipur,52,Male,2022-02-09,Organic
+CUST01117,Onkar Kata,jyotihayre@example.net,+915009823308,Delhi,60,Other,2023-05-09,Influencer
+CUST01118,Chatresh Solanki,zansipanchal@example.com,3269710698,Kolkata,18,Other,2024-04-27,Ad Campaign
+CUST01119,Vivaan Devan,aachal60@example.org,00031499246,Jaipur,20,Female,2023-01-15,Social Media
+CUST01120,Kevin Sem,xkadakia@example.net,08519100275,Kolkata,48,Female,2024-04-01,Influencer
+CUST01121,Oni Dugal,norigopal@example.net,1840533037,Pune,54,Female,2024-04-03,Social Media
+CUST01122,Imaran Sawhney,xdewan@example.org,05105004660,Bangalore,48,Male,2022-09-18,Friend Referral
+CUST01123,Anmol Tara,ggarg@example.net,09590786624,Kolkata,52,Female,2023-09-05,Social Media
+CUST01124,Nathaniel Mahajan,hredhaan82@example.net,04920463834,Lucknow,18,Other,2022-01-06,Organic
+CUST01125,Bhavani Mammen,ethan51@example.org,+914113402988,Kolkata,18,Other,2023-06-17,Social Media
+CUST01126,Logan Sankaran,onkarparsa@example.org,03476966951,Kolkata,38,Female,2023-12-06,Organic
+CUST01127,Xalak Raman,nadigfalak@example.com,+915199436161,Lucknow,45,Female,2022-06-08,Friend Referral
+CUST01128,Kashish Rastogi,bhandarizarna@example.net,01791400098,Kolkata,52,Other,2024-05-25,Friend Referral
+CUST01129,Raghav Thakur,pmander@example.org,+914369682691,Kolkata,35,Male,2023-09-19,Ad Campaign
+CUST01130,Amruta Kari,chatura54@example.org,+913690977005,Ahmedabad,53,Male,2023-07-20,Friend Referral
+CUST01131,Prisha Golla,prabhakarhenry@example.net,05307679264,Ahmedabad,53,Female,2023-07-27,Friend Referral
+CUST01132,Jacob Pal,narayanantanish@example.net,+915686032269,Kolkata,40,Other,2023-08-15,Social Media
+CUST01133,Jhalak Sidhu,pradhanjasmit@example.net,01711643477,Pune,60,Other,2024-05-25,Social Media
+CUST01134,Vritti Raman,pratyushchakraborty@example.net,+916548585939,Pune,28,Male,2023-04-03,Influencer
+CUST01135,Alexander Vohra,saumya10@example.org,01729169998,Jaipur,39,Other,2023-02-15,Organic
+CUST01136,Reva Modi,chaaya42@example.net,04133721089,Mumbai,42,Male,2022-06-14,Social Media
+CUST01137,Fariq Joshi,champak11@example.org,03996422027,Kolkata,56,Male,2023-04-28,Organic
+CUST01138,Chatura Das,tandonkiaan@example.net,1452299482,Chennai,32,Male,2022-09-27,Influencer
+CUST01139,Mitali Kamdar,lohitroy@example.org,04786083462,Kolkata,42,Other,2022-02-08,Influencer
+CUST01140,Reva Dutt,ibawa@example.org,+912300959724,Mumbai,56,Male,2022-10-21,Ad Campaign
+CUST01141,Abeer Borra,pnatt@example.net,4064784290,Bangalore,18,Other,2023-03-26,Influencer
+CUST01142,Reyansh Parmer,acharyaekapad@example.com,01905209497,Mumbai,30,Other,2022-10-20,Influencer
+CUST01143,Samesh Khurana,subramanianeta@example.com,9243036933,Lucknow,32,Male,2023-06-13,Organic
+CUST01144,Timothy Gokhale,sampathyashoda@example.org,+910051172944,Mumbai,33,Male,2023-01-04,Organic
+CUST01145,Harrison Subramanian,jagratisoni@example.net,8852234636,Chennai,43,Other,2022-10-10,Ad Campaign
+CUST01146,Chakradhar Amble,kprakash@example.org,0804795399,Bangalore,55,Other,2023-02-20,Organic
+CUST01147,Lakshmi Chakrabarti,dubeyupasna@example.org,+913648719866,Pune,22,Other,2024-01-25,Friend Referral
+CUST01148,Patrick Modi,tanejalucky@example.net,+918823996519,Lucknow,53,Female,2024-01-14,Friend Referral
+CUST01149,Lipika Kota,pauaadhya@example.net,3994635107,Bangalore,35,Other,2024-04-15,Social Media
+CUST01150,Falan Karpe,tripti63@example.com,00796887646,Lucknow,43,Male,2023-04-11,Friend Referral
+CUST01151,Hitesh Swamy,gauri66@example.net,05557511969,Jaipur,44,Male,2022-06-29,Influencer
+CUST01152,Samaksh Shroff,banerjeewarinder@example.net,+918371122899,Hyderabad,50,Female,2022-03-16,Organic
+CUST01153,Gabriel Kata,yseshadri@example.com,+910094250426,Hyderabad,50,Other,2024-04-02,Influencer
+CUST01154,Sathvik Pingle,tara26@example.com,02427382861,Kolkata,46,Other,2022-09-14,Ad Campaign
+CUST01155,Darika Choudhary,michaelmaster@example.net,2760789825,Chennai,33,Female,2024-02-28,Ad Campaign
+CUST01156,Nimrat Tiwari,ekballala@example.org,06058846083,Ahmedabad,19,Male,2023-08-24,Friend Referral
+CUST01157,Ekani Ram,masontiwari@example.net,9787319122,Bangalore,42,Other,2022-03-11,Social Media
+CUST01158,Warinder Bassi,zsundaram@example.com,3885265408,Kolkata,38,Female,2024-03-30,Influencer
+CUST01159,Vincent Gole,goyalmanthan@example.org,+912393462496,Hyderabad,18,Male,2023-07-03,Friend Referral
+CUST01160,Manthan Tailor,amand@example.net,+916920421938,Chennai,43,Male,2022-04-06,Influencer
+CUST01161,Darpan Brahmbhatt,atibatra@example.org,2010289425,Chennai,48,Female,2022-07-02,Social Media
+CUST01162,Omkaar Nanda,inaya71@example.org,5433142448,Delhi,35,Other,2023-08-11,Social Media
+CUST01163,Anvi Sawhney,wriddhishkuruvilla@example.net,06677828122,Bangalore,30,Other,2023-05-26,Social Media
+CUST01164,Devansh Bhargava,jason14@example.net,0230073600,Bangalore,34,Male,2024-06-12,Social Media
+CUST01165,Madhav Gaba,aarinisura@example.net,5720742899,Lucknow,33,Female,2024-05-04,Social Media
+CUST01166,Vritti Chaudhuri,lakshitthakkar@example.com,6633998649,Pune,24,Male,2024-03-08,Ad Campaign
+CUST01167,Shravya Lalla,vedantmand@example.org,04168274937,Jaipur,18,Male,2023-09-21,Ad Campaign
+CUST01168,Max Agate,qbajaj@example.net,5950769002,Chennai,57,Female,2023-01-16,Influencer
+CUST01169,Avi Chandran,balanmanbir@example.net,7510715690,Ahmedabad,35,Male,2024-06-08,Influencer
+CUST01170,Zashil Ben,ibanerjee@example.net,06451866287,Bangalore,43,Other,2022-10-14,Social Media
+CUST01171,Vidhi Srinivasan,kashvimani@example.net,+916381444489,Kolkata,51,Female,2022-02-25,Influencer
+CUST01172,Watika Sekhon,asood@example.net,+916749768599,Chennai,50,Female,2022-02-03,Social Media
+CUST01173,Yashasvi Nadkarni,mmaharaj@example.net,00160669275,Jaipur,25,Female,2023-04-14,Friend Referral
+CUST01174,Nidra Brar,rattisamesh@example.net,+912654471084,Mumbai,18,Other,2023-12-07,Social Media
+CUST01175,Ekta Jayaraman,routyatan@example.net,08765133297,Pune,55,Female,2023-01-24,Friend Referral
+CUST01176,Chaaya Murthy,anandcharvi@example.com,08832103388,Delhi,34,Other,2023-09-20,Friend Referral
+CUST01177,Chakradev Ratta,obala@example.org,8771444767,Ahmedabad,35,Other,2022-08-31,Friend Referral
+CUST01178,Yuvraj Khanna,guneetdua@example.net,+917057678385,Ahmedabad,29,Female,2023-01-10,Social Media
+CUST01179,Chakradev Arya,bediowen@example.com,07053201875,Chennai,41,Female,2023-03-06,Friend Referral
+CUST01180,Bhavani Guha,fjayaraman@example.net,+919780434432,Lucknow,29,Male,2023-04-07,Influencer
+CUST01181,Abeer Grover,ebawa@example.org,5703843886,Pune,32,Other,2023-12-04,Friend Referral
+CUST01182,Omaja Bajaj,anamika01@example.org,05966176535,Jaipur,33,Female,2024-04-03,Ad Campaign
+CUST01183,Hema Palla,yogiveer@example.net,04604865678,Delhi,27,Female,2022-07-20,Organic
+CUST01184,Falguni Bobal,omajakumer@example.com,07439329960,Ahmedabad,44,Male,2022-06-30,Influencer
+CUST01185,Lavanya Tank,randhawatara@example.net,09608077647,Ahmedabad,38,Female,2023-07-01,Friend Referral
+CUST01186,Kamala Ben,knagi@example.net,04714174635,Mumbai,54,Female,2023-07-30,Organic
+CUST01187,Yug Zacharia,chandnachiket@example.net,+913633821929,Mumbai,28,Male,2023-12-09,Friend Referral
+CUST01188,Niharika Gulati,mwali@example.org,3753211525,Pune,58,Female,2023-05-03,Friend Referral
+CUST01189,Girik Viswanathan,qparekh@example.com,01655357789,Chennai,41,Other,2022-09-24,Influencer
+CUST01190,Pranav Dara,nidhi07@example.com,04885736246,Chennai,34,Male,2024-04-09,Ad Campaign
+CUST01191,Aditya Naidu,henry61@example.org,09672939763,Lucknow,40,Male,2022-05-05,Influencer
+CUST01192,Sara Devan,xsoman@example.com,0803977308,Jaipur,59,Male,2023-08-13,Friend Referral
+CUST01193,Anvi Wali,ydash@example.com,03856314646,Jaipur,38,Female,2022-12-30,Ad Campaign
+CUST01194,Ikbal Anand,wmallick@example.net,+912345786359,Kolkata,23,Other,2024-06-29,Friend Referral
+CUST01195,Pooja Mangat,gangulyaadi@example.org,07747114524,Delhi,58,Male,2023-04-20,Friend Referral
+CUST01196,Leela Pall,lpal@example.net,+915679053933,Lucknow,58,Other,2023-03-08,Ad Campaign
+CUST01197,Maya Krishnan,bailalexander@example.org,00903799002,Pune,22,Male,2024-05-19,Friend Referral
+CUST01198,Amol Dhar,rohanjaggi@example.com,+918179316741,Chennai,38,Other,2022-08-22,Friend Referral
+CUST01199,Benjamin Randhawa,manibhavna@example.org,+917681057679,Lucknow,35,Other,2023-12-29,Ad Campaign
+CUST01200,Rehaan Goel,wishirout@example.com,4845787444,Chennai,46,Other,2022-10-05,Influencer
+CUST01201,Irya Jayaraman,borautkarsh@example.net,09430133153,Kolkata,46,Male,2023-06-18,Social Media
+CUST01202,Sanya Chawla,badamireva@example.com,5462986978,Delhi,19,Other,2024-05-24,Social Media
+CUST01203,Radhika Chander,vdar@example.com,06600222233,Pune,34,Male,2023-11-09,Social Media
+CUST01204,Libni Mand,ekaja91@example.com,+916802317408,Pune,24,Male,2023-02-11,Ad Campaign
+CUST01205,Ijaya Dube,rachana70@example.org,+912327925514,Mumbai,21,Female,2023-07-16,Influencer
+CUST01206,Baghyawati Jani,dharomaja@example.net,4314269652,Pune,23,Female,2024-02-23,Influencer
+CUST01207,Rayaan Tella,gmohan@example.net,+912397599754,Kolkata,23,Female,2022-06-09,Social Media
+CUST01208,Nisha Chakrabarti,gopalmeghana@example.net,+918877910593,Ahmedabad,36,Other,2022-09-11,Social Media
+CUST01209,Deepa Thaman,dbarad@example.org,+911503021429,Delhi,51,Male,2022-05-15,Organic
+CUST01210,Ranveer Chandra,bhardwajsamuel@example.org,09310534601,Chennai,40,Female,2023-11-11,Ad Campaign
+CUST01211,Ayaan Sarna,vasatikamangal@example.net,05380911853,Hyderabad,52,Other,2024-06-10,Ad Campaign
+CUST01212,Chandran Chatterjee,patlareyansh@example.net,02363386703,Delhi,52,Other,2022-05-19,Influencer
+CUST01213,Pahal Bala,opandit@example.com,1173274748,Lucknow,58,Female,2023-04-13,Influencer
+CUST01214,Dayamai Deshmukh,iyerlaban@example.com,06295570858,Jaipur,58,Female,2023-10-18,Friend Referral
+CUST01215,Ansh Bedi,bailekansh@example.org,07556093308,Bangalore,52,Male,2023-05-09,Ad Campaign
+CUST01216,Hredhaan Kaul,sanya48@example.org,+913197470624,Kolkata,41,Female,2022-11-12,Social Media
+CUST01217,Bhavika Nanda,adya03@example.com,4592075930,Mumbai,18,Other,2022-11-07,Social Media
+CUST01218,Inaya Acharya,abhimanyu46@example.net,3468165660,Ahmedabad,36,Other,2022-12-19,Organic
+CUST01219,Indali Bhatt,leena60@example.net,04044215958,Ahmedabad,49,Female,2023-12-06,Organic
+CUST01220,Balveer Dutt,akshaydutt@example.com,04645791099,Hyderabad,45,Other,2024-02-24,Social Media
+CUST01221,Akshay Khanna,eatwal@example.com,06684223541,Jaipur,18,Female,2024-03-26,Social Media
+CUST01222,Libni Sridhar,behlbaljiwan@example.net,07850897950,Kolkata,53,Female,2023-02-26,Social Media
+CUST01223,Faraj Vora,ekavirdora@example.com,8620932904,Kolkata,59,Female,2022-06-17,Social Media
+CUST01224,Krishna Shah,bhavna18@example.net,0082427931,Kolkata,23,Other,2022-09-27,Social Media
+CUST01225,Sathvik Basak,lnagarajan@example.org,+917543969649,Hyderabad,57,Female,2023-06-14,Influencer
+CUST01226,Maanas Banik,narainlakshmi@example.org,+918466314860,Kolkata,35,Male,2024-04-08,Organic
+CUST01227,Aishani Setty,rdass@example.com,+917353999351,Hyderabad,26,Male,2022-07-06,Ad Campaign
+CUST01228,Wishi Kar,msolanki@example.com,6995458432,Hyderabad,46,Other,2023-09-25,Influencer
+CUST01229,Ati Raval,nitesh46@example.net,06960690740,Chennai,30,Male,2023-05-19,Social Media
+CUST01230,Yasti Mangal,kotapushti@example.net,+910086717021,Mumbai,52,Male,2022-02-20,Organic
+CUST01231,Mekhala Kant,babuidika@example.com,1645384698,Delhi,35,Other,2022-10-16,Ad Campaign
+CUST01232,Max Mane,jkrishnan@example.net,9869966516,Bangalore,18,Male,2024-01-15,Social Media
+CUST01233,Daniel Arya,vihaan94@example.org,+918218567137,Bangalore,49,Female,2022-01-16,Ad Campaign
+CUST01234,Abhimanyu Balan,madhavi16@example.org,6610378573,Chennai,49,Female,2022-11-16,Organic
+CUST01235,Chaitanya Bail,pushtibuch@example.com,+919293413892,Delhi,23,Male,2022-12-05,Friend Referral
+CUST01236,Warinder Korpal,zayankoshy@example.org,0321220310,Pune,43,Other,2024-03-05,Ad Campaign
+CUST01237,Veda Agarwal,qzachariah@example.com,1755275090,Hyderabad,30,Female,2022-07-05,Organic
+CUST01238,Kabir Lala,batraaadi@example.net,09856417077,Kolkata,33,Female,2022-05-05,Social Media
+CUST01239,Jackson Lal,thakkaraadhya@example.net,8403923931,Bangalore,20,Female,2024-01-26,Organic
+CUST01240,Raghav Swamy,echawla@example.org,0708410235,Bangalore,60,Female,2023-06-18,Ad Campaign
+CUST01241,Urishilla Agrawal,hemani90@example.com,5307330354,Chennai,37,Male,2023-11-29,Organic
+CUST01242,Rayaan Deshmukh,msodhi@example.org,00036094639,Jaipur,53,Male,2024-02-02,Friend Referral
+CUST01243,Hiral Kade,dayitatandon@example.net,4115555303,Hyderabad,58,Male,2023-05-08,Friend Referral
+CUST01244,Michael Chad,umang35@example.net,04277100221,Bangalore,21,Male,2024-06-27,Social Media
+CUST01245,Jacob Deshmukh,anvikrishna@example.org,+914063604758,Chennai,45,Male,2023-10-11,Social Media
+CUST01246,Nikita Sengupta,qkaur@example.net,+912383868536,Lucknow,35,Male,2024-03-24,Ad Campaign
+CUST01247,Pooja Bakshi,ikrishnamurthy@example.org,+915352336081,Mumbai,33,Male,2024-03-19,Influencer
+CUST01248,Zinal Rajan,nirja34@example.com,02690472965,Lucknow,48,Male,2024-03-13,Friend Referral
+CUST01249,Yachana Uppal,fitantailor@example.com,4962195639,Bangalore,23,Male,2024-02-29,Ad Campaign
+CUST01250,Ria Hans,tdhar@example.net,1737372915,Chennai,57,Other,2022-04-04,Organic
+CUST01251,Udyati Nair,tjha@example.net,07974323962,Delhi,40,Other,2022-03-03,Influencer
+CUST01252,Elijah Saxena,mahajanaarav@example.com,06916405281,Delhi,24,Female,2024-03-21,Social Media
+CUST01253,Henry Kala,samar27@example.net,3094746473,Chennai,53,Female,2022-11-21,Social Media
+CUST01254,Upkaar Karpe,yastichada@example.com,0938640869,Chennai,42,Other,2022-01-22,Social Media
+CUST01255,Rachit Dave,patrick75@example.com,+913463595126,Ahmedabad,20,Other,2022-09-14,Ad Campaign
+CUST01256,Chasmum Narayanan,bhasingautami@example.net,8902243027,Jaipur,36,Other,2023-07-27,Ad Campaign
+CUST01257,Bachittar Sathe,uluthra@example.net,05395625655,Delhi,54,Other,2022-07-14,Friend Referral
+CUST01258,Xiti Dewan,naveenpalla@example.com,09723938642,Hyderabad,47,Other,2022-11-28,Influencer
+CUST01259,Balendra Mangal,udeol@example.net,+912934847316,Jaipur,22,Male,2022-06-14,Ad Campaign
+CUST01260,Panini Hari,pooja06@example.net,+911448271248,Jaipur,34,Female,2022-10-30,Ad Campaign
+CUST01261,Aryan Din,neel84@example.org,5267180845,Jaipur,58,Female,2022-01-01,Social Media
+CUST01262,Max Agarwal,dtak@example.net,09105011368,Lucknow,19,Female,2024-06-23,Influencer
+CUST01263,Bhavani Rao,waliaradhana@example.org,02404666948,Pune,38,Other,2022-09-02,Influencer
+CUST01264,Yauvani Hayre,zsarraf@example.net,+912988453640,Bangalore,42,Other,2024-04-18,Ad Campaign
+CUST01265,Dayita Sule,ladgirindra@example.net,06966356300,Delhi,53,Other,2024-02-24,Friend Referral
+CUST01266,Vedant Nayak,anirudh19@example.com,01136329385,Chennai,44,Male,2022-11-27,Organic
+CUST01267,Patrick Varkey,imishra@example.org,+915790546091,Pune,60,Male,2023-06-20,Social Media
+CUST01268,Oviya Murty,abdul81@example.net,01670752112,Bangalore,20,Male,2022-07-02,Ad Campaign
+CUST01269,Rachana Bhavsar,ajain@example.com,09921921107,Mumbai,24,Other,2022-07-16,Ad Campaign
+CUST01270,Alka Saxena,isastry@example.org,+910415528414,Jaipur,49,Other,2023-11-05,Influencer
+CUST01271,Bhanumati Ben,fariqwagle@example.org,+918263996769,Chennai,21,Male,2022-09-20,Influencer
+CUST01272,Zarna Vyas,ssuresh@example.org,1825652743,Mumbai,22,Male,2024-01-06,Ad Campaign
+CUST01273,Wridesh Vohra,ekhatri@example.org,09270431299,Ahmedabad,23,Other,2024-06-30,Organic
+CUST01274,Osha Bumb,chakradharghose@example.net,+914450093775,Kolkata,53,Female,2023-01-05,Organic
+CUST01275,Fariq Sankar,sachdevsamaksh@example.com,+915324960390,Hyderabad,57,Other,2024-04-23,Organic
+CUST01276,Agastya Palla,timothy44@example.org,1499121622,Hyderabad,22,Male,2024-01-22,Social Media
+CUST01277,Kamala Varughese,gbir@example.org,+918746054519,Pune,24,Other,2023-06-16,Social Media
+CUST01278,Bahadurjit Pal,vbhatnagar@example.net,+915794666884,Bangalore,42,Male,2023-06-29,Influencer
+CUST01279,Utkarsh Date,ydani@example.com,8562406469,Lucknow,33,Other,2023-11-04,Social Media
+CUST01280,Edhitha Murty,tdayal@example.com,9296619402,Kolkata,53,Other,2023-07-26,Organic
+CUST01281,Watika Dubey,kumerjeet@example.net,+913079013790,Lucknow,58,Female,2024-02-24,Ad Campaign
+CUST01282,Frederick Parikh,anthonybalan@example.com,7062287766,Kolkata,60,Male,2023-12-21,Social Media
+CUST01283,Diya Sachdeva,duttafaris@example.org,00391424835,Jaipur,29,Female,2024-03-22,Influencer
+CUST01284,Manan Sachdeva,fpall@example.com,5791040003,Delhi,60,Other,2022-12-12,Influencer
+CUST01285,Tanish Nagi,xsangha@example.net,+915792518068,Chennai,40,Other,2023-03-30,Friend Referral
+CUST01286,Rudra Saxena,gdass@example.net,07744875905,Kolkata,41,Other,2024-05-15,Ad Campaign
+CUST01287,Zayan Mani,gillmahika@example.org,04477784351,Lucknow,38,Male,2024-04-25,Influencer
+CUST01288,Nilima Cheema,pushti91@example.org,7723977521,Kolkata,31,Other,2023-07-13,Friend Referral
+CUST01289,Charan Kuruvilla,nadigishaan@example.com,+919254517116,Ahmedabad,46,Female,2023-01-04,Organic
+CUST01290,Lekha Sami,chanakya53@example.com,01350817353,Hyderabad,20,Other,2024-01-14,Organic
+CUST01291,Nathaniel Sankar,jagrati75@example.com,+913402194956,Hyderabad,26,Male,2023-06-15,Friend Referral
+CUST01292,Hritik Kaur,rachanarajan@example.com,1699451726,Chennai,31,Male,2022-08-16,Friend Referral
+CUST01293,Qasim Bakshi,urvashidhar@example.com,4802577788,Jaipur,50,Other,2023-07-21,Influencer
+CUST01294,Zinal Sharma,luthraindrajit@example.org,+915316191484,Mumbai,24,Female,2022-06-08,Friend Referral
+CUST01295,Robert Bala,noah23@example.net,5817201234,Hyderabad,26,Female,2022-06-09,Influencer
+CUST01296,Ayushman Rout,vinayadalia@example.com,03310799613,Hyderabad,32,Female,2022-09-13,Organic
+CUST01297,Omisha Menon,ynagar@example.net,4763255003,Lucknow,43,Male,2023-08-08,Organic
+CUST01298,Kavya Babu,gsabharwal@example.net,1824421404,Ahmedabad,38,Male,2024-01-11,Ad Campaign
+CUST01299,Faqid Majumdar,karpriya@example.net,9223858232,Pune,54,Other,2024-04-25,Friend Referral
+CUST01300,Isaiah Taneja,royharinakshi@example.net,04871285417,Kolkata,54,Male,2022-02-08,Organic
+CUST01301,Vansha Nayar,nandra@example.net,1429705776,Chennai,39,Female,2024-02-29,Ad Campaign
+CUST01302,Vrinda Loyal,qtata@example.org,03791930675,Bangalore,25,Other,2024-06-07,Influencer
+CUST01303,Bishakha Sandhu,qushi91@example.org,07331053998,Kolkata,58,Male,2022-01-12,Friend Referral
+CUST01304,Brijesh Chokshi,zashilgara@example.com,00186084205,Chennai,20,Other,2023-06-21,Influencer
+CUST01305,Triya Raval,kamdarjeet@example.org,03948426235,Jaipur,38,Other,2022-06-03,Social Media
+CUST01306,Adya Nagy,liamsahota@example.com,08092306481,Kolkata,21,Female,2022-06-06,Influencer
+CUST01307,Yutika Kalla,bwable@example.com,5745797585,Pune,50,Male,2023-08-13,Ad Campaign
+CUST01308,Ayush Mall,jhavritti@example.net,7460933814,Delhi,43,Male,2022-10-24,Friend Referral
+CUST01309,Gayathri Bhakta,pooja96@example.org,+912047339541,Lucknow,48,Other,2022-03-26,Organic
+CUST01310,Krishna Mukherjee,udyatidara@example.com,+919310037912,Hyderabad,43,Male,2023-07-16,Ad Campaign
+CUST01311,Mekhala Panchal,manankapadia@example.net,05808812915,Delhi,45,Male,2023-05-29,Ad Campaign
+CUST01312,Ati Bose,chaman22@example.net,3006122831,Ahmedabad,30,Female,2023-07-27,Influencer
+CUST01313,Atharv Sama,vinaya76@example.com,07505072711,Lucknow,53,Other,2022-07-20,Influencer
+CUST01314,Charvi Bala,ztank@example.net,00562888780,Pune,33,Female,2022-09-10,Ad Campaign
+CUST01315,Robert Varghese,thakerdakshesh@example.net,+913869217298,Pune,54,Male,2022-11-28,Ad Campaign
+CUST01316,Adweta Vasa,jperi@example.org,2371506313,Chennai,41,Male,2023-03-10,Friend Referral
+CUST01317,Alka Gara,finn12@example.org,07918935958,Mumbai,56,Female,2022-12-19,Social Media
+CUST01318,Yamini Oza,anita66@example.net,+910183999084,Ahmedabad,57,Other,2022-12-25,Social Media
+CUST01319,Jhalak Dhawan,laban92@example.com,3888544124,Bangalore,20,Male,2023-03-28,Friend Referral
+CUST01320,Logan Badal,ekanshchad@example.org,0408887659,Pune,23,Other,2022-06-09,Organic
+CUST01321,Gautam Wadhwa,sdasgupta@example.org,+910415374365,Delhi,57,Female,2022-09-06,Organic
+CUST01322,Balhaar Cherian,qrau@example.com,9047085577,Hyderabad,25,Female,2022-12-18,Ad Campaign
+CUST01323,Indira Gera,patrickradhakrishnan@example.net,08245841189,Bangalore,39,Other,2022-01-24,Influencer
+CUST01324,Advaith Solanki,lakshitsani@example.org,+911375934252,Jaipur,31,Other,2022-08-05,Friend Referral
+CUST01325,Hitesh Majumdar,hkaran@example.org,+913779207872,Lucknow,48,Other,2023-07-16,Social Media
+CUST01326,Krish Setty,maya98@example.org,+912102898977,Mumbai,60,Female,2023-12-13,Influencer
+CUST01327,Zaitra Korpal,omkaarrandhawa@example.org,+911080356028,Mumbai,51,Female,2023-11-11,Social Media
+CUST01328,Ojasvi Mishra,mugdha24@example.com,+913180855345,Bangalore,36,Other,2022-03-03,Influencer
+CUST01329,Osha Vyas,vrana@example.net,+917503358692,Ahmedabad,21,Other,2022-10-05,Organic
+CUST01330,Edhitha Bandi,tanish97@example.org,01092723566,Hyderabad,42,Other,2022-03-10,Friend Referral
+CUST01331,Diya Thakkar,arya61@example.net,9459343399,Mumbai,24,Female,2024-06-04,Ad Campaign
+CUST01332,Indrajit Saraf,iyogi@example.com,+910720319545,Jaipur,42,Other,2022-08-25,Organic
+CUST01333,Naksh Sankar,gauravagrawal@example.net,02115933814,Lucknow,49,Other,2022-11-20,Organic
+CUST01334,Darsh Karpe,kmall@example.net,+910425384503,Jaipur,30,Female,2022-07-10,Influencer
+CUST01335,Nathan Sharaf,vparsa@example.com,1594691782,Mumbai,19,Male,2023-12-31,Influencer
+CUST01336,Zaitra Chakrabarti,narasimhansamesh@example.net,6723257742,Ahmedabad,39,Female,2022-11-09,Social Media
+CUST01337,Kevin Garg,chaitanya68@example.net,+910488712079,Chennai,40,Female,2022-01-19,Friend Referral
+CUST01338,Manan Khanna,bsarna@example.com,00821048969,Hyderabad,50,Male,2022-08-30,Friend Referral
+CUST01339,Priya Hari,psharaf@example.net,7160295651,Mumbai,42,Other,2024-06-18,Friend Referral
+CUST01340,Triveni Krishnamurthy,gsengupta@example.net,+915069673624,Chennai,27,Female,2022-08-19,Social Media
+CUST01341,Jackson Panchal,okaul@example.com,03236032763,Jaipur,42,Other,2022-03-31,Influencer
+CUST01342,Manthan Bhargava,hkonda@example.net,03544337403,Bangalore,58,Female,2024-06-12,Social Media
+CUST01343,Arjun De,kashvirandhawa@example.com,+913520794432,Kolkata,27,Female,2023-08-10,Influencer
+CUST01344,Manya Loke,daryashica@example.com,02928581072,Jaipur,46,Male,2022-12-04,Social Media
+CUST01345,Dalaja Wable,bimalakhanna@example.com,03495839454,Lucknow,26,Other,2023-10-31,Social Media
+CUST01346,Arunima Kalita,suhani96@example.org,2327158407,Hyderabad,26,Other,2024-06-02,Influencer
+CUST01347,Vidhi Bail,mekhalamanne@example.net,+910559394358,Delhi,45,Other,2022-05-19,Influencer
+CUST01348,Ryan Ramesh,lavanya85@example.net,+910459301674,Pune,38,Other,2022-06-11,Influencer
+CUST01349,Reyansh Kata,dayamaisavant@example.net,+910035027593,Delhi,25,Female,2024-01-07,Social Media
+CUST01350,Brijesh Gera,samueljoshi@example.com,3462289224,Chennai,19,Female,2024-01-15,Ad Campaign
+CUST01351,Yatan Dar,comarbrijesh@example.com,2888922362,Hyderabad,46,Male,2022-11-07,Social Media
+CUST01352,Tanish Tailor,oviyavora@example.org,06170078062,Delhi,26,Male,2022-04-20,Influencer
+CUST01353,Faris Wali,anayhalder@example.com,05919730523,Lucknow,35,Other,2023-09-24,Influencer
+CUST01354,Victor Samra,abhakrish@example.net,3373339981,Bangalore,56,Male,2022-08-25,Organic
+CUST01355,Balhaar Sama,manya55@example.org,04030635043,Ahmedabad,23,Male,2023-01-03,Influencer
+CUST01356,Netra Viswanathan,devansh09@example.com,+912840109392,Ahmedabad,56,Other,2024-05-16,Friend Referral
+CUST01357,Nilima Wali,bhaviniperi@example.com,08859526886,Ahmedabad,42,Female,2022-07-08,Social Media
+CUST01358,Anya Sastry,sampathbhanumati@example.net,+910146166930,Bangalore,30,Male,2022-06-17,Ad Campaign
+CUST01359,Naveen Ramesh,karnikyoshita@example.org,+910557111656,Hyderabad,18,Female,2024-02-22,Social Media
+CUST01360,Anita Choudhary,venkateshishwar@example.net,09178750969,Bangalore,60,Male,2024-01-31,Organic
+CUST01361,Ekani Batta,amarakoshy@example.org,3321020613,Lucknow,46,Female,2022-07-01,Friend Referral
+CUST01362,Vedhika Dass,qasimmahajan@example.net,+915857001536,Bangalore,47,Female,2024-06-06,Ad Campaign
+CUST01363,Madhav Gade,pantaachal@example.net,+914250904683,Lucknow,20,Other,2024-03-05,Ad Campaign
+CUST01364,Falguni Banerjee,xviswanathan@example.org,0502905447,Kolkata,38,Other,2024-01-08,Influencer
+CUST01365,Nandini Varghese,aadhyasandhu@example.net,5114320134,Jaipur,52,Other,2023-09-01,Organic
+CUST01366,Anika Verma,amaira31@example.com,+911426197495,Ahmedabad,24,Female,2023-06-18,Organic
+CUST01367,Maanas Sule,ojasvi91@example.com,6841607986,Jaipur,33,Other,2024-06-17,Ad Campaign
+CUST01368,Ryan Bala,waliamanthan@example.org,08248688816,Jaipur,20,Female,2024-01-23,Influencer
+CUST01369,Gagan Mishra,nben@example.net,06676668462,Mumbai,58,Male,2024-02-23,Friend Referral
+CUST01370,Ayushman Sengupta,viswanathantanmayi@example.net,+919706367226,Hyderabad,43,Female,2023-03-27,Ad Campaign
+CUST01371,Leela Mangat,wbobal@example.org,+917799115905,Hyderabad,45,Other,2022-06-20,Organic
+CUST01372,Adya Manda,farassom@example.org,7240097452,Delhi,51,Female,2023-12-08,Ad Campaign
+CUST01373,Bachittar Pillai,zaitra96@example.com,4845361137,Pune,50,Male,2022-04-03,Influencer
+CUST01374,Hema Chada,dasqarin@example.net,00267794475,Delhi,52,Female,2023-12-14,Ad Campaign
+CUST01375,Arunima Mallick,krishnasur@example.org,09359497194,Mumbai,46,Male,2022-11-28,Ad Campaign
+CUST01376,Charita Gara,gavinpillay@example.net,+911197469327,Ahmedabad,30,Male,2023-08-28,Friend Referral
+CUST01377,Chatura Bera,gagan23@example.com,02463381674,Delhi,59,Other,2022-11-28,Organic
+CUST01378,Pranav Randhawa,lgola@example.net,01736681671,Ahmedabad,25,Other,2022-04-04,Friend Referral
+CUST01379,Suhani Mitra,tprakash@example.org,09581751014,Kolkata,51,Other,2022-03-29,Influencer
+CUST01380,Lajita Sandal,daniudarsh@example.org,8949565581,Kolkata,28,Other,2023-09-19,Ad Campaign
+CUST01381,Indrajit Bora,prisha63@example.net,04972391209,Chennai,28,Other,2022-02-14,Social Media
+CUST01382,Janani Basak,bhagatbenjamin@example.com,4771478186,Delhi,27,Other,2022-06-16,Organic
+CUST01383,Rachita Contractor,vedantvig@example.com,2590076000,Hyderabad,37,Other,2023-03-06,Ad Campaign
+CUST01384,Harsh Chada,sarnagaurika@example.org,+913082152934,Delhi,58,Male,2022-10-23,Social Media
+CUST01385,Bhavini Mistry,avni77@example.net,4120110980,Lucknow,18,Female,2022-07-27,Organic
+CUST01386,Ekanta Bail,maanas93@example.org,04240291379,Ahmedabad,49,Other,2023-04-15,Organic
+CUST01387,Yoshita Kurian,mohammed95@example.com,+910590938280,Bangalore,49,Male,2023-09-15,Influencer
+CUST01388,Liam Bhargava,xboase@example.org,05079182818,Ahmedabad,48,Female,2023-11-07,Ad Campaign
+CUST01389,Nilima Mani,darshbhargava@example.net,5385214481,Lucknow,56,Male,2022-03-23,Social Media
+CUST01390,Mitali Walia,hemalchaudry@example.net,7554059428,Hyderabad,53,Other,2024-06-22,Influencer
+CUST01391,Faras Pandya,ashukla@example.net,3569035070,Mumbai,31,Male,2024-04-19,Social Media
+CUST01392,Advika Randhawa,ldada@example.net,03995998341,Chennai,59,Male,2022-02-26,Social Media
+CUST01393,Manthan Kurian,muttigirindra@example.org,3058592166,Lucknow,20,Other,2024-05-24,Friend Referral
+CUST01394,Jeevika Balan,omgrewal@example.org,8613011255,Mumbai,23,Male,2022-12-06,Ad Campaign
+CUST01395,Jeremiah Ganguly,brijeshdin@example.org,+919733090697,Hyderabad,28,Other,2022-07-02,Influencer
+CUST01396,Hemani Sengupta,arunimasane@example.org,+918424181886,Delhi,53,Female,2023-08-10,Influencer
+CUST01397,Eiravati Bahri,iparikh@example.net,+911338143873,Pune,20,Female,2023-01-04,Friend Referral
+CUST01398,Lekha Sha,sanghadalbir@example.org,05124014866,Pune,42,Female,2023-01-13,Influencer
+CUST01399,Ekaja Dyal,dhareesha@example.com,00673399849,Ahmedabad,36,Male,2022-03-08,Organic
+CUST01400,Yatan Rout,leenashah@example.org,5304349104,Chennai,35,Other,2023-12-13,Ad Campaign
+CUST01401,Qadim Karnik,poojaperi@example.org,+917576051991,Bangalore,31,Other,2023-06-22,Organic
+CUST01402,Rushil Bhavsar,waglekalpit@example.net,+910179883677,Jaipur,54,Male,2022-04-22,Ad Campaign
+CUST01403,Abdul Bawa,vasafiyaz@example.com,+910119045030,Hyderabad,56,Female,2024-01-12,Influencer
+CUST01404,Dhriti Dass,hemangini91@example.net,1478289168,Hyderabad,38,Other,2024-05-18,Influencer
+CUST01405,Ishita Kannan,odika42@example.org,05592161851,Delhi,40,Other,2023-10-01,Influencer
+CUST01406,Varsha Golla,rayaan03@example.org,+917579942971,Ahmedabad,51,Female,2023-05-24,Social Media
+CUST01407,Ira Hora,xsangha@example.org,8822578746,Bangalore,57,Other,2024-06-23,Friend Referral
+CUST01408,Yamini Sule,kashvi31@example.net,8630743595,Pune,18,Male,2022-07-18,Ad Campaign
+CUST01409,Harsh Bajaj,rattasai@example.net,+918134129574,Bangalore,25,Other,2023-10-03,Ad Campaign
+CUST01410,Ekta Koshy,rachitasastry@example.com,06697495284,Chennai,20,Female,2023-02-28,Influencer
+CUST01411,Ati Yadav,lchada@example.com,04346724731,Bangalore,58,Male,2024-04-05,Social Media
+CUST01412,Sudiksha Pathak,rajandevika@example.org,+912429828205,Hyderabad,36,Male,2023-12-08,Friend Referral
+CUST01413,Ishaan Mukhopadhyay,kbhakta@example.net,+914680858464,Jaipur,50,Female,2022-11-04,Organic
+CUST01414,Vansha Anand,praneel29@example.net,+910350749473,Chennai,39,Female,2022-04-27,Influencer
+CUST01415,Kamya Thakkar,frado45@example.net,+915668174971,Delhi,19,Male,2023-09-23,Friend Referral
+CUST01416,Simon Palla,mahika07@example.com,8573703113,Ahmedabad,39,Female,2024-05-03,Organic
+CUST01417,Daniel Nadig,isoman@example.org,0175516457,Ahmedabad,26,Male,2023-10-24,Ad Campaign
+CUST01418,Onkar Banik,janidaksh@example.net,7599960865,Chennai,52,Female,2024-06-04,Ad Campaign
+CUST01419,Arin Vohra,daliabrijesh@example.com,+919015370786,Jaipur,21,Female,2024-01-31,Influencer
+CUST01420,Alka Sampath,tailorubika@example.org,09597767936,Jaipur,38,Other,2024-01-13,Organic
+CUST01421,Yagnesh Datta,jairajsidhu@example.net,1164386090,Chennai,54,Female,2022-08-02,Organic
+CUST01422,Manthan Ram,subramanianfalan@example.org,00001596461,Mumbai,35,Female,2022-06-02,Ad Campaign
+CUST01423,Lakshit Lala,ithakur@example.com,00911362326,Delhi,52,Other,2023-10-04,Influencer
+CUST01424,Hemangini Madan,manivedant@example.com,00318493466,Lucknow,29,Male,2023-02-03,Friend Referral
+CUST01425,Balendra Andra,adyanath@example.net,+918153211659,Mumbai,38,Female,2023-12-24,Ad Campaign
+CUST01426,Vincent Bera,manbirranganathan@example.com,+912546610406,Bangalore,49,Female,2022-03-30,Ad Campaign
+CUST01427,Pallavi Dugal,zsankar@example.org,9985129199,Bangalore,37,Other,2024-04-29,Friend Referral
+CUST01428,Frederick Badal,noriutkarsh@example.com,+916843317030,Chennai,25,Male,2022-06-29,Social Media
+CUST01429,Ishita Luthra,dhawananika@example.net,+910493567328,Jaipur,46,Male,2022-04-05,Ad Campaign
+CUST01430,Lekha Kulkarni,sararama@example.net,2598882516,Bangalore,27,Female,2023-05-28,Ad Campaign
+CUST01431,Priya Gaba,buchrishi@example.com,+918275201201,Hyderabad,51,Female,2024-01-21,Social Media
+CUST01432,Farhan Naik,settygagan@example.net,02457484669,Jaipur,24,Other,2024-02-27,Social Media
+CUST01433,Ekaja Deshpande,anushachahal@example.net,+913345593308,Ahmedabad,20,Female,2022-07-30,Influencer
+CUST01434,Hitesh Pant,pbhat@example.net,1381530434,Hyderabad,18,Male,2022-04-29,Influencer
+CUST01435,Abeer Seth,bachittarmisra@example.net,+910160674013,Chennai,23,Female,2024-06-11,Organic
+CUST01436,Qasim Bassi,qsule@example.com,08822486233,Hyderabad,51,Male,2022-04-16,Influencer
+CUST01437,Rachana Sule,sahashivansh@example.com,+914927593451,Bangalore,37,Female,2024-02-16,Social Media
+CUST01438,Aditya Bawa,abeerzacharia@example.org,6935108727,Hyderabad,36,Other,2022-07-17,Friend Referral
+CUST01439,Divya Mann,xalakraj@example.org,1184386006,Pune,46,Female,2024-03-02,Social Media
+CUST01440,Widisha Gara,jchaudhry@example.org,9271746433,Pune,35,Male,2022-06-11,Influencer
+CUST01441,Yadavi Shere,jeet33@example.org,03676066644,Pune,50,Male,2023-07-28,Influencer
+CUST01442,Baljiwan Majumdar,xbhatnagar@example.org,4672385113,Chennai,53,Female,2022-12-25,Social Media
+CUST01443,Jeet Nagar,samaksh93@example.org,05276495721,Lucknow,36,Male,2023-12-23,Social Media
+CUST01444,Kiaan Hayer,ybaria@example.com,7870143586,Lucknow,37,Female,2022-03-14,Influencer
+CUST01445,Bimala Pillay,robertshetty@example.org,03234883862,Delhi,21,Male,2023-03-31,Ad Campaign
+CUST01446,Lipika Sahota,henrydyal@example.net,+912919542547,Pune,21,Female,2023-11-23,Organic
+CUST01447,Dhriti Maharaj,barkha14@example.net,+912244753281,Kolkata,45,Male,2022-03-30,Influencer
+CUST01448,Yatan Mannan,faris93@example.org,+918201060043,Ahmedabad,58,Other,2023-08-30,Friend Referral
+CUST01449,Tanmayi Sule,amairabrahmbhatt@example.net,00540641605,Bangalore,39,Other,2022-11-16,Influencer
+CUST01450,Anmol Rastogi,kevinmanne@example.net,06790737975,Lucknow,47,Male,2022-03-22,Organic
+CUST01451,Balendra Baria,balveergala@example.com,+917986927958,Pune,47,Female,2024-04-12,Friend Referral
+CUST01452,Xavier Mand,gaurikabhargava@example.org,07191476943,Ahmedabad,59,Female,2023-12-02,Social Media
+CUST01453,Priya Rau,dayitavarty@example.net,+913101730167,Lucknow,27,Female,2022-08-18,Friend Referral
+CUST01454,Vihaan Roy,oarora@example.com,1612136930,Chennai,29,Female,2023-02-06,Ad Campaign
+CUST01455,Unni Mohan,omannan@example.org,+911703725064,Pune,19,Female,2023-05-15,Organic
+CUST01456,Faris Rao,azadkannan@example.com,7105208148,Ahmedabad,48,Male,2022-12-26,Friend Referral
+CUST01457,Amol Purohit,ravijonathan@example.net,+919765320007,Lucknow,40,Other,2024-02-26,Social Media
+CUST01458,Raghav Ahuja,hiralkrish@example.org,+913953752478,Kolkata,24,Other,2023-06-05,Organic
+CUST01459,Isaac Butala,guneet83@example.org,00414140840,Pune,53,Female,2022-11-30,Influencer
+CUST01460,Viraj Bhasin,purohitraagini@example.org,9098004607,Lucknow,43,Female,2023-04-18,Social Media
+CUST01461,Nakul Tailor,darpan95@example.org,+912502147694,Jaipur,33,Male,2023-09-28,Ad Campaign
+CUST01462,Vansha Dara,wnayak@example.org,09080416631,Chennai,22,Male,2023-01-29,Influencer
+CUST01463,Onkar Mammen,amblevyanjana@example.org,3699909888,Lucknow,45,Female,2023-03-18,Influencer
+CUST01464,Geetika Krishna,boradevansh@example.net,03536062906,Delhi,33,Other,2023-12-12,Organic
+CUST01465,Sara Prashad,rajunitesh@example.net,+910791737752,Ahmedabad,54,Male,2024-01-28,Influencer
+CUST01466,Xiti Bhatia,nagrawal@example.com,+919056130619,Chennai,47,Other,2023-09-03,Organic
+CUST01467,Lila Brahmbhatt,oeshihora@example.com,6450460753,Delhi,46,Female,2024-04-21,Ad Campaign
+CUST01468,Janani Modi,wkalita@example.org,+915532608707,Pune,56,Other,2022-03-13,Influencer
+CUST01469,Bhavini Aurora,ekajachaudhuri@example.com,02407583016,Chennai,42,Female,2024-02-29,Organic
+CUST01470,Janani Naidu,balonkar@example.org,+910163683507,Delhi,31,Other,2022-04-03,Organic
+CUST01471,Yauvani Goswami,nparekh@example.com,+910100388834,Delhi,27,Female,2024-02-15,Influencer
+CUST01472,Eesha Tak,ganga86@example.org,+916218958195,Lucknow,42,Other,2022-10-26,Ad Campaign
+CUST01473,Advik Prashad,sanayasem@example.com,5784174055,Chennai,31,Female,2022-07-20,Influencer
+CUST01474,Naveen Khalsa,modyfaras@example.net,09059753225,Kolkata,37,Other,2024-03-24,Friend Referral
+CUST01475,Parth Nath,krishna18@example.org,+912070002877,Mumbai,55,Other,2022-04-02,Influencer
+CUST01476,Nitara Rajagopalan,uppalgagan@example.org,7975958635,Hyderabad,26,Male,2023-02-18,Friend Referral
+CUST01477,Ucchal Mandal,abeer43@example.com,9291804380,Mumbai,21,Other,2023-07-17,Influencer
+CUST01478,Hemani Garg,chandanibhasin@example.net,6974852164,Pune,40,Female,2024-04-20,Organic
+CUST01479,Zaitra Devan,murtybalveer@example.net,+911391959649,Lucknow,45,Female,2022-08-29,Friend Referral
+CUST01480,Oviya Konda,yochanasoman@example.net,+910132555460,Kolkata,42,Female,2023-12-30,Ad Campaign
+CUST01481,Mekhala Naik,shivanisrivastava@example.com,+913088976199,Delhi,31,Female,2023-07-13,Social Media
+CUST01482,Faraj Rajan,avi43@example.org,+914080300946,Kolkata,53,Female,2022-07-12,Ad Campaign
+CUST01483,Jason Murthy,fdalia@example.org,+911667808373,Delhi,36,Male,2022-06-07,Organic
+CUST01484,Qushi Dar,peter07@example.org,8988599062,Mumbai,59,Male,2022-03-15,Ad Campaign
+CUST01485,Bachittar Suri,raghavanchakrika@example.org,+917998354346,Delhi,45,Male,2023-11-05,Social Media
+CUST01486,Forum Dani,jhalakmangal@example.net,9023428698,Ahmedabad,44,Other,2023-10-20,Influencer
+CUST01487,Samuel Naik,chakrika45@example.com,5849247401,Delhi,57,Female,2023-03-12,Influencer
+CUST01488,Ria Nadig,okoshy@example.org,01145601579,Ahmedabad,53,Female,2023-03-11,Friend Referral
+CUST01489,Dayamai Chanda,madanryan@example.net,03679462033,Kolkata,29,Other,2022-08-20,Organic
+CUST01490,Varsha Purohit,hemangshroff@example.net,0341689982,Bangalore,49,Other,2023-08-15,Influencer
+CUST01491,Divya Dalal,pdoshi@example.com,+912868874181,Jaipur,44,Other,2022-10-03,Friend Referral
+CUST01492,Hardik Venkataraman,hema52@example.net,+916510302999,Lucknow,20,Female,2022-02-04,Friend Referral
+CUST01493,Rachita Hans,dadaekantika@example.org,09466230356,Ahmedabad,55,Other,2022-04-26,Organic
+CUST01494,Nandini Sinha,abobal@example.com,+919156712921,Hyderabad,51,Female,2022-05-26,Influencer
+CUST01495,Sanya Prashad,krishnanyatin@example.com,04090551482,Lucknow,51,Male,2022-03-22,Social Media
+CUST01496,Falan Nayar,saranthomas@example.net,01868668646,Pune,58,Other,2023-04-29,Influencer
+CUST01497,Unnati Dave,vgoda@example.net,06590327915,Hyderabad,55,Other,2024-03-28,Organic
+CUST01498,Brinda Raj,kalameghana@example.com,+918451218060,Mumbai,52,Female,2022-12-18,Ad Campaign
+CUST01499,Jonathan Kibe,sethitriveni@example.net,9367584507,Lucknow,48,Other,2023-06-09,Friend Referral
+CUST01500,Vansha Mangal,ziyer@example.net,04140259000,Hyderabad,40,Female,2023-03-08,Social Media
+CUST01501,Jackson Kota,mekhala08@example.net,+914389866325,Hyderabad,56,Other,2022-02-06,Influencer
+CUST01502,Ekani Sampath,pissac@example.com,+910512307688,Ahmedabad,21,Other,2022-09-24,Social Media
+CUST01503,Arunima Aurora,daveyoshita@example.org,+917531089019,Hyderabad,21,Other,2023-08-10,Influencer
+CUST01504,Aditya Barad,vritti94@example.com,03078782981,Ahmedabad,36,Male,2022-01-28,Social Media
+CUST01505,Rajata Pal,anori@example.net,01224285710,Hyderabad,22,Female,2023-06-02,Social Media
+CUST01506,Arunima Sachdev,jairajmani@example.org,0188898483,Hyderabad,35,Female,2023-09-23,Organic
+CUST01507,Tara Dube,zpatla@example.org,+916077087842,Lucknow,25,Male,2024-01-30,Influencer
+CUST01508,Tamanna Hegde,qandra@example.net,3795332556,Ahmedabad,27,Female,2024-01-27,Social Media
+CUST01509,Arya Mitter,psolanki@example.org,1864454688,Ahmedabad,33,Male,2022-09-25,Influencer
+CUST01510,Samaksh Desai,minhaszashil@example.net,6336894780,Chennai,20,Male,2024-06-01,Social Media
+CUST01511,Umang Naidu,bcheema@example.org,+919535015336,Ahmedabad,27,Female,2023-09-02,Ad Campaign
+CUST01512,Lakshit Sunder,takzansi@example.net,05006590833,Ahmedabad,60,Other,2022-09-01,Social Media
+CUST01513,Rehaan Kara,dharguneet@example.com,+912314078694,Chennai,54,Male,2022-08-04,Friend Referral
+CUST01514,Januja Jayaraman,jdate@example.com,+914061871166,Mumbai,25,Male,2024-02-13,Ad Campaign
+CUST01515,Kabir Walia,ykibe@example.org,02389070976,Hyderabad,48,Female,2023-02-13,Influencer
+CUST01516,Nisha Rama,chandjonathan@example.net,+916820132945,Kolkata,42,Female,2022-08-28,Friend Referral
+CUST01517,Ucchal Apte,umangdubey@example.net,02979099695,Kolkata,51,Male,2022-05-29,Friend Referral
+CUST01518,Ikbal Reddy,yagneshpillay@example.org,9197256470,Kolkata,46,Other,2024-03-27,Friend Referral
+CUST01519,Brinda Choudhary,ychoudhary@example.org,6148322778,Pune,20,Other,2023-06-27,Friend Referral
+CUST01520,Lekha Tank,charvi42@example.org,07752518299,Lucknow,45,Other,2024-05-14,Friend Referral
+CUST01521,Dev Nigam,vincentjayaraman@example.org,1433669327,Hyderabad,35,Male,2022-12-10,Friend Referral
+CUST01522,Isha Pingle,bahloliver@example.com,08570554598,Kolkata,55,Female,2023-11-02,Social Media
+CUST01523,Michael Lata,ekaja25@example.net,7082929330,Bangalore,55,Other,2024-01-22,Friend Referral
+CUST01524,Isaac Narasimhan,framakrishnan@example.com,+915301230924,Chennai,29,Other,2023-11-25,Organic
+CUST01525,Jasmit Sheth,mittalanmol@example.net,9994367780,Pune,18,Male,2023-11-20,Ad Campaign
+CUST01526,Nitara Bajwa,rattanrishi@example.org,05458522671,Pune,51,Other,2022-04-11,Ad Campaign
+CUST01527,Dominic Dubey,gaurangibhatnagar@example.org,+911466912535,Hyderabad,32,Female,2022-12-26,Social Media
+CUST01528,Urishilla Jha,vmani@example.org,8726975007,Lucknow,19,Male,2022-02-04,Organic
+CUST01529,Chaman Barman,nakulapte@example.org,09191147745,Bangalore,60,Other,2023-09-01,Organic
+CUST01530,Chatura Padmanabhan,goyalreva@example.net,0591467376,Pune,25,Other,2023-12-27,Social Media
+CUST01531,Leena Sehgal,triveni02@example.net,+910908194188,Lucknow,60,Male,2023-01-20,Organic
+CUST01532,Abdul Srivastava,nazarethkai@example.com,+918906711385,Hyderabad,29,Female,2023-12-14,Ad Campaign
+CUST01533,Samar Seth,mahalliam@example.org,8806105977,Ahmedabad,22,Female,2023-11-08,Ad Campaign
+CUST01534,Faqid Jhaveri,tamanna92@example.com,+915451737883,Chennai,60,Female,2023-12-10,Social Media
+CUST01535,Vyanjana Tailor,lakshmi96@example.net,00559474277,Hyderabad,22,Male,2024-03-10,Ad Campaign
+CUST01536,Vrinda Dutta,gunbirprakash@example.org,6252452331,Mumbai,39,Female,2023-02-02,Friend Referral
+CUST01537,Alka Bandi,mekhala69@example.org,9456741839,Pune,46,Female,2022-07-02,Social Media
+CUST01538,Sara Reddy,nathaniel49@example.com,+919009120916,Delhi,43,Other,2023-09-17,Ad Campaign
+CUST01539,Robert Suri,gavin18@example.org,+919837228464,Jaipur,27,Female,2022-04-22,Social Media
+CUST01540,Chanakya Kar,masondixit@example.org,6243703372,Pune,59,Female,2023-09-21,Friend Referral
+CUST01541,Saksham Naidu,anaypatla@example.net,01852153626,Pune,20,Male,2022-04-16,Influencer
+CUST01542,Chanakya Srinivas,mekhalabalasubramanian@example.org,09189701014,Ahmedabad,34,Male,2024-01-16,Ad Campaign
+CUST01543,Ishaan Yogi,tandonabhimanyu@example.net,7885226306,Mumbai,59,Male,2022-06-02,Ad Campaign
+CUST01544,Hemani Luthra,lankaishwar@example.com,00437305652,Chennai,27,Female,2022-09-30,Influencer
+CUST01545,Utkarsh Ahuja,brinda09@example.com,04613604326,Ahmedabad,50,Female,2022-01-04,Ad Campaign
+CUST01546,Kamya Kapoor,qdhingra@example.com,6000804994,Jaipur,22,Male,2023-02-18,Organic
+CUST01547,Chanchal Seshadri,cbrar@example.org,4118679814,Pune,48,Other,2023-01-29,Influencer
+CUST01548,William Anand,lipikaborra@example.com,+918832079077,Hyderabad,39,Female,2023-01-03,Organic
+CUST01549,Maanav Balay,bishakha35@example.net,05039001986,Pune,59,Female,2023-10-10,Influencer
+CUST01550,Suhani Bhavsar,buchdarpan@example.org,+916940946901,Pune,39,Female,2024-05-23,Friend Referral
+CUST01551,Yug Butala,fdey@example.com,06570984492,Delhi,30,Other,2023-10-26,Organic
+CUST01552,Ekiya Dubey,jackson68@example.com,+918623503124,Bangalore,60,Female,2023-01-29,Ad Campaign
+CUST01553,Krish Tripathi,tristanmutti@example.net,9000880370,Chennai,58,Female,2022-04-20,Organic
+CUST01554,Gaurav Dyal,ishwar97@example.net,02360085370,Ahmedabad,58,Other,2024-06-25,Social Media
+CUST01555,Manbir Bhatt,zashil93@example.com,5089441360,Bangalore,20,Male,2022-05-24,Influencer
+CUST01556,Mekhala Varma,michael28@example.net,+916534384706,Kolkata,49,Male,2022-09-02,Influencer
+CUST01557,Amara Kohli,dakshyohannan@example.com,00308883870,Ahmedabad,37,Other,2023-10-21,Ad Campaign
+CUST01558,Vamakshi Shenoy,chandranonkar@example.com,7028636932,Chennai,20,Male,2022-01-17,Friend Referral
+CUST01559,Dipta Batta,dhillonharita@example.net,5105227395,Kolkata,20,Male,2024-03-17,Social Media
+CUST01560,Panini Seth,paninibumb@example.net,0536435062,Jaipur,59,Female,2024-04-06,Influencer
+CUST01561,Triveni Nagy,darchandani@example.org,0077203152,Bangalore,55,Male,2022-06-02,Organic
+CUST01562,Ishaan Saini,liam10@example.com,+916589689214,Ahmedabad,27,Other,2024-01-24,Organic
+CUST01563,Oni Merchant,chameli47@example.com,+910713991153,Mumbai,57,Male,2023-04-28,Social Media
+CUST01564,Wakeeta Deshpande,ekantikawali@example.org,05386337911,Mumbai,29,Female,2022-01-15,Organic
+CUST01565,Ethan Chopra,arout@example.org,+915287043984,Delhi,57,Other,2023-04-13,Organic
+CUST01566,Eesha Varkey,bina94@example.net,7338603354,Pune,24,Female,2024-04-17,Influencer
+CUST01567,Charita Bansal,paniniparsa@example.net,1250816022,Bangalore,57,Male,2024-03-29,Social Media
+CUST01568,Yauvani More,kannanadya@example.net,04750654495,Kolkata,39,Female,2023-03-13,Organic
+CUST01569,Harsh Gaba,xkonda@example.net,07454100624,Jaipur,54,Male,2023-12-02,Friend Referral
+CUST01570,Simon Char,samarth95@example.com,+913521473034,Mumbai,31,Other,2024-05-06,Social Media
+CUST01571,Hema Malhotra,fyohannan@example.com,09273498533,Pune,22,Female,2022-12-10,Social Media
+CUST01572,Chasmum Ahluwalia,xmitter@example.com,3964916226,Delhi,44,Other,2024-02-15,Friend Referral
+CUST01573,Vedhika Dugar,rohanbassi@example.com,+917465458052,Ahmedabad,28,Male,2023-07-21,Influencer
+CUST01574,Rachit Kale,leelapatla@example.net,9284778452,Pune,26,Other,2022-02-11,Influencer
+CUST01575,Nicholas Bath,liamhalder@example.com,5346776672,Mumbai,28,Female,2023-01-21,Organic
+CUST01576,Max Walia,aachal44@example.net,0245842721,Delhi,18,Male,2022-01-07,Influencer
+CUST01577,Thomas Bail,frado02@example.net,01948554548,Kolkata,36,Other,2024-06-27,Ad Campaign
+CUST01578,Nidhi Loke,vartyfaris@example.com,4874500520,Bangalore,26,Male,2023-12-10,Friend Referral
+CUST01579,Tarak Natarajan,elijahpandey@example.net,+911563281965,Kolkata,46,Male,2023-06-20,Social Media
+CUST01580,Lakshit Shroff,ranbirseshadri@example.com,6470700670,Lucknow,20,Male,2023-09-18,Ad Campaign
+CUST01581,Balendra Badal,bakhshi08@example.net,+917854411747,Hyderabad,23,Female,2023-09-19,Ad Campaign
+CUST01582,Yashawini Ravel,rehaan18@example.org,+915834929207,Bangalore,53,Male,2022-01-05,Organic
+CUST01583,Yash Padmanabhan,damyanti41@example.org,0940039469,Lucknow,24,Female,2023-06-27,Influencer
+CUST01584,Leena Bhasin,nbalasubramanian@example.org,05487762808,Ahmedabad,32,Other,2023-06-04,Social Media
+CUST01585,Rudra Varma,hardikradhakrishnan@example.net,02635250600,Bangalore,21,Male,2022-10-11,Social Media
+CUST01586,Hemangini Karan,desaidominic@example.com,8445764854,Ahmedabad,48,Male,2023-12-03,Social Media
+CUST01587,Daksh Mohanty,radha83@example.org,+919166689166,Mumbai,20,Other,2023-11-18,Friend Referral
+CUST01588,Ekani Gour,sridharwriddhish@example.com,+913162028940,Kolkata,31,Female,2022-10-19,Friend Referral
+CUST01589,Anjali Kalita,chakrika95@example.org,06355972494,Mumbai,47,Male,2023-09-24,Organic
+CUST01590,Panini Karan,llata@example.net,03567806744,Delhi,29,Male,2023-07-05,Ad Campaign
+CUST01591,Sara Iyengar,choudhuryaachal@example.org,07633388665,Pune,25,Male,2023-06-12,Ad Campaign
+CUST01592,Sai More,handadevansh@example.net,00887173371,Chennai,55,Female,2023-08-30,Social Media
+CUST01593,Ekanta Dua,manthan91@example.net,0183416763,Bangalore,38,Male,2024-02-05,Friend Referral
+CUST01594,Vansha Mannan,rudradhar@example.com,1162202244,Bangalore,24,Other,2022-08-22,Ad Campaign
+CUST01595,Aashi Dash,azaanvarghese@example.net,04511501806,Kolkata,30,Male,2024-06-09,Organic
+CUST01596,Nikita Agrawal,cpalan@example.org,2614519593,Ahmedabad,55,Male,2023-04-28,Ad Campaign
+CUST01597,Aarav Basak,oliver44@example.com,8761934348,Lucknow,31,Female,2022-05-29,Social Media
+CUST01598,Barkha Bhargava,shahomaja@example.com,+916738381963,Delhi,41,Female,2023-02-01,Social Media
+CUST01599,Tripti Setty,dev51@example.net,+917271075194,Hyderabad,40,Male,2023-10-10,Friend Referral
+CUST01600,Aahana Bansal,lloyal@example.net,04555288956,Lucknow,20,Male,2022-05-11,Friend Referral
+CUST01601,Qasim Lanka,pateldhriti@example.net,+916226421826,Ahmedabad,25,Female,2022-05-20,Ad Campaign
+CUST01602,Christopher Oommen,seshadriyachana@example.com,09746787337,Bangalore,39,Female,2022-06-25,Influencer
+CUST01603,Ikshita Ratti,yashasvibal@example.net,+919446861901,Lucknow,58,Male,2022-06-10,Influencer
+CUST01604,Fiyaz Chada,gdeol@example.org,1537026149,Pune,32,Female,2023-07-21,Influencer
+CUST01605,Ridhi Suresh,fbajaj@example.net,+912419694112,Lucknow,31,Female,2023-05-16,Ad Campaign
+CUST01606,Jagvi Saini,nidra41@example.org,+916473384896,Kolkata,18,Other,2022-10-13,Social Media
+CUST01607,Krishna Kala,abeerarora@example.com,06798844935,Kolkata,38,Other,2022-09-11,Social Media
+CUST01608,Ira Kala,zmishra@example.com,01051884468,Lucknow,27,Male,2023-08-29,Ad Campaign
+CUST01609,Aishani Sem,chaitanyasandhu@example.com,7626846856,Ahmedabad,20,Other,2022-02-15,Influencer
+CUST01610,George Khalsa,charita95@example.org,02263203631,Jaipur,45,Female,2022-02-04,Ad Campaign
+CUST01611,Hema Chaudhary,wdutta@example.net,8723339919,Ahmedabad,24,Female,2024-04-09,Social Media
+CUST01612,Zaid Ramanathan,maya54@example.com,07966784294,Mumbai,53,Other,2022-03-27,Ad Campaign
+CUST01613,Aadhya Bansal,jacob32@example.com,6751007652,Chennai,26,Female,2022-08-12,Social Media
+CUST01614,Idika Shah,koshyhemangini@example.net,04904792925,Mumbai,23,Female,2023-10-26,Friend Referral
+CUST01615,Gaurav Kamdar,yuvrajchaudhry@example.com,04041345674,Lucknow,47,Other,2022-06-15,Influencer
+CUST01616,Anvi Grewal,dgopal@example.org,+910440489707,Ahmedabad,47,Male,2022-01-25,Ad Campaign
+CUST01617,Sanya Jhaveri,rbir@example.org,+917865944673,Ahmedabad,41,Other,2022-07-09,Organic
+CUST01618,Ekantika Karan,falguni72@example.net,09818400730,Pune,58,Female,2024-05-31,Friend Referral
+CUST01619,Jagrati Nayak,netradivan@example.net,07145190792,Hyderabad,20,Female,2023-06-28,Friend Referral
+CUST01620,Warjas Chawla,pallchaman@example.com,3766335116,Jaipur,57,Other,2023-12-16,Social Media
+CUST01621,Chanchal Zacharia,libni98@example.com,1037048128,Lucknow,23,Female,2024-03-17,Organic
+CUST01622,Dominic Yogi,kiaanvohra@example.com,4862636046,Mumbai,41,Male,2023-06-12,Ad Campaign
+CUST01623,Manan Srivastava,esampath@example.com,8634621343,Lucknow,47,Male,2023-01-10,Friend Referral
+CUST01624,Aarav Dutt,tanay82@example.org,4725484115,Jaipur,29,Other,2023-01-11,Organic
+CUST01625,Bhavya Venkataraman,raksha22@example.org,+919020658406,Delhi,31,Female,2023-07-29,Social Media
+CUST01626,Yamini Dugar,kashyapfaris@example.net,+916593455347,Ahmedabad,25,Other,2023-07-07,Influencer
+CUST01627,Michael Kapoor,gaurang07@example.net,+917538890914,Bangalore,31,Female,2024-06-11,Friend Referral
+CUST01628,Rayaan Cheema,aashi58@example.com,9187368753,Kolkata,50,Female,2022-10-01,Organic
+CUST01629,Vasudha Mahal,owen47@example.com,09436327690,Chennai,41,Female,2022-03-06,Ad Campaign
+CUST01630,Varenya Bumb,yug36@example.net,00355632955,Pune,51,Female,2023-05-29,Influencer
+CUST01631,Ranveer Bahri,pranit18@example.org,+919906751318,Hyderabad,52,Female,2023-11-26,Influencer
+CUST01632,Chameli Jha,babudalbir@example.com,+918994510661,Bangalore,22,Female,2023-01-12,Organic
+CUST01633,Lila Seth,agastyatak@example.org,01176714494,Delhi,43,Female,2022-03-24,Organic
+CUST01634,Dipta Zachariah,srinivaspanini@example.com,07831008430,Hyderabad,28,Male,2022-04-22,Social Media
+CUST01635,Janya Sant,qkuruvilla@example.com,6492729010,Bangalore,27,Other,2023-05-24,Organic
+CUST01636,Ishwar Thaker,harsh15@example.net,4264630981,Jaipur,44,Male,2022-10-28,Ad Campaign
+CUST01637,Jagdish Koshy,lavanyamann@example.com,2110223970,Ahmedabad,44,Other,2022-12-22,Organic
+CUST01638,Sanya Gola,benjamin15@example.net,00142686914,Pune,30,Male,2022-10-26,Social Media
+CUST01639,Chandresh Hora,patilnaveen@example.net,0531368429,Chennai,51,Female,2024-05-04,Influencer
+CUST01640,Harini Bakshi,haritarao@example.net,05830316443,Chennai,59,Female,2022-12-18,Influencer
+CUST01641,Zashil Chaudhuri,lucky29@example.org,+917575827242,Jaipur,51,Female,2023-11-13,Ad Campaign
+CUST01642,Yash Oza,dominicganesh@example.com,+915638980877,Delhi,54,Female,2022-11-08,Social Media
+CUST01643,Qarin Talwar,deepabhandari@example.com,+915933230216,Bangalore,34,Female,2024-03-19,Friend Referral
+CUST01644,Harshil Dhar,nsoman@example.com,3365685941,Delhi,21,Female,2022-10-23,Friend Referral
+CUST01645,Warda Jha,vartykritika@example.org,0049396591,Lucknow,28,Male,2023-04-12,Influencer
+CUST01646,Kabir Salvi,yutikanarayan@example.com,02792830807,Delhi,29,Other,2022-10-20,Social Media
+CUST01647,Qadim Boase,kashyapneel@example.com,07145218427,Pune,33,Male,2022-06-15,Friend Referral
+CUST01648,Charvi Gala,hkala@example.net,09055242119,Ahmedabad,26,Female,2023-08-12,Friend Referral
+CUST01649,Laban Bhargava,anyabhargava@example.com,03692084825,Jaipur,31,Other,2022-07-08,Organic
+CUST01650,Saksham Date,idatta@example.com,+919182880142,Chennai,38,Male,2023-11-13,Friend Referral
+CUST01651,Hiral Boase,lpalla@example.net,7536825869,Delhi,52,Other,2023-04-05,Friend Referral
+CUST01652,Ira Patel,falankade@example.net,+916176248265,Kolkata,19,Female,2022-05-05,Social Media
+CUST01653,Falan Contractor,vrittirajagopal@example.net,2289200433,Delhi,38,Male,2023-04-15,Influencer
+CUST01654,Anya Dar,banjeetramakrishnan@example.net,5907189487,Hyderabad,39,Female,2023-06-04,Friend Referral
+CUST01655,Daksha Mall,rajeshri80@example.com,04387261608,Delhi,54,Other,2024-02-12,Ad Campaign
+CUST01656,Zayan Rattan,anya94@example.com,05788278238,Ahmedabad,25,Male,2022-12-13,Social Media
+CUST01657,Ayaan Sehgal,wishi92@example.net,8826136344,Pune,53,Female,2023-11-26,Organic
+CUST01658,Chaman Walia,liambath@example.net,+915741205223,Bangalore,57,Female,2023-02-16,Friend Referral
+CUST01659,Vrishti Salvi,qkashyap@example.net,+918644204977,Mumbai,38,Other,2022-04-05,Social Media
+CUST01660,Bishakha Mani,nathindali@example.org,+912092871689,Bangalore,51,Female,2023-08-21,Social Media
+CUST01661,Vedant Mall,bakshixiti@example.com,3849488519,Jaipur,23,Female,2022-01-24,Organic
+CUST01662,Anjali Ravel,plal@example.org,+915985802075,Bangalore,43,Female,2023-06-09,Friend Referral
+CUST01663,Kala Reddy,caurora@example.net,6480049096,Jaipur,56,Male,2023-09-10,Friend Referral
+CUST01664,Jagat Nanda,megha81@example.net,3727453544,Kolkata,27,Female,2023-02-12,Ad Campaign
+CUST01665,Aarush Buch,subramaniamchristopher@example.com,+913150345641,Hyderabad,18,Female,2023-01-17,Friend Referral
+CUST01666,Aarini Hayer,dubeydaksha@example.com,+917198107840,Jaipur,46,Male,2022-11-12,Social Media
+CUST01667,Darsh Dani,darika56@example.org,3456004376,Kolkata,46,Female,2024-01-16,Friend Referral
+CUST01668,Jyoti Rajan,vsarna@example.com,8107838932,Kolkata,45,Male,2022-06-17,Influencer
+CUST01669,Frado Magar,tanishkanda@example.com,07672694823,Delhi,23,Male,2023-09-05,Friend Referral
+CUST01670,Nidra Bhakta,yahvi49@example.com,8912829934,Chennai,51,Male,2023-05-02,Influencer
+CUST01671,Tejas Bhattacharyya,nehaborra@example.org,07837270866,Pune,42,Male,2024-02-14,Ad Campaign
+CUST01672,Priya Mand,apillay@example.org,00414959433,Kolkata,35,Male,2023-10-17,Influencer
+CUST01673,Gautami Krish,fnarain@example.net,08832318287,Delhi,54,Male,2023-04-19,Social Media
+CUST01674,Dhruv Halder,owen59@example.com,+914022168241,Hyderabad,42,Other,2024-05-02,Ad Campaign
+CUST01675,Forum Kulkarni,yadavi40@example.org,1487495853,Lucknow,37,Female,2022-02-13,Ad Campaign
+CUST01676,Anusha Oak,zinal46@example.net,01319330897,Bangalore,47,Male,2023-07-27,Organic
+CUST01677,Isha Gera,usachar@example.net,4935492628,Hyderabad,34,Other,2022-06-07,Ad Campaign
+CUST01678,Aradhana Mistry,hayreranbir@example.org,02496162799,Hyderabad,59,Female,2022-05-08,Social Media
+CUST01679,Pushti Luthra,trivediharita@example.net,+912879229606,Bangalore,59,Male,2023-05-19,Organic
+CUST01680,Qasim Nori,dkrishnamurthy@example.org,0977090635,Ahmedabad,35,Male,2024-02-23,Influencer
+CUST01681,Nikita Baral,nandafiyaz@example.org,7906084975,Lucknow,41,Female,2024-02-03,Influencer
+CUST01682,Rehaan Thakur,rajuvrishti@example.com,+917902421154,Ahmedabad,34,Other,2023-03-23,Organic
+CUST01683,Ladli Verma,nagarvedant@example.net,6877857886,Lucknow,50,Male,2023-01-18,Friend Referral
+CUST01684,Girish Purohit,balaytanmayi@example.com,4470072143,Mumbai,55,Male,2022-06-16,Friend Referral
+CUST01685,Aditya Dasgupta,harimugdha@example.com,02340593772,Chennai,26,Male,2023-04-18,Organic
+CUST01686,Sneha Salvi,yauvani67@example.org,+914197150414,Kolkata,41,Other,2022-10-07,Friend Referral
+CUST01687,Barkha Dhar,bkeer@example.net,+915524403640,Hyderabad,36,Other,2022-02-19,Organic
+CUST01688,Dominic Bahl,umand@example.org,8684936268,Delhi,30,Male,2023-06-11,Influencer
+CUST01689,Aadhya Nath,santmohammed@example.com,+914505491737,Jaipur,28,Female,2024-02-10,Friend Referral
+CUST01690,Kashvi Koshy,gourmadhav@example.org,9857403699,Hyderabad,37,Other,2024-04-26,Friend Referral
+CUST01691,Chanakya Hans,gaurangi06@example.net,5373589160,Lucknow,52,Female,2022-04-09,Social Media
+CUST01692,Mekhala Goswami,prishawagle@example.net,09609101748,Jaipur,26,Female,2022-01-14,Friend Referral
+CUST01693,Amrita Bumb,kashish47@example.org,+919612435604,Kolkata,49,Female,2024-03-08,Social Media
+CUST01694,Nakul Vala,grewalupma@example.net,0066785392,Delhi,31,Other,2022-04-15,Social Media
+CUST01695,Vedhika Anne,naveenpatil@example.com,02310514945,Jaipur,30,Other,2024-05-01,Influencer
+CUST01696,Abha Bora,faras34@example.net,03701907156,Jaipur,52,Other,2024-05-16,Organic
+CUST01697,Chasmum Kashyap,chatura48@example.org,0257703928,Pune,47,Male,2023-03-04,Social Media
+CUST01698,Arya Ramanathan,nehaupadhyay@example.net,+913133414762,Chennai,48,Female,2022-01-18,Friend Referral
+CUST01699,Samesh Sarma,tcherian@example.net,+918507674186,Lucknow,46,Other,2022-05-23,Friend Referral
+CUST01700,Wishi Tiwari,ishita48@example.org,+917712565109,Mumbai,37,Other,2022-06-26,Organic
+CUST01701,Siddharth Saini,chakradevpandey@example.com,+917714343217,Delhi,26,Other,2022-08-16,Social Media
+CUST01702,Tanish Sharaf,karachaitanya@example.net,00691507098,Bangalore,26,Male,2022-11-11,Organic
+CUST01703,Odika Choudhary,maanavsalvi@example.org,01019656412,Pune,25,Male,2023-03-12,Ad Campaign
+CUST01704,Vasatika Randhawa,warhisachdeva@example.com,8082016152,Mumbai,45,Male,2024-02-15,Organic
+CUST01705,Nihal Virk,hbarman@example.net,+918423088704,Jaipur,60,Other,2022-02-03,Organic
+CUST01706,Yagnesh Bhasin,lrastogi@example.org,1404809722,Hyderabad,25,Male,2023-04-26,Organic
+CUST01707,Hemang Andra,bhavya01@example.org,02359971566,Mumbai,60,Male,2022-11-05,Organic
+CUST01708,Panini Desai,sara54@example.org,+914726584742,Lucknow,31,Male,2023-09-09,Social Media
+CUST01709,Anya More,dmody@example.net,+917075191299,Mumbai,40,Male,2023-11-18,Social Media
+CUST01710,Damini Date,mukhopadhyayfalan@example.org,00018949140,Lucknow,35,Female,2024-05-16,Friend Referral
+CUST01711,Oviya Lala,qvala@example.org,02140782796,Lucknow,50,Male,2022-06-14,Influencer
+CUST01712,Kalpit Chauhan,vedhika05@example.net,04898943265,Pune,22,Other,2023-08-07,Organic
+CUST01713,Kamya Ramachandran,balanlucky@example.net,+918799064526,Bangalore,31,Female,2023-06-26,Social Media
+CUST01714,Frederick Thakur,gauri91@example.com,+917170792168,Mumbai,52,Other,2024-02-12,Organic
+CUST01715,Anika Ganguly,kondadalbir@example.org,5560317710,Ahmedabad,50,Female,2022-08-08,Influencer
+CUST01716,Osha Goswami,kpal@example.com,+915388515490,Pune,46,Male,2022-07-09,Friend Referral
+CUST01717,Yashodhara Babu,zehaan69@example.com,9760837761,Bangalore,45,Other,2023-01-24,Social Media
+CUST01718,Janani Purohit,alka92@example.net,+914398586248,Chennai,25,Male,2023-02-22,Ad Campaign
+CUST01719,Hemal Bhasin,mmanda@example.com,1095844974,Delhi,51,Female,2022-04-23,Friend Referral
+CUST01720,Anita Mukherjee,matthewkamdar@example.net,01748699760,Jaipur,36,Other,2023-12-23,Organic
+CUST01721,Chatura Bhatt,nirjaprakash@example.com,04734379660,Ahmedabad,38,Male,2022-03-26,Ad Campaign
+CUST01722,Aadhya Vohra,nehahayer@example.com,07357528439,Lucknow,47,Other,2022-10-18,Friend Referral
+CUST01723,Utkarsh Bahri,calebnarayanan@example.com,04978958903,Bangalore,46,Other,2023-12-05,Ad Campaign
+CUST01724,Urishilla Dey,idika90@example.com,07849589062,Bangalore,45,Male,2022-10-25,Ad Campaign
+CUST01725,Aarav Raju,nkarnik@example.net,03814824320,Delhi,41,Male,2023-11-27,Ad Campaign
+CUST01726,Shivani Sehgal,mangalharsh@example.net,+910741035785,Kolkata,24,Female,2023-11-20,Influencer
+CUST01727,Varsha Gaba,balvanmadan@example.com,+919005351704,Pune,23,Male,2023-11-06,Ad Campaign
+CUST01728,Lekha Keer,anita05@example.com,5184860700,Pune,55,Other,2023-02-15,Social Media
+CUST01729,Samarth Joshi,aarav24@example.com,+911170600967,Bangalore,41,Female,2022-03-08,Social Media
+CUST01730,Kiaan Doctor,samble@example.net,06062380154,Pune,43,Male,2023-09-02,Ad Campaign
+CUST01731,Theodore Sengupta,saranimaran@example.net,08747209605,Hyderabad,49,Other,2024-01-13,Influencer
+CUST01732,Brijesh Arya,pauarunima@example.org,+911753222441,Kolkata,35,Female,2023-08-31,Ad Campaign
+CUST01733,Tanish Lad,rishimalhotra@example.com,2334998180,Kolkata,56,Female,2023-11-14,Influencer
+CUST01734,Arjun Mall,vborde@example.com,05988252334,Ahmedabad,27,Male,2022-10-13,Organic
+CUST01735,Zilmil Golla,buchsimon@example.net,9512834118,Ahmedabad,49,Male,2022-09-14,Social Media
+CUST01736,Vivaan Virk,dalalvihaan@example.com,7034311105,Mumbai,24,Male,2022-01-31,Ad Campaign
+CUST01737,Sanya Sabharwal,hbarad@example.org,+910637621774,Delhi,19,Female,2023-11-26,Influencer
+CUST01738,Lopa Keer,dugalonkar@example.net,7161463887,Delhi,38,Female,2023-11-27,Influencer
+CUST01739,Shravya Lala,kvenkatesh@example.net,5672318703,Pune,24,Other,2023-10-01,Influencer
+CUST01740,Kai Goda,tdoctor@example.net,6907020814,Ahmedabad,49,Male,2024-02-25,Friend Referral
+CUST01741,Rachana Kanda,bhasinbrinda@example.org,9079198316,Ahmedabad,49,Other,2023-11-09,Friend Referral
+CUST01742,Vasudha Kurian,ckannan@example.net,07737371960,Jaipur,39,Other,2023-07-10,Organic
+CUST01743,Azad Panchal,rastogiadvay@example.net,1128771173,Kolkata,20,Male,2024-02-22,Ad Campaign
+CUST01744,Tristan Chander,dipta60@example.net,+918830654490,Kolkata,38,Female,2023-04-06,Ad Campaign
+CUST01745,Fiyaz Sekhon,lohitbiswas@example.net,+914876414948,Delhi,20,Other,2022-02-06,Friend Referral
+CUST01746,David Sane,shivansh93@example.net,01407522656,Ahmedabad,28,Female,2024-06-24,Social Media
+CUST01747,Mekhala Varghese,ijaya17@example.net,04584767604,Ahmedabad,42,Male,2022-11-16,Influencer
+CUST01748,Anvi Dara,varghesetripti@example.com,08033804750,Jaipur,49,Other,2023-11-23,Influencer
+CUST01749,Banjeet Sastry,rvohra@example.com,+914316760874,Ahmedabad,48,Other,2023-08-09,Social Media
+CUST01750,Chaaya Zachariah,azacharia@example.com,08485846046,Kolkata,21,Female,2023-06-03,Ad Campaign
+CUST01751,Jairaj Yogi,manthancomar@example.org,07583055937,Lucknow,42,Other,2023-08-29,Friend Referral
+CUST01752,Finn Vora,tanmayipall@example.net,+915367266326,Chennai,36,Male,2024-02-24,Organic
+CUST01753,Manan Saxena,wseshadri@example.com,+910602327035,Delhi,20,Female,2023-08-28,Friend Referral
+CUST01754,Chaitaly Lanka,divyasant@example.com,07359517009,Mumbai,55,Other,2024-04-08,Friend Referral
+CUST01755,Warjas Naidu,andrew39@example.org,08080490755,Kolkata,24,Female,2023-01-25,Friend Referral
+CUST01756,Indrajit Mallick,nidhichhabra@example.net,9588132477,Mumbai,40,Other,2023-02-26,Social Media
+CUST01757,Kamala Salvi,gbaral@example.org,+916860709061,Hyderabad,33,Other,2022-09-11,Organic
+CUST01758,Teerth Saxena,evarty@example.com,+919228832906,Hyderabad,22,Male,2023-12-06,Friend Referral
+CUST01759,Jonathan Krishnan,yashawini67@example.com,9280754870,Jaipur,19,Female,2022-06-23,Organic
+CUST01760,Ekapad Chaudhari,ipall@example.net,+916195180776,Kolkata,60,Other,2023-04-17,Influencer
+CUST01761,Chaitaly Mahajan,davidnair@example.com,+912818721025,Mumbai,35,Other,2023-03-08,Ad Campaign
+CUST01762,George D’Alia,joshifiyaz@example.org,1440395012,Chennai,19,Female,2023-08-26,Influencer
+CUST01763,Anamika Chawla,harshilom@example.org,+910177341819,Lucknow,38,Male,2023-02-04,Ad Campaign
+CUST01764,Inaya Golla,okalita@example.com,+915186992412,Chennai,31,Female,2022-04-13,Influencer
+CUST01765,Vasatika Nanda,jsrivastava@example.org,02809183433,Chennai,60,Male,2024-04-10,Influencer
+CUST01766,Riya Pathak,christopherbutala@example.com,00724030722,Kolkata,41,Male,2022-11-03,Ad Campaign
+CUST01767,Baljiwan Bail,onkarchanda@example.com,06402287985,Jaipur,22,Male,2023-10-13,Friend Referral
+CUST01768,Agastya Kanda,hbhalla@example.org,07299114290,Hyderabad,21,Other,2022-09-29,Ad Campaign
+CUST01769,Laksh Virk,fsule@example.org,+911838026312,Lucknow,32,Other,2024-04-03,Organic
+CUST01770,Kamala Kapur,lalaqadim@example.org,06873780141,Pune,55,Other,2024-01-05,Friend Referral
+CUST01771,Ishani Vig,harsh53@example.org,4859359248,Lucknow,22,Other,2022-10-07,Ad Campaign
+CUST01772,Jason Basu,unair@example.org,00110663553,Chennai,31,Male,2023-03-14,Friend Referral
+CUST01773,Ati Ratta,jnaik@example.com,+919872957447,Kolkata,37,Other,2023-06-01,Influencer
+CUST01774,Wazir Raj,pandyajagat@example.net,+917644918007,Kolkata,30,Female,2022-11-17,Friend Referral
+CUST01775,Vedhika Kumer,aranganathan@example.com,04464776914,Ahmedabad,50,Other,2023-10-02,Influencer
+CUST01776,Ikbal Bhasin,muttivedika@example.com,+916812996880,Jaipur,19,Male,2022-07-04,Influencer
+CUST01777,Arin Nadkarni,lipikasankaran@example.net,+918910202643,Ahmedabad,31,Female,2023-05-27,Influencer
+CUST01778,Shivani Bhattacharyya,ekavir30@example.net,09267220256,Kolkata,57,Other,2024-04-08,Organic
+CUST01779,Alexander Swaminathan,qtiwari@example.net,9206291774,Chennai,30,Female,2023-06-19,Social Media
+CUST01780,Chakradev Shankar,geetika72@example.com,03764159441,Hyderabad,27,Female,2022-09-04,Ad Campaign
+CUST01781,Niharika Banerjee,ekapadkannan@example.org,0450131065,Bangalore,22,Female,2022-11-23,Friend Referral
+CUST01782,Ijaya Chaudhary,gavin93@example.org,+913705934422,Delhi,36,Female,2024-04-23,Influencer
+CUST01783,Nikita Ahluwalia,qabilmadan@example.net,+912178414880,Bangalore,43,Male,2022-08-30,Social Media
+CUST01784,Yatin Kanda,saggarwal@example.com,03590985724,Bangalore,19,Female,2022-07-16,Ad Campaign
+CUST01785,Isaac Deo,bavadamyanti@example.net,+917260408648,Kolkata,53,Female,2023-05-13,Organic
+CUST01786,Nidra Hayre,tooredhitha@example.com,+915126410560,Hyderabad,28,Male,2022-07-26,Organic
+CUST01787,Samaksh Chakrabarti,magarlila@example.com,9946320878,Jaipur,35,Male,2022-09-22,Organic
+CUST01788,Megha Vaidya,arya21@example.net,4455935178,Mumbai,49,Male,2024-01-10,Organic
+CUST01789,Hritik Ahuja,rbasak@example.net,+912772930213,Hyderabad,56,Male,2022-11-18,Ad Campaign
+CUST01790,Maanas Natarajan,bumbpooja@example.org,00507585764,Pune,60,Female,2023-01-08,Social Media
+CUST01791,Rajata Tripathi,krish77@example.com,07469759085,Lucknow,25,Other,2022-08-30,Influencer
+CUST01792,Vrishti Shenoy,ramakrishnanaradhana@example.com,+912635104596,Lucknow,51,Other,2022-05-04,Friend Referral
+CUST01793,Hemang Shankar,abhiram14@example.net,+916254590010,Bangalore,23,Other,2023-05-24,Organic
+CUST01794,Tamanna Gera,latajack@example.com,+913063537456,Chennai,38,Other,2024-03-02,Ad Campaign
+CUST01795,Joshua Salvi,lila85@example.org,07286146408,Kolkata,33,Male,2024-04-05,Social Media
+CUST01796,Osha Walia,ramjanya@example.com,+916466507776,Bangalore,29,Female,2022-04-20,Ad Campaign
+CUST01797,Zilmil Bhatt,rkapadia@example.com,5268121124,Lucknow,34,Male,2023-02-23,Ad Campaign
+CUST01798,Girik Kalita,hsethi@example.net,0302025950,Pune,41,Female,2023-07-01,Influencer
+CUST01799,Anjali Kakar,mohinivarughese@example.com,+910834013901,Bangalore,48,Female,2023-03-10,Social Media
+CUST01800,Amol Narain,samarmammen@example.net,0447942248,Chennai,48,Female,2023-01-07,Organic
+CUST01801,Jyoti Rajagopalan,januja71@example.com,+917773710726,Mumbai,56,Other,2023-10-23,Organic
+CUST01802,Hema Ratti,santmitali@example.org,0109448315,Bangalore,60,Female,2023-12-09,Influencer
+CUST01803,Wishi Bala,neel49@example.net,3621906772,Chennai,37,Other,2023-01-29,Organic
+CUST01804,Zinal Khurana,irya31@example.net,01420480190,Ahmedabad,33,Female,2023-07-02,Organic
+CUST01805,Upma Prasad,mitalibatra@example.net,00577215130,Hyderabad,34,Male,2023-02-07,Social Media
+CUST01806,Damyanti Garg,msaran@example.com,02539487019,Delhi,31,Female,2022-11-01,Friend Referral
+CUST01807,Chaitaly Krishnan,mchokshi@example.org,05510201948,Kolkata,59,Male,2024-06-19,Friend Referral
+CUST01808,Pranav Mann,upadhyayoni@example.org,+918595692411,Ahmedabad,23,Female,2024-06-06,Ad Campaign
+CUST01809,Charles Mall,lshah@example.net,+910098677789,Kolkata,39,Male,2024-05-11,Social Media
+CUST01810,Ikshita Sahni,kevinsampath@example.org,04361067586,Jaipur,34,Male,2023-12-17,Friend Referral
+CUST01811,Falguni Khare,faqidmaharaj@example.com,06642313892,Jaipur,56,Other,2023-03-07,Friend Referral
+CUST01812,Eesha Parikh,parmeradya@example.org,6353438238,Mumbai,19,Other,2023-04-10,Social Media
+CUST01813,Anusha Shere,indali80@example.org,3454314179,Delhi,46,Male,2023-10-08,Ad Campaign
+CUST01814,Chakrika Chatterjee,sinhakabir@example.net,9591344173,Hyderabad,58,Female,2022-07-24,Influencer
+CUST01815,Hiral Merchant,fiyazdivan@example.com,00794345144,Delhi,25,Male,2022-03-26,Influencer
+CUST01816,Yashasvi Mani,krishna11@example.com,8610224369,Delhi,59,Other,2024-01-01,Ad Campaign
+CUST01817,Dalbir Hari,dubeyhritik@example.net,03309088580,Ahmedabad,38,Female,2024-03-22,Social Media
+CUST01818,Anjali Mukhopadhyay,karanvidhi@example.com,9700186845,Lucknow,29,Female,2022-09-24,Friend Referral
+CUST01819,Tanmayi Kohli,abhiramramaswamy@example.com,6323301224,Kolkata,23,Female,2022-07-23,Social Media
+CUST01820,Libni Mani,godawidisha@example.org,+910835822529,Lucknow,42,Male,2023-02-07,Organic
+CUST01821,Tanvi Ganesh,lohitgara@example.net,+919887222754,Lucknow,53,Other,2022-01-24,Social Media
+CUST01822,Veda Lad,lavanya94@example.net,+912639828914,Bangalore,47,Female,2022-04-02,Social Media
+CUST01823,Aradhana Chanda,ayushmanvirk@example.com,8783945691,Lucknow,43,Female,2022-02-20,Influencer
+CUST01824,Michael Kara,yahvi03@example.net,1145148861,Pune,27,Female,2022-09-24,Social Media
+CUST01825,Ati Kari,xbajaj@example.com,+910568755718,Mumbai,25,Other,2023-08-04,Influencer
+CUST01826,Triveni Sule,mugdha76@example.net,+915720193579,Ahmedabad,47,Male,2023-03-22,Social Media
+CUST01827,Ishaan Mammen,gabriel54@example.net,07680568677,Bangalore,31,Female,2024-01-01,Friend Referral
+CUST01828,Nimrat Bali,frederickkant@example.com,05284783992,Kolkata,49,Male,2024-02-04,Ad Campaign
+CUST01829,Victor Borde,vasudha70@example.org,04152304111,Lucknow,31,Male,2024-05-26,Friend Referral
+CUST01830,Aditya Mand,pathakvarenya@example.org,08504329277,Kolkata,30,Male,2024-01-15,Ad Campaign
+CUST01831,Quincy Mallick,dbobal@example.net,+919345238728,Mumbai,27,Female,2024-03-22,Friend Referral
+CUST01832,Anjali Gala,qganesh@example.net,+915790378724,Ahmedabad,57,Male,2022-08-30,Friend Referral
+CUST01833,Aishani Bumb,issacfaraj@example.org,0288746203,Ahmedabad,59,Male,2023-08-20,Organic
+CUST01834,Banjeet Chakrabarti,libni30@example.org,8675824263,Chennai,26,Other,2023-04-26,Ad Campaign
+CUST01835,Janaki Bhatti,yashicachanda@example.net,01106554392,Kolkata,31,Other,2023-12-05,Ad Campaign
+CUST01836,Januja Varma,zrajagopal@example.com,+914767567650,Hyderabad,56,Male,2024-01-24,Organic
+CUST01837,Gautami Brar,sarnabina@example.com,+910527614576,Mumbai,21,Female,2023-07-25,Social Media
+CUST01838,Ikshita Gala,rudramody@example.org,5199880394,Lucknow,40,Other,2023-04-28,Influencer
+CUST01839,Aachal Barad,nimrat11@example.net,+914387322351,Mumbai,20,Female,2023-12-28,Influencer
+CUST01840,Onveer Shenoy,jeevika59@example.com,+911133197696,Hyderabad,42,Female,2023-09-27,Friend Referral
+CUST01841,Osha Singhal,kevinbal@example.org,03576295368,Mumbai,53,Other,2022-05-16,Social Media
+CUST01842,Pallavi Sankaran,elijah84@example.com,02949990086,Jaipur,28,Female,2022-09-24,Friend Referral
+CUST01843,Nilima Varughese,bina45@example.net,6347280955,Delhi,47,Male,2024-06-17,Friend Referral
+CUST01844,Yash Iyer,omyavohra@example.org,05510830720,Kolkata,51,Male,2023-12-29,Friend Referral
+CUST01845,Aarush Dash,wanand@example.com,+919182451212,Mumbai,38,Male,2022-04-30,Ad Campaign
+CUST01846,Nandini Sandal,auroragaurangi@example.net,0247501659,Chennai,35,Female,2024-06-11,Friend Referral
+CUST01847,Jairaj Murty,varshasridhar@example.org,2149270479,Lucknow,34,Female,2024-06-16,Influencer
+CUST01848,Azaan Kaur,jvasa@example.net,09991037352,Delhi,45,Female,2022-11-17,Ad Campaign
+CUST01849,Mugdha Kamdar,joshuasaha@example.org,03020790522,Jaipur,27,Other,2024-02-22,Ad Campaign
+CUST01850,Naveen Contractor,usunder@example.org,02604128042,Delhi,30,Male,2022-02-24,Social Media
+CUST01851,Brinda Sant,chandranarunima@example.com,09006339531,Ahmedabad,20,Female,2022-07-07,Social Media
+CUST01852,Faraj Dutt,charles50@example.net,+912275846782,Kolkata,47,Male,2023-12-24,Ad Campaign
+CUST01853,Yashvi Shere,januja73@example.net,1369235305,Chennai,46,Other,2022-02-11,Influencer
+CUST01854,Prisha Banik,siya23@example.com,6632831163,Ahmedabad,47,Male,2023-05-12,Social Media
+CUST01855,Raksha Dass,yagneshkhurana@example.net,06129221053,Pune,40,Male,2022-05-07,Friend Referral
+CUST01856,Kabir Choudhary,zayanwali@example.net,7518177928,Jaipur,28,Female,2022-07-04,Influencer
+CUST01857,Manbir Dugar,bhandarijatin@example.org,02784569729,Bangalore,55,Other,2023-11-11,Organic
+CUST01858,Qarin Kaur,batralekha@example.org,07585018573,Delhi,54,Female,2023-06-23,Organic
+CUST01859,Divya Bhalla,nigamtripti@example.org,+919380900699,Pune,49,Female,2022-09-10,Organic
+CUST01860,Yagnesh Tripathi,palladaniel@example.org,6808346600,Kolkata,25,Female,2022-10-19,Influencer
+CUST01861,Chanchal Chada,xbadal@example.org,05268638922,Delhi,38,Male,2022-04-19,Organic
+CUST01862,Yashoda Grover,chaitaly54@example.com,08083243000,Ahmedabad,60,Female,2023-04-17,Friend Referral
+CUST01863,Falguni Tailor,zachariahjanaki@example.net,8490581045,Mumbai,60,Female,2023-09-01,Organic
+CUST01864,Lekha Nori,chokshijasmit@example.net,06895146183,Ahmedabad,57,Female,2023-11-03,Influencer
+CUST01865,Timothy Bir,xvora@example.net,1966221612,Mumbai,31,Other,2022-05-13,Friend Referral
+CUST01866,Timothy Menon,chamanaggarwal@example.org,6617063492,Pune,21,Other,2022-11-27,Influencer
+CUST01867,Vamakshi Johal,uradhakrishnan@example.net,+916084190201,Kolkata,23,Female,2023-01-26,Social Media
+CUST01868,Xalak Virk,arjun61@example.com,4831028095,Pune,43,Male,2022-09-03,Social Media
+CUST01869,Chanchal Narayan,chakrabartihemani@example.com,+915198776759,Kolkata,42,Female,2022-06-16,Social Media
+CUST01870,Harsh Kapur,kundaveda@example.net,06158241470,Ahmedabad,37,Female,2022-05-04,Friend Referral
+CUST01871,Abha Lala,bahridominic@example.org,+919399400367,Delhi,56,Female,2023-12-03,Organic
+CUST01872,Jasmit Swaminathan,xpalla@example.net,4815695693,Jaipur,41,Male,2024-05-02,Ad Campaign
+CUST01873,Rajata Pau,theodore54@example.org,1196568878,Ahmedabad,42,Female,2023-04-02,Influencer
+CUST01874,Oscar Butala,ishaan43@example.net,3536540420,Pune,45,Female,2023-09-07,Friend Referral
+CUST01875,Warjas Parmar,benjamin31@example.net,+915021676673,Kolkata,29,Other,2023-09-21,Ad Campaign
+CUST01876,Raghav Puri,ekavirnath@example.org,5256029146,Jaipur,20,Female,2022-04-06,Ad Campaign
+CUST01877,Ekiya Mistry,aryaprashad@example.net,+910486034437,Delhi,32,Female,2023-11-24,Influencer
+CUST01878,Dayita Pradhan,palanaadi@example.com,01041545348,Jaipur,59,Male,2023-10-07,Friend Referral
+CUST01879,Orinder Saini,girish41@example.com,05258124616,Pune,45,Female,2023-04-25,Friend Referral
+CUST01880,Abdul Ramanathan,ikarnik@example.com,6855341198,Hyderabad,26,Male,2022-06-02,Influencer
+CUST01881,Theodore Krishnamurthy,manesamesh@example.org,+916001486223,Lucknow,36,Male,2023-03-14,Influencer
+CUST01882,Bina Dhawan,bahadurjitzachariah@example.org,+911224530187,Jaipur,20,Male,2022-03-20,Influencer
+CUST01883,Jasmit Bhasin,radhakrishnanbhavini@example.org,+910431263883,Pune,44,Female,2023-03-12,Influencer
+CUST01884,Thomas Gala,solankigayathri@example.net,+915060869370,Chennai,34,Female,2024-04-12,Influencer
+CUST01885,Fiyaz Tak,jeet88@example.org,3522303883,Mumbai,50,Male,2022-03-25,Ad Campaign
+CUST01886,Vedant Mane,sanayathaman@example.com,1502774062,Kolkata,29,Male,2022-07-03,Organic
+CUST01887,Wazir Mann,lchana@example.com,04748342470,Chennai,37,Other,2023-03-03,Ad Campaign
+CUST01888,Tripti Varghese,yutika87@example.net,05826129524,Ahmedabad,60,Other,2024-02-15,Friend Referral
+CUST01889,Parth Warrior,riyaseth@example.net,03533854597,Bangalore,29,Male,2022-12-16,Organic
+CUST01890,Rachita Kalita,gayathrikata@example.net,03498253169,Hyderabad,56,Other,2024-02-04,Organic
+CUST01891,Atharv Varkey,bakhshi03@example.org,7877842565,Mumbai,52,Male,2023-03-21,Ad Campaign
+CUST01892,Ijaya Vig,andrew93@example.org,+913115159557,Delhi,18,Other,2022-04-30,Ad Campaign
+CUST01893,Nakul Kannan,bhatiadipta@example.com,+913321600263,Lucknow,43,Other,2023-04-17,Ad Campaign
+CUST01894,Chaman Rattan,krishna31@example.net,9466300636,Lucknow,57,Female,2022-11-07,Ad Campaign
+CUST01895,Wriddhish Sahni,miteshaggarwal@example.com,06715633801,Pune,37,Male,2024-04-03,Social Media
+CUST01896,Hiral Joshi,lmall@example.org,0058065745,Pune,30,Male,2022-01-15,Social Media
+CUST01897,Yauvani Mahal,mekhala86@example.org,+914157094437,Bangalore,19,Female,2024-05-29,Social Media
+CUST01898,Gavin Pai,lipika92@example.net,07727434599,Kolkata,33,Other,2023-10-28,Influencer
+CUST01899,Bahadurjit Prashad,ubikakeer@example.net,09819469285,Hyderabad,23,Female,2022-07-15,Social Media
+CUST01900,Jackson Nair,shivaniprabhakar@example.net,01893757615,Mumbai,45,Male,2023-05-01,Social Media
+CUST01901,Gautam Mallick,kamala43@example.com,07461657925,Ahmedabad,46,Female,2022-06-06,Organic
+CUST01902,Chatresh Trivedi,ekanshpai@example.org,+915664363127,Lucknow,46,Male,2024-05-30,Social Media
+CUST01903,Lucky Ram,ybhakta@example.com,1351981463,Kolkata,54,Male,2022-10-29,Friend Referral
+CUST01904,Kashvi Johal,lakshdalal@example.com,00343690845,Kolkata,24,Female,2022-01-09,Ad Campaign
+CUST01905,Jackson Choudhry,faqid93@example.com,1120587788,Lucknow,55,Other,2024-01-25,Influencer
+CUST01906,Ryan Sha,samarth55@example.net,01089562036,Ahmedabad,20,Female,2022-10-25,Ad Campaign
+CUST01907,Vasudha Bahl,mandchakradhar@example.com,01370503378,Lucknow,55,Other,2023-06-10,Ad Campaign
+CUST01908,Zansi Rajagopal,vaidyaurvashi@example.net,8924645900,Jaipur,21,Male,2022-08-26,Ad Campaign
+CUST01909,Pratyush Prakash,charkritika@example.net,+916873058250,Jaipur,38,Male,2023-08-14,Friend Referral
+CUST01910,Tejas Pal,psankar@example.com,03105251028,Ahmedabad,44,Male,2023-10-26,Ad Campaign
+CUST01911,Gunbir Jhaveri,pantshravya@example.net,8236070906,Chennai,59,Female,2023-09-30,Ad Campaign
+CUST01912,Udant Solanki,xmallick@example.org,+910267910181,Hyderabad,28,Other,2022-01-22,Social Media
+CUST01913,Ekiya Parsa,vlad@example.net,6035916530,Ahmedabad,40,Male,2023-04-26,Influencer
+CUST01914,Zayan Raja,vidhikrishnamurthy@example.org,+915143507503,Chennai,55,Other,2022-08-13,Ad Campaign
+CUST01915,Falak Krishnamurthy,dvyas@example.org,+911466681359,Kolkata,36,Female,2022-05-15,Friend Referral
+CUST01916,Reyansh Balan,krishnaadweta@example.net,3498005638,Delhi,48,Other,2024-03-26,Social Media
+CUST01917,Anamika Ahluwalia,davidarora@example.com,+915774477542,Ahmedabad,23,Male,2022-10-17,Social Media
+CUST01918,Saanvi Dani,zansi82@example.com,2811747114,Lucknow,28,Female,2022-07-24,Organic
+CUST01919,Meera Ahuja,mastergauri@example.com,1734554108,Ahmedabad,44,Female,2024-03-23,Social Media
+CUST01920,Chasmum Buch,hpuri@example.net,+911293409572,Mumbai,53,Male,2022-08-03,Friend Referral
+CUST01921,Tripti Pal,sampathpranit@example.com,03159025652,Chennai,34,Other,2024-06-21,Social Media
+CUST01922,Shivansh Sastry,guptachakradev@example.net,09893802272,Mumbai,50,Male,2022-06-28,Friend Referral
+CUST01923,Neel Yohannan,palanmanya@example.org,5080438774,Lucknow,25,Male,2023-03-17,Organic
+CUST01924,Harini Badami,pallavi59@example.net,0657871496,Ahmedabad,32,Female,2023-07-30,Friend Referral
+CUST01925,Ekta Dubey,alexanderbora@example.net,06903166807,Mumbai,40,Other,2024-03-14,Friend Referral
+CUST01926,Gaurika Bhatia,mohinirattan@example.org,+916705109445,Lucknow,50,Other,2022-06-04,Organic
+CUST01927,Ijaya Parmer,ladnakul@example.org,+919115509364,Ahmedabad,21,Female,2023-12-25,Organic
+CUST01928,Wyatt Sarkar,lsanghvi@example.org,+914818468620,Lucknow,57,Male,2022-04-19,Influencer
+CUST01929,Yadavi Menon,traj@example.net,5281720878,Pune,50,Male,2022-02-12,Organic
+CUST01930,Ishani Sanghvi,rajuyashasvi@example.org,09660146819,Chennai,31,Male,2024-06-10,Friend Referral
+CUST01931,Oscar Kale,jhalak13@example.com,09338697284,Jaipur,46,Female,2023-12-27,Organic
+CUST01932,Lucky Jain,kakarbhavya@example.org,02169235581,Chennai,59,Female,2022-06-07,Social Media
+CUST01933,Aryan Balasubramanian,tarasubramanian@example.com,+918878259180,Ahmedabad,30,Female,2022-05-06,Organic
+CUST01934,Jason Padmanabhan,chanaranbir@example.com,+917135279504,Chennai,48,Female,2022-09-09,Influencer
+CUST01935,Chandran Patla,amolmore@example.org,03702230918,Hyderabad,23,Female,2022-06-25,Ad Campaign
+CUST01936,Chandani Sethi,karanhritik@example.com,05462874605,Bangalore,58,Male,2023-01-05,Influencer
+CUST01937,Anita Walia,rayrobert@example.org,2942633221,Delhi,32,Female,2023-03-08,Ad Campaign
+CUST01938,Meera Kaur,amruta74@example.org,1248550605,Jaipur,47,Other,2023-02-24,Friend Referral
+CUST01939,Ekantika Nadig,hemang80@example.org,5345065943,Delhi,46,Male,2022-01-31,Influencer
+CUST01940,Zayyan Taneja,devifarhan@example.com,+917004588289,Chennai,23,Female,2022-03-13,Ad Campaign
+CUST01941,Madhav Kale,vdugal@example.net,3051947535,Kolkata,28,Male,2024-03-01,Ad Campaign
+CUST01942,Libni Sem,vrau@example.org,0568259760,Delhi,20,Other,2024-02-17,Organic
+CUST01943,Divya Bobal,maanavpandya@example.com,1382882816,Jaipur,60,Female,2023-10-09,Ad Campaign
+CUST01944,Farhan Sarin,fsarma@example.net,+916412139984,Hyderabad,53,Other,2023-02-16,Friend Referral
+CUST01945,Ryan Choudhary,isur@example.com,07592987636,Hyderabad,18,Other,2022-12-19,Influencer
+CUST01946,Vansha Vaidya,nigamvinaya@example.com,04315487228,Ahmedabad,43,Other,2022-05-31,Social Media
+CUST01947,Raagini Chandra,jagat08@example.org,+915433717745,Lucknow,52,Other,2024-06-27,Ad Campaign
+CUST01948,Lekha Mannan,kuruvillaanita@example.net,03244965403,Kolkata,40,Male,2023-12-16,Friend Referral
+CUST01949,Anika Raja,sandhubhanumati@example.com,6696139779,Jaipur,20,Female,2022-03-28,Ad Campaign
+CUST01950,Amruta Jain,gmanda@example.net,+914011164490,Jaipur,26,Other,2024-01-13,Friend Referral
+CUST01951,Gaurangi Mann,arjunsangha@example.com,06343051827,Jaipur,23,Other,2022-08-07,Friend Referral
+CUST01952,Liam Mann,behlyamini@example.com,01241933683,Delhi,39,Male,2023-06-18,Organic
+CUST01953,Wishi Andra,nramaswamy@example.net,3154036638,Lucknow,52,Female,2024-06-30,Social Media
+CUST01954,Ekani Srivastava,eshana88@example.com,5401754569,Kolkata,37,Other,2024-05-02,Organic
+CUST01955,Vansha Yohannan,tamanna50@example.org,+912967715766,Chennai,21,Female,2024-01-20,Influencer
+CUST01956,Dhruv Shanker,george64@example.net,+918218764234,Mumbai,25,Other,2022-12-29,Organic
+CUST01957,Simon Divan,lohitbains@example.com,+915830180907,Lucknow,37,Other,2023-04-05,Organic
+CUST01958,Edhitha Vyas,wganesh@example.net,9974486828,Bangalore,39,Other,2023-04-10,Influencer
+CUST01959,Nachiket Ghosh,triveni85@example.org,01004407692,Jaipur,58,Other,2023-08-03,Social Media
+CUST01960,Samesh Krishna,pranitchar@example.net,7942508459,Hyderabad,37,Other,2022-12-25,Influencer
+CUST01961,Chakradhar Narasimhan,npathak@example.org,6187859432,Kolkata,26,Other,2023-11-20,Social Media
+CUST01962,Nirja Purohit,daradiya@example.com,5400977503,Jaipur,38,Other,2022-04-18,Social Media
+CUST01963,Urvi Tella,qtripathi@example.org,0830683035,Ahmedabad,41,Male,2024-04-22,Social Media
+CUST01964,Urvi Vohra,vmohanty@example.org,8454192900,Kolkata,45,Male,2023-12-30,Organic
+CUST01965,Meghana Garg,senguptaeiravati@example.com,+915371004013,Delhi,45,Female,2022-03-05,Social Media
+CUST01966,Reyansh Kota,sastrykevin@example.com,+918581950330,Chennai,22,Other,2023-04-02,Influencer
+CUST01967,Vedant Dhillon,dhingrafrado@example.net,+910000363660,Jaipur,55,Other,2023-02-17,Ad Campaign
+CUST01968,Zayyan Dyal,aadigandhi@example.com,+914677409815,Lucknow,34,Female,2024-06-11,Ad Campaign
+CUST01969,Chasmum Ben,lajitapai@example.com,02604525404,Kolkata,49,Male,2023-03-27,Social Media
+CUST01970,Frederick Narasimhan,wriddhishthakur@example.com,04771004203,Ahmedabad,26,Other,2023-06-02,Ad Campaign
+CUST01971,Ucchal Warrior,omajaraju@example.com,03242422738,Jaipur,50,Male,2022-05-13,Social Media
+CUST01972,Rishi Gala,uppalomya@example.com,+912698963060,Mumbai,48,Other,2023-04-12,Social Media
+CUST01973,Chakradhar Saxena,danielmuni@example.net,04114695063,Pune,41,Other,2023-07-27,Ad Campaign
+CUST01974,Samarth Ramaswamy,nimrat07@example.org,6715363004,Chennai,25,Other,2022-04-23,Friend Referral
+CUST01975,David Chatterjee,ygrewal@example.org,2827901846,Delhi,51,Male,2022-02-11,Friend Referral
+CUST01976,Abdul Parmar,hiteshsarna@example.com,+916927119693,Hyderabad,41,Female,2022-11-09,Ad Campaign
+CUST01977,Meera Sha,obhatia@example.com,06382586122,Delhi,27,Other,2022-01-29,Ad Campaign
+CUST01978,Harrison Bobal,sachi53@example.org,+917119616857,Hyderabad,37,Male,2022-02-19,Social Media
+CUST01979,Manthan Nori,ekantika26@example.org,+911523100735,Mumbai,49,Male,2024-04-18,Influencer
+CUST01980,Adweta Dara,gvenkatesh@example.net,3824616078,Mumbai,22,Female,2022-12-24,Ad Campaign
+CUST01981,Azaan Walia,bgade@example.org,+911799734916,Lucknow,37,Female,2023-08-10,Friend Referral
+CUST01982,Indali Divan,haritapurohit@example.com,+914311861191,Ahmedabad,42,Other,2024-03-11,Influencer
+CUST01983,Chakrika Kaur,chakradhar41@example.com,+915501875042,Jaipur,26,Other,2022-05-16,Ad Campaign
+CUST01984,Chatura Raman,omsheth@example.net,01636315990,Ahmedabad,46,Male,2024-02-19,Friend Referral
+CUST01985,Zaid Chatterjee,amenon@example.net,+910944153193,Lucknow,57,Female,2022-04-02,Ad Campaign
+CUST01986,Charita Bala,manbirmahal@example.org,07557853337,Chennai,43,Other,2022-08-27,Organic
+CUST01987,Ojasvi Talwar,benvamakshi@example.com,6482160157,Hyderabad,46,Other,2023-11-18,Organic
+CUST01988,Kalpit Ramachandran,pbaria@example.com,+916902005634,Mumbai,28,Other,2024-06-05,Friend Referral
+CUST01989,Hardik Rajagopalan,samesh03@example.net,+912687751061,Pune,59,Other,2023-07-29,Influencer
+CUST01990,Kabir Sampath,taraveda@example.net,5766885200,Lucknow,30,Other,2022-03-29,Influencer
+CUST01991,Akshay Sule,siyamaster@example.com,3243205010,Lucknow,21,Other,2024-02-15,Social Media
+CUST01992,Harini Golla,kghose@example.net,1064872470,Jaipur,48,Male,2024-02-08,Organic
+CUST01993,Eta Batta,dakshaloyal@example.org,5307018798,Delhi,52,Male,2023-11-06,Friend Referral
+CUST01994,Yachana Agarwal,chanatheodore@example.net,8557591899,Bangalore,31,Other,2024-03-16,Influencer
+CUST01995,Baljiwan Dara,krisha39@example.org,7880519095,Jaipur,23,Other,2023-03-31,Friend Referral
+CUST01996,Mohammed Ray,qadim46@example.net,07372743356,Mumbai,55,Female,2023-02-16,Organic
+CUST01997,Vedika Sharaf,zarna98@example.net,3001915516,Delhi,45,Female,2022-12-15,Organic
+CUST01998,Libni Varma,bhattichandran@example.org,0324771589,Chennai,51,Female,2024-05-30,Friend Referral
+CUST01999,Samuel Mukhopadhyay,shuklaabha@example.org,04940616568,Pune,25,Other,2022-04-04,Social Media
+CUST02000,Anya Mahal,wmittal@example.net,01090941641,Delhi,27,Female,2022-10-20,Organic
